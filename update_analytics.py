@@ -141,7 +141,7 @@ def main():
     
     try:
       key_dict = json.load(open(key_file_location))
-    except: pass
+    except: 
       key_dict = json.loads(os.environ['GA_SERVICE'])
 
     

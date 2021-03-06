@@ -137,15 +137,20 @@ def main():
     # Define the auth scopes to request.
     scope = 'https://www.googleapis.com/auth/analytics.readonly'
     key_file_location = 'client_secrets.json'
-    key_dict = json.loads(os.environ['GA_SERVICE'])
+    
+    
+    try:
+      key_dict = json.load(open(key_file_location))
+    except: pass
+      key_dict = json.loads(os.environ['GA_SERVICE'])
 
-
+    
     # Authenticate and construct service.
     service = get_service(
             api_name='analytics',
             api_version='v3',
             scopes=[scope],
-            key_file_location=key_file_location)
+            key_dict=key_dict)
 
     profile_id = get_first_profile_id(service)
     R = get_results(service, profile_id)

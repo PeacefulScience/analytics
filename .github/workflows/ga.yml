@@ -1,0 +1,24 @@
+name: Update Google Analytics
+
+on: 
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '5 */6 * * *'
+    
+job:
+  update:
+    runs-on: ubuntu-latest
+    container:
+      image: swamidass/google-analytics
+    env: # Or as an environment variable
+      GA_SERVICE: ${{ secrets.GA_SERVICE }}
+    steps:
+      - name: Checkout
+      - uses: actions/checkout@v2
+      - run: |
+        python3 update_analytics.py
+        git add *.json
+        git commit -m "automated updated by github workflow"
+        git push

@@ -12,13 +12,17 @@ job:
     runs-on: ubuntu-latest
     container:
       image: swamidass/google-analytics
-    env: # Or as an environment variable
-      GA_SERVICE: ${{ secrets.GA_SERVICE }}
+
     steps:
       - name: Checkout
       - uses: actions/checkout@v2
+      
+      - name: Update
       - run: |
-        python3 update_analytics.py
-        git add mostread.json trending.json
-        git commit -m "automated updated by github workflow"
-        git push
+          python3 update_analytics.py 
+          git add mostread.json trending.json 
+          git commit -m "automated updated by github workflow"
+          git push
+        env: 
+          GA_SERVICE: ${{ secrets.GA_SERVICE }}  
+      

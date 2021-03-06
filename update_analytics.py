@@ -7,61 +7,19 @@ import numpy as np
 import os
 
 def get_service(api_name, api_version, scopes, key_dict):
-    """Get a service that communicates to a Google API.
-
-    Args:
-        api_name: The name of the api to connect to.
-        api_version: The api version to connect to.
-        scopes: A list auth scopes to authorize for the application.
-        key_file_location: The path to a valid service account JSON key file.
-
-    Returns:
-        A service that is connected to the specified API.
-    """
-
     credentials = ServiceAccountCredentials.from_json_keyfile_dict(
             key_dict, scopes=scopes)
 
-    # Build the service object.
     service = build(api_name, api_version, credentials=credentials)
 
     return service
 
 
 def get_first_profile_id(service):
-    # Use the Analytics service object to get the first profile id.
-
-    # Get a list of all Google Analytics accounts for this user
-    accounts = service.management().accounts().list().execute()
-
-    if accounts.get('items'):
-        # Get the first Google Analytics account.
-        account = accounts.get('items')[0].get('id')
-
-        # Get a list of all the properties for the first account.
-        properties = service.management().webproperties().list(
-                accountId=account).execute()
-
-        if properties.get('items'):
-            # Get the first property id.
-            property = properties.get('items')[0].get('id')
-
-            # Get a list of all views (profiles) for the first property.
-            profiles = service.management().profiles().list(
-                    accountId=account,
-                    webPropertyId=property).execute()
-
-            if profiles.get('items'):
-                # return the first view (profile) id.
-                return profiles.get('items')[0].get('id')
-
-    return None
+    return '125738398' 
 
 
 def get_results(service, profile_id):
-    # Use the Analytics Service Object to query the Core Reporting API
-    # for the number of sessions within the past seven days.
-    
     params = {
       "ids":'ga:' + profile_id,
       "start_date": '7daysAgo',
@@ -71,7 +29,7 @@ def get_results(service, profile_id):
       "metrics":'ga:pageviews,ga:sessions',
       "sort": "ga:pagePath"
     }
-    
+
     R1 = get_all_rows(service, params)
     
     params["start_date"] = '2015-01-01'
@@ -101,12 +59,32 @@ def get_all_rows(service, params):
 import itertools
 import functools
 
+
+_redirects = {}
+
+def load_redirects():
+  for line in open("_redirects"):
+    line = line.split()
+    if len(line) == 2:
+      u0 = normalize_url(line[0])
+      u1 = normalize_url(line[1])
+      _redirects[u0] = u1
+
+
+def normalize_url(url):
+  p = url.split("?")[0]
+  p = p.split()[0]
+  p = p.rstrip("/")
+  p = _redirects.get(p, p)
+
+  return p
+
+load_redirects()
+
 def clean_up_table(rows):
   R = []
   for r in rows:
-    p = r[0].split("?")[0]
-    p = p.split(" ")[0]
-    p = p.rstrip("/")
+    p = normalize_url(r[0])
     if not p: continue
     
     R.append((p, np.array([int(x) for x in r[1:]])))

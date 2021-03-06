@@ -20,6 +20,8 @@ jobs:
       - name: Update
         run: |
           python3 update_analytics.py 
+          git config --global user.email "no-reply@peacefulscience.org"
+          git config --global user.name "GitHub Action"          
           git add mostread.json trending.json 
           git commit -m "automated updated by github workflow"
           git push

@@ -19,6 +19,6 @@ job:
       - uses: actions/checkout@v2
       - run: |
         python3 update_analytics.py
-        git add *.json
+        git add mostread.json trending.json
         git commit -m "automated updated by github workflow"
         git push

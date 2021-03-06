@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron:  '5 */8 * * *'
+    - cron:  '5 */24 * * *'
     
 jobs:
   update:

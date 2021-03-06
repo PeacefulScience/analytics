@@ -15,10 +15,10 @@ jobs:
 
     steps:
       - name: Checkout
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2
       
       - name: Update
-      - run: |
+        run: |
           python3 update_analytics.py 
           git add mostread.json trending.json 
           git commit -m "automated updated by github workflow"

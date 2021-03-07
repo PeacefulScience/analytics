@@ -1,11 +1,8 @@
 name: Update Google Analytics
 
 on: 
-  push:
-    branches:
-      - master
   schedule:
-    - cron:  '5 */24 * * *'
+    - cron:  '5 0 * * *'
     
 jobs:
   update:
@@ -23,7 +20,7 @@ jobs:
           git config --global user.email "no-reply@peacefulscience.org"
           git config --global user.name "GitHub Action"          
           git add mostread.json trending.json 
-          git commit -m "automated updated by github workflow"
+          git commit -m "Updated by github workflow"
           git push
         env: 
           GA_SERVICE: ${{ secrets.GA_SERVICE }}  

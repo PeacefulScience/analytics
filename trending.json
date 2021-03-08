@@ -1,123 +1,108 @@
 [
  [
   "/articles/why-i-went-public-evolution",
-  1122,
-  920
+  980,
+  798
  ],
  [
   "/articles/defense-tim-keller",
-  891,
-  707
+  756,
+  600
  ],
  [
   "/articles/wlc-genetic-challenge",
-  842,
-  775
+  729,
+  679
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  647,
-  572
+  626,
+  548
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  610,
-  540
+  560,
+  490
  ],
  [
   "/articles/why-we-talk-about-race",
-  164,
-  127
+  143,
+  112
  ],
  [
   "/videos/rtb-thinking-about-evolution",
-  142,
-  124
- ],
- [
-  "/forum",
-  117,
-  18
+  102,
+  88
  ],
  [
   "/wlc-responds-ham",
-  105,
-  73
+  99,
+  69
+ ],
+ [
+  "/forum",
+  92,
+  14
  ],
  [
   "/videos/heiser-sacred-natural",
-  84,
-  68
+  76,
+  63
  ],
  [
   "/category/article",
-  67,
-  6
- ],
- [
-  "/author/swamidass",
-  56,
-  31
+  60,
+  4
  ],
  [
   "/articles/mission-and-values",
-  52,
-  6
+  50,
+  7
+ ],
+ [
+  "/author/swamidass",
+  49,
+  28
  ],
  [
   "/genealogical-adam-eve",
-  47,
-  19
+  43,
+  17
  ],
  [
   "/tag/confession",
-  42,
-  8
+  41,
+  7
  ],
  [
   "/science-civil-rights-and-the-doll-test",
-  36,
-  23
+  33,
+  22
  ],
  [
   "/tag/adam-eve",
-  28,
+  26,
   1
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  26,
+  24,
   6
  ],
  [
   "/imagination-game-aaas",
-  25,
+  24,
   6
- ],
- [
-  "/articles/glenn-morton",
-  23,
-  13
- ],
- [
-  "/articles/gregg-davidson-resurrection-dawkins",
-  22,
-  12
- ],
- [
-  "/videos/quayshawn-spencer-race",
-  22,
-  20
- ],
- [
-  "/articles/godawa-midrash",
-  21,
-  16
  ],
  [
   "/articles/going-public-wsj",
   21,
-  3
+  4
+ ],
+ [
+  "/videos/quayshawn-spencer-race",
+  21,
+  19
  ],
  [
   "/articles/genealogical-rapprochement",
@@ -125,54 +110,54 @@
   11
  ],
  [
-  "/tag/gae",
+  "/articles/glenn-morton",
   20,
+  11
+ ],
+ [
+  "/articles/gregg-davidson-resurrection-dawkins",
+  20,
+  10
+ ],
+ [
+  "/tag/gae",
+  19,
   0
  ],
  [
+  "/articles/godawa-midrash",
+  16,
+  13
+ ],
+ [
   "/tag/science",
-  18,
+  16,
   0
  ],
  [
   "/articles/garvey-theology-garden",
-  17,
+  15,
+  5
+ ],
+ [
+  "/tag/evolution",
+  15,
   6
  ],
  [
   "/tag/society",
-  17,
-  1
- ],
- [
-  "/tag/evolution",
-  16,
-  6
- ],
- [
-  "/tag/resurrection",
-  16,
+  15,
   1
  ],
  [
   "/articles/response-to-madueme-scripture",
-  14,
-  5
+  12,
+  3
  ],
  [
   "/download/craig-mere-theistic-evolution",
-  13,
-  8
- ],
- [
-  "/muotri-neanderthal",
-  13,
-  5
- ],
- [
-  "/articles/fair-hearing-behe",
-  11,
-  9
+  12,
+  7
  ],
  [
   "/articles/humans-rendered-apart",
@@ -180,19 +165,29 @@
   1
  ],
  [
-  "/articles/paumore-musings-on-killmitzer",
-  10,
-  9
+  "/tag/resurrection",
+  11,
+  1
  ],
  [
-  "/articles/human-origins-rtb-workshop",
+  "/articles/fair-hearing-behe",
+  10,
+  8
+ ],
+ [
+  "/articles/paumore-musings-on-killmitzer",
   9,
-  1
+  8
  ],
  [
   "/articles/three-stories-on-adam",
   9,
-  4
+  5
+ ],
+ [
+  "/muotri-neanderthal",
+  9,
+  3
  ],
  [
   "/articles/scientist-woman-picture",
@@ -210,11 +205,6 @@
   1
  ],
  [
-  "/videos/tour-friendship-across-disagreements",
-  8,
-  5
- ],
- [
   "/articles/100-year-old-tree",
   7,
   5
@@ -230,6 +220,11 @@
   5
  ],
  [
+  "/articles/human-origins-rtb-workshop",
+  7,
+  0
+ ],
+ [
   "/articles/stephen-matheson-humanists-invitation",
   7,
   0
@@ -237,12 +232,7 @@
  [
   "/articles/sy-garte-resurrection",
   7,
-  7
- ],
- [
-  "/author/wlc",
-  7,
-  2
+  6
  ],
  [
   "/articles/the-axiom-of-belief",
@@ -250,9 +240,9 @@
   4
  ],
  [
-  "/articles/correction-policy",
-  5,
-  1
+  "/videos/tour-friendship-across-disagreements",
+  6,
+  4
  ],
  [
   "/articles/evidence-and-evolution",
@@ -260,22 +250,12 @@
   4
  ],
  [
-  "/articles/more-than-apes",
+  "/articles/time-comes",
   5,
-  4
- ],
- [
-  "/author/kristel",
-  5,
-  0
+  3
  ],
  [
   "/author/swamidass/page/2",
-  5,
-  1
- ],
- [
-  "/download/excerpt-genealogical-adam-eve",
   5,
   1
  ],
@@ -285,24 +265,19 @@
   1
  ],
  [
-  "/articles/bryan-butler-image-of-god",
-  4,
-  1
- ],
- [
   "/articles/coronavirus-beauty",
   4,
   0
  ],
  [
-  "/articles/ortlund-hills",
+  "/articles/correction-policy",
   4,
-  4
+  1
  ],
  [
-  "/articles/time-comes",
+  "/articles/more-than-apes",
   4,
-  2
+  3
  ],
  [
   "/articles/wsj-ai-evangelicals",
@@ -310,19 +285,19 @@
   0
  ],
  [
-  "/category/blog",
+  "/author/kristel",
   4,
-  4
+  0
  ],
  [
-  "/articles/andy-walsh-the-resurrection",
-  3,
+  "/download/excerpt-genealogical-adam-eve",
+  4,
   1
  ],
  [
-  "/articles/covid-19-created-designed",
+  "/articles/bryan-butler-image-of-god",
   3,
-  3
+  1
  ],
  [
   "/articles/definition-race",
@@ -340,7 +315,22 @@
   0
  ],
  [
+  "/articles/tour-pascal",
+  3,
+  2
+ ],
+ [
   "/articles/wrong-on-monophyletic",
+  3,
+  3
+ ],
+ [
+  "/author/wlc",
+  3,
+  1
+ ],
+ [
+  "/category/blog",
   3,
   3
  ],
@@ -365,9 +355,9 @@
   1
  ],
  [
-  "/videos/miller-textbook-dover",
-  3,
-  2
+  "/articles/andy-walsh-the-resurrection",
+  2,
+  1
  ],
  [
   "/articles/changing-faces",
@@ -385,9 +375,9 @@
   2
  ],
  [
-  "/articles/isolation-tasmania",
+  "/articles/covid-19-created-designed",
   2,
-  1
+  2
  ],
  [
   "/articles/kenneth-kemp-war",
@@ -400,19 +390,14 @@
   0
  ],
  [
-  "/articles/methodological-naturalism",
-  2,
-  2
- ],
- [
   "/articles/ortlund-augustine",
   2,
   2
  ],
  [
-  "/articles/tour-pascal",
+  "/articles/ortlund-hills",
   2,
-  1
+  2
  ],
  [
   "/is-jesus-greater.pdf",
@@ -425,12 +410,7 @@
   1
  ],
  [
-  "/videos/barbara-forrest-trojan-horse-at-dover",
-  2,
-  1
- ],
- [
-  "/videos/dover-behe",
+  "/videos/miller-textbook-dover",
   2,
   2
  ],
@@ -490,17 +470,12 @@
   1
  ],
  [
-  "/articles/humility-of-our-scholars",
-  1,
-  0
- ],
- [
-  "/articles/implicated-vs-incidental",
+  "/articles/inquiry-into-common-ground",
   1,
   1
  ],
  [
-  "/articles/inquiry-into-common-ground",
+  "/articles/isolation-tasmania",
   1,
   1
  ],
@@ -508,6 +483,11 @@
   "/articles/lents-in-usa-today",
   1,
   0
+ ],
+ [
+  "/articles/methodological-naturalism",
+  1,
+  1
  ],
  [
   "/articles/narnians-martians-neanderthals",
@@ -536,11 +516,6 @@
  ],
  [
   "/author/gmorton",
-  1,
-  0
- ],
- [
-  "/author/gortlund",
   1,
   0
  ],
@@ -580,16 +555,6 @@
   1
  ],
  [
-  "/tag/adam-eve/page/2",
-  1,
-  0
- ],
- [
-  "/tag/adam-eve/page/3",
-  1,
-  0
- ],
- [
   "/tag/confession/page/2",
   1,
   0
@@ -598,6 +563,16 @@
   "/tag/forum",
   1,
   0
+ ],
+ [
+  "/videos/barbara-forrest-trojan-horse-at-dover",
+  1,
+  0
+ ],
+ [
+  "/videos/dover-behe",
+  1,
+  1
  ],
  [
   "/videos/ecklund-science-faith",

@@ -1,108 +1,113 @@
 [
  [
   "/articles/why-we-talk-about-race",
-  10692,
-  8962
+  10716,
+  8979
  ],
  [
   "/forum",
-  9683,
-  1939
+  9704,
+  1942
  ],
  [
   "/articles/wlc-genetic-challenge",
-  6111,
-  4870
+  6240,
+  4984
  ],
  [
   "/articles/why-i-went-public-evolution",
-  5932,
-  4624
+  6060,
+  4729
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  5861,
-  4894
+  5987,
+  5005
  ],
  [
   "/articles/defense-tim-keller",
-  5754,
-  4376
+  5893,
+  4493
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  4367,
-  3558
+  4549,
+  3711
  ],
  [
   "/genealogical-adam-eve",
-  3916,
-  1645
+  3932,
+  1646
  ],
  [
   "/blog",
-  2764,
-  314
+  2757,
+  312
  ],
  [
   "/category/article",
-  2154,
-  1284
+  2176,
+  1289
  ],
  [
   "/author/swamidass",
-  2120,
-  1323
+  2116,
+  1319
  ],
  [
   "/articles/gregg-davidson-resurrection-dawkins",
-  2066,
+  2067,
   1551
  ],
  [
   "/articles/genealogical-rapprochement",
-  2038,
-  1112
+  2040,
+  1113
  ],
  [
   "/articles/agree-behe",
-  1660,
-  886
+  1667,
+  889
  ],
  [
   "/about",
-  1491,
-  383
+  1486,
+  381
  ],
  [
   "/articles/mission-and-values",
-  1370,
-  309
+  1381,
+  312
  ],
  [
   "/articles/three-stories-on-adam",
-  1290,
-  584
+  1307,
+  592
  ],
  [
   "/videos/heiser-sacred-natural",
-  1284,
-  904
+  1306,
+  923
  ],
  [
   "/videos/rtb-thinking-about-evolution",
-  1143,
-  912
+  1150,
+  915
  ],
  [
   "/articles/glenn-morton",
-  1064,
-  704
+  1070,
+  706
  ],
  [
   "/articles/100-year-old-tree",
-  984,
+  985,
   619
+ ],
+ [
+  "/download/craig-mere-theistic-evolution",
+  955,
+  810
  ],
  [
   "/articles/garden-path",
@@ -110,154 +115,144 @@
   669
  ],
  [
-  "/download/craig-mere-theistic-evolution",
-  953,
-  809
- ],
- [
   "/articles/garvey-theology-garden",
-  948,
-  445
+  950,
+  448
  ],
  [
   "/articles/covid-19-created-designed",
-  942,
+  943,
   605
  ],
  [
   "/articles/fair-hearing-behe",
-  881,
-  382
+  886,
+  385
  ],
  [
   "/articles/godawa-midrash",
-  878,
+  880,
   610
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  852,
-  468
+  858,
+  469
  ],
  [
   "/articles/sy-garte-resurrection",
-  845,
-  569
+  848,
+  568
  ],
  [
   "/articles/human-origins-rtb-workshop",
-  836,
+  837,
   405
  ],
  [
   "/articles/response-to-madueme-scripture",
-  790,
-  423
+  792,
+  424
  ],
  [
   "/articles/evidence-and-evolution",
-  774,
-  298
+  773,
+  296
  ],
  [
   "/download/excerpt-genealogical-adam-eve",
-  662,
-  367
+  663,
+  366
  ],
  [
   "/articles/ortlund-hills",
-  644,
-  462
- ],
- [
-  "/videos/quayshawn-spencer-race",
-  618,
-  390
- ],
- [
-  "/wlc-responds-ham",
-  617,
-  408
+  647,
+  464
  ],
  [
   "/my-response-to-the-asas-apology",
-  613,
-  434
+  645,
+  452
+ ],
+ [
+  "/wlc-responds-ham",
+  640,
+  424
+ ],
+ [
+  "/videos/quayshawn-spencer-race",
+  620,
+  391
  ],
  [
   "/videos/dover-behe",
-  598,
-  435
+  605,
+  436
  ],
  [
   "/articles/andy-walsh-the-resurrection",
-  585,
-  288
+  586,
+  289
  ],
  [
   "/articles/confessing-scientist",
-  583,
-  229
+  580,
+  227
  ],
  [
   "/articles/methodological-naturalism",
   580,
-  382
+  381
  ],
  [
   "/articles/wrong-on-monophyletic",
   554,
-  349
+  350
  ],
  [
   "/articles/greg-cootsona-intelligent-design",
-  546,
-  332
+  550,
+  334
  ],
  [
   "/articles/narnians-martians-neanderthals",
-  519,
+  520,
   195
  ],
  [
   "/articles/garvey-generations",
-  489,
+  490,
   206
  ],
  [
   "/articles/age-rubios-earth",
-  482,
+  483,
   289
  ],
  [
   "/articles/more-than-apes",
-  449,
-  240
+  448,
+  242
  ],
  [
   "/articles/bryan-butler-image-of-god",
-  442,
+  444,
   289
  ],
  [
   "/blog/page/2",
-  438,
+  439,
   9
  ],
  [
   "/articles/cootsona-adam-eve",
-  419,
-  204
+  420,
+  205
  ],
  [
   "/articles/definition-race",
-  409,
-  232
- ],
- [
-  "/articles/time-comes",
-  408,
-  133
+  407,
+  231
  ],
  [
   "/articles/going-public-wsj",
@@ -265,9 +260,14 @@
   87
  ],
  [
+  "/articles/time-comes",
+  400,
+  130
+ ],
+ [
   "/videos/rutherford-racist",
-  389,
-  216
+  388,
+  215
  ],
  [
   "/rogero-executive-director",
@@ -277,21 +277,21 @@
  [
   "/articles/isolation-tasmania",
   378,
-  194
+  195
  ],
  [
   "/videos/moreland-minds-soul",
-  378,
+  376,
   213
  ],
  [
   "/articles/cancer-evolution",
-  373,
-  287
+  370,
+  285
  ],
  [
   "/articles/ortlund-augustine",
-  354,
+  358,
   170
  ],
  [
@@ -305,14 +305,14 @@
   223
  ],
  [
-  "/articles/genealogical-science",
-  322,
-  206
- ],
- [
   "/articles/assess-rtb-model",
   321,
-  72
+  73
+ ],
+ [
+  "/articles/genealogical-science",
+  321,
+  204
  ],
  [
   "/articles/new-old-ancient-conversation",
@@ -320,14 +320,14 @@
   123
  ],
  [
-  "/articles/new-voice",
-  314,
-  94
+  "/videos/miller-textbook-dover",
+  315,
+  214
  ],
  [
-  "/videos/miller-textbook-dover",
-  313,
-  214
+  "/articles/new-voice",
+  311,
+  95
  ],
  [
   "/articles/humility-of-our-scholars",
@@ -335,39 +335,39 @@
   129
  ],
  [
-  "/articles/harris-evolutionary-evil",
-  302,
-  236
+  "/science-civil-rights-and-the-doll-test",
+  304,
+  184
  ],
  [
   "/videos/tour-friendship-across-disagreements",
-  302,
+  303,
   179
  ],
  [
+  "/articles/harris-evolutionary-evil",
+  302,
+  235
+ ],
+ [
   "/articles/lents-in-usa-today",
-  299,
-  134
- ],
- [
-  "/404.html",
-  295,
-  158
- ],
- [
-  "/articles/stephen-matheson-humanists-invitation",
-  295,
-  131
+  301,
+  135
  ],
  [
   "/blog/page/3",
-  295,
+  296,
   0
  ],
  [
-  "/science-civil-rights-and-the-doll-test",
-  295,
-  178
+  "/articles/stephen-matheson-humanists-invitation",
+  293,
+  131
+ ],
+ [
+  "/404.html",
+  292,
+  157
  ],
  [
   "/articles/wsj-ai-evangelicals",
@@ -376,7 +376,7 @@
  ],
  [
   "/genealogical-adam-eve/errata",
-  286,
+  287,
   102
  ],
  [
@@ -391,38 +391,38 @@
  ],
  [
   "/tag/adam-eve",
-  260,
+  262,
   34
  ],
  [
   "/articles/much-to-discuss",
-  237,
+  234,
   42
  ],
  [
-  "/articles/venus-phosphine",
-  233,
-  140
+  "/articles/reworking-adam",
+  232,
+  120
  ],
  [
-  "/articles/reworking-adam",
+  "/articles/venus-phosphine",
+  232,
+  139
+ ],
+ [
+  "/videos/scott-dover-science-hat",
+  231,
+  164
+ ],
+ [
+  "/articles/scientist-woman-picture",
   230,
-  120
+  132
  ],
  [
   "/download/endorsements-genealogical-adam-eve",
   230,
-  73
- ],
- [
-  "/articles/scientist-woman-picture",
-  229,
-  132
- ],
- [
-  "/videos/scott-dover-science-hat",
-  228,
-  165
+  72
  ],
  [
   "/articles/the-barthian-tree",
@@ -451,13 +451,18 @@
  ],
  [
   "/category/blog",
-  208,
+  209,
   62
  ],
  [
   "/articles/billy-graham-anthropology",
-  200,
+  201,
   69
+ ],
+ [
+  "/tag/confession",
+  196,
+  43
  ],
  [
   "/download/errata-genealogical-adam-eve",
@@ -470,19 +475,14 @@
   85
  ],
  [
-  "/videos/ecklund-science-faith",
-  189,
-  103
- ],
- [
   "/articles/bring-questions-of-ai",
   188,
-  87
+  88
  ],
  [
-  "/tag/confession",
+  "/videos/ecklund-science-faith",
   188,
-  42
+  102
  ],
  [
   "/muotri-neanderthal",
@@ -491,7 +491,7 @@
  ],
  [
   "/articles/trust-between-worlds",
-  182,
+  183,
   96
  ],
  [
@@ -506,7 +506,7 @@
  ],
  [
   "/articles/humans-rendered-apart",
-  175,
+  177,
   85
  ],
  [
@@ -516,13 +516,13 @@
  ],
  [
   "/articles/paumore-musings-on-killmitzer",
-  170,
+  172,
   92
  ],
  [
   "/videos/steven-olson-the-apocalypse-factory",
-  169,
-  105
+  168,
+  104
  ],
  [
   "/articles/managing-mistakes",
@@ -531,7 +531,7 @@
  ],
  [
   "/articles/coronavirus-beauty",
-  163,
+  164,
   77
  ],
  [
@@ -541,13 +541,18 @@
  ],
  [
   "/articles/todd-cade",
-  157,
+  158,
   103
  ],
  [
   "/tag/gae",
-  151,
+  153,
   19
+ ],
+ [
+  "/articles/lutherans-artistic-tree",
+  148,
+  52
  ],
  [
   "/articles/robert-canfield",
@@ -555,24 +560,24 @@
   43
  ],
  [
-  "/articles/lutherans-artistic-tree",
-  147,
-  51
- ],
- [
-  "/author/swamidass/page/2",
-  146,
-  16
- ],
- [
   "/articles/logo-meaning",
   145,
   85
  ],
  [
+  "/author/swamidass/page/2",
+  145,
+  16
+ ],
+ [
   "/articles/front-porch",
   142,
   32
+ ],
+ [
+  "/tag/resurrection",
+  140,
+  37
  ],
  [
   "/videos/reviewing-adam-and-the-genome",
@@ -581,23 +586,23 @@
  ],
  [
   "/tag/society",
-  136,
+  137,
   16
  ],
  [
-  "/tag/resurrection",
-  133,
-  37
- ],
- [
   "/tag/evolution",
-  129,
+  130,
   41
  ],
  [
   "/articles/the-axiom-of-belief",
-  121,
+  122,
   91
+ ],
+ [
+  "/articles/murphys-truthful-tree",
+  119,
+  20
  ],
  [
   "/articles/art-and-ancestry",
@@ -605,9 +610,9 @@
   62
  ],
  [
-  "/articles/murphys-truthful-tree",
-  118,
-  20
+  "/videos/baldi-ai-science",
+  114,
+  50
  ],
  [
   "/videos/inazu-humility-tolerance-patience",
@@ -615,14 +620,14 @@
   68
  ],
  [
-  "/videos/baldi-ai-science",
-  112,
-  49
- ],
- [
   "/blog/page/5",
   110,
   1
+ ],
+ [
+  "/category/podcast",
+  108,
+  33
  ],
  [
   "/articles/camel-chews-miracle-tree",
@@ -630,23 +635,13 @@
   19
  ],
  [
-  "/category/podcast",
-  107,
-  33
- ],
- [
   "/articles/invitation-to-rana",
   106,
-  50
- ],
- [
-  "/articles/common-ground-year-1",
-  100,
-  60
+  51
  ],
  [
   "/category/projects/100-year-old-tree",
-  100,
+  99,
   11
  ],
  [
@@ -655,14 +650,29 @@
   51
  ],
  [
+  "/articles/common-ground-year-1",
+  96,
+  59
+ ],
+ [
   "/articles/repairing-the-fracture",
   94,
   42
  ],
  [
+  "/page/2",
+  89,
+  3
+ ],
+ [
   "/tag/100-year-tree",
   87,
   46
+ ],
+ [
+  "/videos/barbara-forrest-trojan-horse-at-dover",
+  87,
+  41
  ],
  [
   "/blog/page/7",
@@ -675,19 +685,14 @@
   1
  ],
  [
-  "/page/2",
-  83,
-  2
- ],
- [
   "/tag/science",
-  83,
+  85,
   10
  ],
  [
-  "/videos/barbara-forrest-trojan-horse-at-dover",
+  "/articles/confident-faith-science-3",
   83,
-  41
+  30
  ],
  [
   "/articles/confessing-jesus-in-science",
@@ -695,19 +700,14 @@
   17
  ],
  [
-  "/articles/confident-faith-science-3",
-  81,
-  30
- ],
- [
   "/tag/dialogue",
-  81,
+  82,
   11
  ],
  [
   "/articles/an-old-earther-on-peaceful-science",
-  77,
-  22
+  75,
+  21
  ],
  [
   "/articles/ancestral-shadow",
@@ -721,7 +721,7 @@
  ],
  [
   "/author/swamidass/page/3",
-  73,
+  72,
   3
  ],
  [
@@ -736,7 +736,7 @@
  ],
  [
   "/author/kristel",
-  64,
+  65,
   14
  ],
  [
@@ -780,14 +780,14 @@
   27
  ],
  [
-  "/blog/page/9",
-  50,
-  0
+  "/tag/race",
+  52,
+  12
  ],
  [
-  "/tag/race",
-  50,
-  11
+  "/blog/page/9",
+  51,
+  0
  ],
  [
   "/author/jgarvey",
@@ -811,7 +811,7 @@
  ],
  [
   "/author/gmurphy",
-  44,
+  45,
   29
  ],
  [
@@ -823,6 +823,11 @@
   "/subscribe",
   44,
   15
+ ],
+ [
+  "/page/3",
+  42,
+  2
  ],
  [
   "/author/timothy-saleska",
@@ -840,11 +845,6 @@
   32
  ],
  [
-  "/page/3",
-  40,
-  2
- ],
- [
   "/blog/page/10",
   35,
   0
@@ -857,7 +857,7 @@
  [
   "/author/sfmatheson",
   33,
-  18
+  19
  ],
  [
   "/reworking-Adam",
@@ -881,7 +881,7 @@
  ],
  [
   "/tag/adam-eve/page/2",
-  23,
+  24,
   2
  ],
  [
@@ -891,23 +891,28 @@
  ],
  [
   "/author/ciara",
-  21,
+  22,
   10
  ],
  [
   "/home",
-  21,
+  22,
   9
  ],
  [
   "/page/4",
-  21,
+  22,
   0
  ],
  [
   "/baldi-ai-science/#utm_source=rss&utm_medium=rss&utm_campaign=baldi-ai-science",
   20,
   18
+ ],
+ [
+  "/page/5",
+  20,
+  0
  ],
  [
   "/author/gdavidson",
@@ -925,19 +930,9 @@
   6
  ],
  [
-  "/page/5",
-  18,
-  0
- ],
- [
   "/tag/evolution/page/2",
   18,
   1
- ],
- [
-  "/articles/theological-history-science",
-  17,
-  4
  ],
  [
   "/author/awalsh",
@@ -953,6 +948,11 @@
   "/tag/art",
   16,
   8
+ ],
+ [
+  "/articles/theological-history-science",
+  15,
+  3
  ],
  [
   "/tag/reasons-to-believe",
@@ -1020,6 +1020,11 @@
   2
  ],
  [
+  "/is-jesus-greater.pdf",
+  9,
+  0
+ ],
+ [
   "/scientist-woman-picture/>Is",
   9,
   9
@@ -1028,6 +1033,11 @@
   "/tag/artificial-intelligence",
   9,
   1
+ ],
+ [
+  "/tag/confession/page/2",
+  9,
+  0
  ],
  [
   "/tag/history",
@@ -1053,16 +1063,6 @@
   "/downloads",
   8,
   6
- ],
- [
-  "/is-jesus-greater.pdf",
-  8,
-  0
- ],
- [
-  "/tag/confession/page/2",
-  8,
-  0
  ],
  [
   "/tag/gae/page/2",
@@ -1123,6 +1123,11 @@
   "/category/blog/page/3",
   4,
   0
+ ],
+ [
+  "/daniel-ang-a-scientist-looks.com.com.com-at-the-resurrection",
+  4,
+  1
  ],
  [
   "/latest",
@@ -1278,6 +1283,11 @@
   "/narnians-martians-neanderthals/#_ftn1",
   2,
   1
+ ],
+ [
+  "/page/6",
+  2,
+  0
  ],
  [
   "/page/9",
@@ -1441,11 +1451,6 @@
  ],
  [
   "/ortlund-hills/#fn-4348-4",
-  1,
-  0
- ],
- [
-  "/page/6",
   1,
   0
  ],

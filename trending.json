@@ -1,108 +1,118 @@
 [
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  970,
-  911
+  964,
+  905
  ],
  [
   "/articles/why-i-went-public-evolution",
-  739,
-  645
- ],
- [
-  "/articles/defense-tim-keller",
-  677,
-  541
+  823,
+  710
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  674,
-  593
+  739,
+  647
+ ],
+ [
+  "/articles/defense-tim-keller",
+  715,
+  566
  ],
  [
   "/articles/wlc-genetic-challenge",
-  495,
-  449
- ],
- [
-  "/qa-wsj-compromise-on-creationism",
-  116,
-  54
- ],
- [
-  "/wlc-responds-ham",
-  105,
-  59
+  570,
+  515
  ],
  [
   "/forum",
-  101,
-  24
+  111,
+  27
  ],
  [
   "/science-civil-rights-and-the-doll-test",
-  86,
-  73
+  108,
+  95
+ ],
+ [
+  "/wlc-responds-ham",
+  99,
+  56
+ ],
+ [
+  "/qa-wsj-compromise-on-creationism",
+  90,
+  43
  ],
  [
   "/category/article",
-  71,
-  22
- ],
- [
-  "/author/swamidass",
-  52,
-  19
- ],
- [
-  "/my-response-to-the-asas-apology",
-  52,
-  24
- ],
- [
-  "/articles/gregg-davidson-resurrection-dawkins",
-  50,
-  45
+  78,
+  25
  ],
  [
   "/compromise-on-creationism",
-  49,
-  32
+  68,
+  39
+ ],
+ [
+  "/articles/gregg-davidson-resurrection-dawkins",
+  54,
+  48
+ ],
+ [
+  "/author/swamidass",
+  53,
+  19
  ],
  [
   "/genealogical-adam-eve",
-  44,
+  52,
   16
  ],
  [
-  "/articles/why-we-talk-about-race",
-  40,
-  30
+  "/articles/mission-and-values",
+  46,
+  11
  ],
  [
-  "/articles/mission-and-values",
-  38,
-  9
+  "/articles/why-we-talk-about-race",
+  43,
+  27
  ],
  [
   "/videos/heiser-sacred-natural",
-  37,
-  23
+  41,
+  30
+ ],
+ [
+  "/my-response-to-the-asas-apology",
+  39,
+  21
  ],
  [
   "/videos/rtb-thinking-about-evolution",
-  31,
-  23
+  34,
+  25
  ],
  [
   "/tag/adam-eve",
-  30,
-  4
+  31,
+  3
+ ],
+ [
+  "/tag/science",
+  24,
+  2
+ ],
+ [
+  "/articles/glenn-morton",
+  23,
+  13
  ],
  [
   "/articles/sy-garte-resurrection",
   23,
-  13
+  12
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
@@ -110,34 +120,24 @@
   5
  ],
  [
-  "/tag/science",
-  22,
-  1
- ],
- [
-  "/articles/glenn-morton",
-  21,
-  11
- ],
- [
-  "/articles/three-stories-on-adam",
-  19,
-  5
- ],
- [
   "/articles/going-public-wsj",
-  17,
+  18,
   2
  ],
  [
-  "/tag/society",
-  17,
-  12
+  "/articles/three-stories-on-adam",
+  18,
+  4
  ],
  [
-  "/download/craig-mere-theistic-evolution",
-  16,
-  15
+  "/articles/godawa-midrash",
+  17,
+  11
+ ],
+ [
+  "/tag/confession",
+  17,
+  1
  ],
  [
   "/articles/garvey-theology-garden",
@@ -145,49 +145,54 @@
   7
  ],
  [
-  "/articles/godawa-midrash",
+  "/download/craig-mere-theistic-evolution",
+  14,
+  13
+ ],
+ [
+  "/tag/society",
   14,
   9
  ],
  [
-  "/articles/scientist-woman-picture",
-  14,
-  5
- ],
- [
   "/tag/gae",
-  14,
-  1
- ],
- [
-  "/authors-guide-and-call-for-submissions",
   13,
-  7
- ],
- [
-  "/articles/more-than-apes",
-  12,
-  12
- ],
- [
-  "/tag/confession",
-  12,
   1
- ],
- [
-  "/tag/evolution",
-  12,
-  3
  ],
  [
   "/tag/resurrection",
-  10,
+  12,
   2
  ],
  [
+  "/authors-guide-and-call-for-submissions",
+  11,
+  6
+ ],
+ [
+  "/tag/evolution",
+  11,
+  3
+ ],
+ [
   "/videos/quayshawn-spencer-race",
+  10,
+  9
+ ],
+ [
+  "/articles/scientist-woman-picture",
   9,
+  3
+ ],
+ [
+  "/articles/more-than-apes",
+  8,
   8
+ ],
+ [
+  "/articles/robert-canfield",
+  8,
+  4
  ],
  [
   "/articles/todd-cade",
@@ -195,14 +200,9 @@
   2
  ],
  [
-  "/articles/coronavirus-beauty",
+  "/articles/confident-faith-science-3",
   7,
-  2
- ],
- [
-  "/articles/covid-19-created-designed",
-  7,
-  4
+  5
  ],
  [
   "/articles/evidence-and-evolution",
@@ -215,19 +215,39 @@
   2
  ],
  [
-  "/author/swamidass/page/2",
+  "/muotri-neanderthal",
   7,
+  0
+ ],
+ [
+  "/articles/andy-walsh-the-resurrection",
+  6,
+  2
+ ],
+ [
+  "/articles/coronavirus-beauty",
+  6,
   1
+ ],
+ [
+  "/articles/covid-19-created-designed",
+  6,
+  4
  ],
  [
   "/articles/genealogical-rapprochement",
   6,
-  3
+  2
  ],
  [
-  "/articles/andy-walsh-the-resurrection",
-  5,
+  "/author/swamidass/page/2",
+  6,
   1
+ ],
+ [
+  "/videos/tour-friendship-across-disagreements",
+  6,
+  4
  ],
  [
   "/articles/confessing-scientist",
@@ -235,24 +255,24 @@
   1
  ],
  [
-  "/articles/confident-faith-science-3",
-  5,
-  3
- ],
- [
   "/articles/garvey-generations",
   5,
   0
  ],
  [
-  "/articles/robert-canfield",
+  "/articles/peace-be-with-you",
   5,
   2
  ],
  [
-  "/author/swamidass/page/3",
+  "/articles/response-to-madueme-scripture",
   5,
-  0
+  1
+ ],
+ [
+  "/download/excerpt-genealogical-adam-eve",
+  5,
+  1
  ],
  [
   "/tag/dialogue",
@@ -260,19 +280,9 @@
   1
  ],
  [
-  "/videos/tour-friendship-across-disagreements",
-  5,
-  4
- ],
- [
   "/articles/confident-faith-science-2",
   4,
   3
- ],
- [
-  "/articles/genealogical-science",
-  4,
-  2
  ],
  [
   "/articles/implicated-vs-incidental",
@@ -285,24 +295,24 @@
   4
  ],
  [
-  "/articles/peace-be-with-you",
-  4,
-  1
- ],
- [
-  "/articles/response-to-madueme-scripture",
-  4,
-  1
- ],
- [
   "/articles/tour-pascal",
   4,
   3
  ],
  [
+  "/author/swamidass/page/3",
+  4,
+  0
+ ],
+ [
   "/genealogical-adam-eve/errata",
   4,
   4
+ ],
+ [
+  "/imagination-game-aaas",
+  4,
+  2
  ],
  [
   "/tag/art",
@@ -315,19 +325,29 @@
   1
  ],
  [
+  "/videos/ecklund-science-faith",
+  4,
+  3
+ ],
+ [
+  "/videos/reviewing-adam-and-the-genome",
+  4,
+  1
+ ],
+ [
   "/articles/agree-behe",
   3,
   0
  ],
  [
-  "/articles/bryan-butler-image-of-god",
+  "/articles/genealogical-science",
   3,
-  0
+  2
  ],
  [
-  "/articles/new-voice",
+  "/articles/greg-cootsona-intelligent-design",
   3,
-  1
+  0
  ],
  [
   "/articles/ortlund-hills",
@@ -340,14 +360,14 @@
   0
  ],
  [
+  "/articles/the-axiom-of-belief",
+  3,
+  2
+ ],
+ [
   "/download/endorsements-genealogical-adam-eve",
   3,
   0
- ],
- [
-  "/imagination-game-aaas",
-  3,
-  2
  ],
  [
   "/manifest.json",
@@ -355,24 +375,9 @@
   1
  ],
  [
-  "/muotri-neanderthal",
-  3,
-  1
- ],
- [
   "/videos/baldi-ai-science",
   3,
   2
- ],
- [
-  "/videos/ecklund-science-faith",
-  3,
-  2
- ],
- [
-  "/videos/moreland-minds-soul",
-  3,
-  3
  ],
  [
   "/OneSignalSDKWorker.js",
@@ -385,19 +390,19 @@
   0
  ],
  [
-  "/articles/100-year-old-tree",
-  2,
-  0
- ],
- [
   "/articles/age-rubios-earth",
   2,
   0
  ],
  [
-  "/articles/assess-rtb-model",
+  "/articles/bryan-butler-image-of-god",
   2,
   0
+ ],
+ [
+  "/articles/cancer-evolution",
+  2,
+  1
  ],
  [
   "/articles/changing-faces",
@@ -405,24 +410,19 @@
   0
  ],
  [
-  "/articles/greg-cootsona-intelligent-design",
+  "/articles/isolation-tasmania",
   2,
-  0
+  1
  ],
  [
-  "/articles/human-origins-rtb-workshop",
-  2,
-  0
- ],
- [
-  "/articles/kenneth-kemp-war",
+  "/articles/logo-meaning",
   2,
   2
  ],
  [
-  "/articles/murphys-truthful-tree",
+  "/articles/new-voice",
   2,
-  0
+  1
  ],
  [
   "/articles/ortlund-augustine",
@@ -435,9 +435,9 @@
   0
  ],
  [
-  "/articles/the-axiom-of-belief",
+  "/articles/wsj-ai-evangelicals",
   2,
-  2
+  1
  ],
  [
   "/author/gmorton",
@@ -448,26 +448,6 @@
   "/author/kristel",
   2,
   1
- ],
- [
-  "/author/swamidass/page/4",
-  2,
-  0
- ],
- [
-  "/author/swamidass/page/5",
-  2,
-  1
- ],
- [
-  "/category/blog",
-  2,
-  1
- ],
- [
-  "/download/excerpt-genealogical-adam-eve",
-  2,
-  0
  ],
  [
   "/qa-wsj-compromise-on-creationism/oneSignalSDKWorker.js",
@@ -485,19 +465,19 @@
   0
  ],
  [
-  "/videos/reviewing-adam-and-the-genome",
-  2,
+  "/articles/ancestral-shadow",
+  1,
+  0
+ ],
+ [
+  "/articles/assess-rtb-model",
+  1,
   0
  ],
  [
   "/articles/billy-graham-anthropology",
   1,
   1
- ],
- [
-  "/articles/cancer-evolution",
-  1,
-  0
  ],
  [
   "/articles/confessing-jesus-in-science",
@@ -510,19 +490,19 @@
   1
  ],
  [
-  "/articles/correction-policy",
-  1,
-  1
- ],
- [
   "/articles/definition-race",
   1,
   0
  ],
  [
-  "/articles/harris-evolutionary-evil",
+  "/articles/digital-dialogue",
   1,
-  1
+  0
+ ],
+ [
+  "/articles/garden-path",
+  1,
+  0
  ],
  [
   "/articles/humans-rendered-apart",
@@ -530,17 +510,7 @@
   0
  ],
  [
-  "/articles/humility-of-our-scholars",
-  1,
-  0
- ],
- [
-  "/articles/isolation-tasmania",
-  1,
-  0
- ],
- [
-  "/articles/logo-meaning",
+  "/articles/kenneth-kemp-war",
   1,
   1
  ],
@@ -553,11 +523,6 @@
   "/articles/much-to-discuss",
   1,
   1
- ],
- [
-  "/articles/narnians-martians-neanderthals",
-  1,
-  0
  ],
  [
   "/articles/new-old-ancient-conversation",
@@ -580,14 +545,34 @@
   0
  ],
  [
+  "/articles/written-of-interviews-gae",
+  1,
+  1
+ ],
+ [
   "/author/sfmatheson",
   1,
   1
  ],
  [
+  "/author/swamidass/page/4",
+  1,
+  0
+ ],
+ [
+  "/author/swamidass/page/5",
+  1,
+  0
+ ],
+ [
   "/author/wlc",
   1,
   1
+ ],
+ [
+  "/category/video",
+  1,
+  0
  ],
  [
   "/dev_sdks/OneSignalSDKWorker.js.php",
@@ -608,6 +593,11 @@
   "/sdk_files/OneSignalSDKWorker.js.php",
   1,
   0
+ ],
+ [
+  "/subscribe",
+  1,
+  1
  ],
  [
   "/tag/adam-eve/page/3",
@@ -640,12 +630,12 @@
   0
  ],
  [
-  "/videos/rutherford-racist",
+  "/videos/moreland-minds-soul",
   1,
   1
  ],
  [
-  "/videos/steven-olson-the-apocalypse-factory",
+  "/videos/rutherford-racist",
   1,
   1
  ]

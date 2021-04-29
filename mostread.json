@@ -1,43 +1,43 @@
 [
  [
   "/articles/why-i-went-public-evolution",
-  11899,
-  9704
+  11962,
+  9750
  ],
  [
   "/articles/defense-tim-keller",
-  11369,
-  8838
+  11410,
+  8864
  ],
  [
   "/articles/why-we-talk-about-race",
-  11111,
-  9279
+  11109,
+  9277
  ],
  [
   "/articles/wlc-genetic-challenge",
-  10915,
-  9229
+  10906,
+  9220
  ],
  [
   "/forum",
-  10405,
-  2123
+  10414,
+  2126
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  10092,
-  8761
+  10118,
+  8786
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  9257,
-  8006
+  9268,
+  8014
  ],
  [
   "/genealogical-adam-eve",
-  4142,
-  1718
+  4144,
+  1720
  ],
  [
   "/blog",
@@ -46,13 +46,13 @@
  ],
  [
   "/category/article",
-  2649,
-  1396
+  2655,
+  1395
  ],
  [
   "/author/swamidass",
-  2295,
-  1321
+  2297,
+  1322
  ],
  [
   "/articles/gregg-davidson-resurrection-dawkins",
@@ -61,17 +61,17 @@
  ],
  [
   "/articles/genealogical-rapprochement",
-  1932,
-  1049
+  1933,
+  1050
  ],
  [
   "/videos/heiser-sacred-natural",
-  1696,
-  1197
+  1698,
+  1199
  ],
  [
   "/articles/mission-and-values",
-  1684,
+  1683,
   378
  ],
  [
@@ -81,8 +81,8 @@
  ],
  [
   "/videos/rtb-thinking-about-evolution",
-  1423,
-  1126
+  1425,
+  1127
  ],
  [
   "/articles/three-stories-on-adam",
@@ -91,18 +91,18 @@
  ],
  [
   "/science-civil-rights-and-the-doll-test",
-  1211,
-  927
+  1213,
+  929
  ],
  [
   "/articles/glenn-morton",
-  1181,
+  1180,
   769
  ],
  [
   "/wlc-responds-ham",
-  1168,
-  730
+  1170,
+  731
  ],
  [
   "/articles/100-year-old-tree",
@@ -121,7 +121,7 @@
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  998,
+  997,
   508
  ],
  [
@@ -131,13 +131,18 @@
  ],
  [
   "/qa-wsj-compromise-on-creationism",
-  970,
-  485
+  971,
+  486
  ],
  [
   "/articles/godawa-midrash",
   963,
   670
+ ],
+ [
+  "/my-response-to-the-asas-apology",
+  957,
+  597
  ],
  [
   "/articles/covid-19-created-designed",
@@ -148,11 +153,6 @@
   "/articles/garden-path",
   953,
   670
- ],
- [
-  "/my-response-to-the-asas-apology",
-  952,
-  597
  ],
  [
   "/articles/sy-garte-resurrection",
@@ -176,12 +176,12 @@
  ],
  [
   "/download/excerpt-genealogical-adam-eve",
-  692,
+  691,
   371
  ],
  [
   "/articles/ortlund-hills",
-  681,
+  680,
   488
  ],
  [
@@ -191,8 +191,8 @@
  ],
  [
   "/articles/fair-hearing-behe",
-  632,
-  231
+  633,
+  232
  ],
  [
   "/articles/andy-walsh-the-resurrection",
@@ -206,7 +206,7 @@
  ],
  [
   "/evolution-adam-eve",
-  584,
+  588,
   271
  ],
  [
@@ -231,7 +231,7 @@
  ],
  [
   "/articles/going-public-wsj",
-  493,
+  495,
   95
  ],
  [
@@ -246,7 +246,7 @@
  ],
  [
   "/tag/adam-eve",
-  479,
+  478,
   68
  ],
  [
@@ -316,7 +316,7 @@
  ],
  [
   "/tag/confession",
-  351,
+  350,
   61
  ],
  [
@@ -390,14 +390,14 @@
   155
  ],
  [
+  "/compromise-on-creationism",
+  289,
+  108
+ ],
+ [
   "/blog/page/3",
   288,
   0
- ],
- [
-  "/compromise-on-creationism",
-  288,
-  108
  ],
  [
   "/articles/time-comes",
@@ -406,8 +406,8 @@
  ],
  [
   "/imagination-game-aaas",
-  279,
-  87
+  280,
+  88
  ],
  [
   "/articles/assess-rtb-model",
@@ -450,14 +450,14 @@
   41
  ],
  [
-  "/tag/science",
-  223,
-  20
- ],
- [
   "/articles/changing-faces",
   222,
   86
+ ],
+ [
+  "/tag/science",
+  221,
+  19
  ],
  [
   "/articles/written-of-interviews-gae",
@@ -710,6 +710,11 @@
   10
  ],
  [
+  "/author/kristel",
+  85,
+  23
+ ],
+ [
   "/author/swamidass/page/3",
   85,
   4
@@ -723,11 +728,6 @@
   "/page/2",
   85,
   3
- ],
- [
-  "/author/kristel",
-  83,
-  22
  ],
  [
   "/blog/page/7",
@@ -1345,11 +1345,6 @@
   1
  ],
  [
-  "/tag/science/page/3",
-  2,
-  0
- ],
- [
   "/2019",
   1,
   1
@@ -1566,6 +1561,11 @@
  ],
  [
   "/tag/policy",
+  1,
+  0
+ ],
+ [
+  "/tag/science/page/3",
   1,
   0
  ],

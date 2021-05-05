@@ -1,53 +1,48 @@
 [
  [
   "/articles/why-i-went-public-evolution",
-  1196,
-  971
+  1189,
+  968
  ],
  [
   "/articles/defense-tim-keller",
-  1076,
-  867
+  1092,
+  882
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  870,
-  773
+  845,
+  745
  ],
  [
   "/articles/wlc-genetic-challenge",
-  761,
-  706
+  747,
+  701
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  358,
-  322
+  343,
+  308
  ],
  [
   "/forum",
-  158,
-  18
+  156,
+  17
  ],
  [
   "/science-civil-rights-and-the-doll-test",
-  126,
-  107
+  144,
+  123
  ],
  [
   "/evolution-adam-eve",
-  99,
-  25
+  84,
+  21
  ],
  [
   "/wlc-responds-ham",
-  71,
-  47
- ],
- [
-  "/category/article",
-  53,
-  14
+  61,
+  41
  ],
  [
   "/author/swamidass",
@@ -55,29 +50,34 @@
   16
  ],
  [
-  "/videos/heiser-sacred-natural",
-  38,
-  29
+  "/category/article",
+  44,
+  11
  ],
  [
-  "/compromise-on-creationism",
-  37,
-  5
+  "/videos/heiser-sacred-natural",
+  42,
+  33
  ],
  [
   "/genealogical-adam-eve",
-  36,
-  20
- ],
- [
-  "/tag/adam-eve",
-  34,
-  7
+  37,
+  19
  ],
  [
   "/videos/rtb-thinking-about-evolution",
+  34,
+  22
+ ],
+ [
+  "/compromise-on-creationism",
   33,
-  27
+  3
+ ],
+ [
+  "/tag/adam-eve",
+  31,
+  5
  ],
  [
   "/articles/mission-and-values",
@@ -85,48 +85,43 @@
   11
  ],
  [
-  "/my-response-to-the-asas-apology",
-  26,
-  13
- ],
- [
-  "/qa-wsj-compromise-on-creationism",
-  26,
-  8
- ],
- [
-  "/tag/science",
-  23,
-  4
+  "/articles/glenn-morton",
+  25,
+  17
  ],
  [
   "/articles/why-we-talk-about-race",
-  22,
-  15
+  23,
+  16
  ],
  [
-  "/articles/godawa-midrash",
-  18,
-  13
+  "/my-response-to-the-asas-apology",
+  23,
+  9
  ],
  [
-  "/articles/glenn-morton",
-  17,
-  10
+  "/qa-wsj-compromise-on-creationism",
+  21,
+  6
  ],
  [
-  "/articles/gregg-davidson-resurrection-dawkins",
-  17,
-  10
- ],
- [
-  "/tag/confession",
-  15,
+  "/tag/science",
+  20,
   3
  ],
  [
+  "/tag/confession",
+  19,
+  5
+ ],
+ [
+  "/articles/godawa-midrash",
+  17,
+  12
+ ],
+ [
   "/tag/resurrection",
-  15,
+  16,
   3
  ],
  [
@@ -135,24 +130,24 @@
   8
  ],
  [
-  "/muotri-neanderthal",
+  "/tag/evolution",
   14,
-  2
+  0
  ],
  [
-  "/tag/gae",
-  14,
-  2
- ],
- [
-  "/articles/response-to-madueme-scripture",
-  11,
+  "/articles/gregg-davidson-resurrection-dawkins",
+  13,
   6
  ],
  [
-  "/tag/evolution",
-  11,
-  0
+  "/muotri-neanderthal",
+  13,
+  2
+ ],
+ [
+  "/articles/sy-garte-resurrection",
+  12,
+  7
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
@@ -160,44 +155,34 @@
   5
  ],
  [
-  "/articles/garvey-theology-garden",
-  10,
-  3
- ],
- [
-  "/articles/sy-garte-resurrection",
-  10,
-  5
- ],
- [
-  "/tag/society",
-  10,
-  1
- ],
- [
-  "/tag/theology",
-  10,
-  0
- ],
- [
-  "/videos/quayshawn-spencer-race",
-  10,
-  10
- ],
- [
-  "/articles/garvey-generations",
-  9,
-  4
- ],
- [
   "/articles/going-public-wsj",
-  9,
+  10,
   0
  ],
  [
   "/articles/three-stories-on-adam",
+  10,
+  3
+ ],
+ [
+  "/tag/gae",
+  10,
+  1
+ ],
+ [
+  "/articles/response-to-madueme-scripture",
   9,
-  2
+  5
+ ],
+ [
+  "/articles/garvey-generations",
+  8,
+  3
+ ],
+ [
+  "/articles/garvey-theology-garden",
+  8,
+  3
  ],
  [
   "/author/swamidass/page/4",
@@ -205,14 +190,24 @@
   0
  ],
  [
-  "/articles/100-year-old-tree",
-  7,
-  7
+  "/tag/theology",
+  8,
+  0
  ],
  [
-  "/author/swamidass/page/2",
+  "/articles/garden-path",
+  7,
+  4
+ ],
+ [
+  "/tag/society",
   7,
   0
+ ],
+ [
+  "/articles/100-year-old-tree",
+  6,
+  6
  ],
  [
   "/articles/cancer-evolution",
@@ -220,32 +215,17 @@
   2
  ],
  [
-  "/articles/evidence-and-evolution",
+  "/articles/more-than-apes",
   6,
-  3
+  6
  ],
  [
-  "/articles/garden-path",
+  "/author/swamidass/page/2",
   6,
-  4
+  0
  ],
  [
   "/articles/stephen-matheson-humanists-invitation",
-  6,
-  0
- ],
- [
-  "/articles/greg-cootsona-intelligent-design",
-  5,
-  0
- ],
- [
-  "/articles/more-than-apes",
-  5,
-  5
- ],
- [
-  "/articles/robert-canfield",
   5,
   0
  ],
@@ -265,14 +245,14 @@
   2
  ],
  [
-  "/videos/tour-friendship-across-disagreements",
+  "/imagination-game-aaas",
   5,
-  2
+  1
  ],
  [
-  "/articles/confessing-scientist",
-  4,
-  1
+  "/videos/quayshawn-spencer-race",
+  5,
+  5
  ],
  [
   "/articles/genealogical-science",
@@ -280,14 +260,14 @@
   0
  ],
  [
+  "/articles/greg-cootsona-intelligent-design",
+  4,
+  0
+ ],
+ [
   "/articles/methodological-naturalism",
   4,
   3
- ],
- [
-  "/articles/ortlund-hills",
-  4,
-  4
  ],
  [
   "/author/swamidass/page/5",
@@ -305,11 +285,6 @@
   0
  ],
  [
-  "/imagination-game-aaas",
-  4,
-  1
- ],
- [
   "/tag/dialogue",
   4,
   1
@@ -325,12 +300,27 @@
   2
  ],
  [
-  "/articles/agree-behe",
-  3,
-  0
+  "/videos/tour-friendship-across-disagreements",
+  4,
+  3
  ],
  [
-  "/articles/bryan-butler-image-of-god",
+  "/articles/confessing-scientist",
+  3,
+  1
+ ],
+ [
+  "/articles/kenneth-kemp-war",
+  3,
+  3
+ ],
+ [
+  "/articles/ortlund-hills",
+  3,
+  3
+ ],
+ [
+  "/articles/robert-canfield",
   3,
   0
  ],
@@ -357,11 +347,26 @@
  [
   "/author/wlc",
   3,
-  3
+  2
+ ],
+ [
+  "/category/blog",
+  3,
+  2
  ],
  [
   "/download/excerpt-genealogical-adam-eve",
   3,
+  1
+ ],
+ [
+  "/articles/agree-behe",
+  2,
+  0
+ ],
+ [
+  "/articles/bryan-butler-image-of-god",
+  2,
   1
  ],
  [
@@ -380,19 +385,14 @@
   2
  ],
  [
-  "/articles/isolation-tasmania",
-  2,
-  0
- ],
- [
-  "/articles/kenneth-kemp-war",
+  "/articles/harris-evolutionary-evil",
   2,
   2
  ],
  [
-  "/articles/ortlund-augustine",
+  "/articles/isolation-tasmania",
   2,
-  1
+  0
  ],
  [
   "/articles/paumore-musings-on-killmitzer",
@@ -450,6 +450,11 @@
   0
  ],
  [
+  "/articles/ancestral-shadow",
+  1,
+  1
+ ],
+ [
   "/articles/andy-walsh-the-resurrection",
   1,
   0
@@ -485,17 +490,7 @@
   0
  ],
  [
-  "/articles/definition-race",
-  1,
-  1
- ],
- [
   "/articles/fair-hearing-behe",
-  1,
-  1
- ],
- [
-  "/articles/harris-evolutionary-evil",
   1,
   1
  ],
@@ -503,6 +498,11 @@
   "/articles/human-origins-rtb-workshop",
   1,
   0
+ ],
+ [
+  "/articles/humans-rendered-apart",
+  1,
+  1
  ],
  [
   "/articles/join-the-conversation",
@@ -533,6 +533,11 @@
   "/articles/on-peaceful-science",
   1,
   0
+ ],
+ [
+  "/articles/ortlund-augustine",
+  1,
+  1
  ],
  [
   "/articles/peace-be-with-you",
@@ -585,24 +590,9 @@
   1
  ],
  [
-  "/is-jesus-greater.pdf",
-  1,
-  0
- ],
- [
   "/reworking-Adam",
   1,
   1
- ],
- [
-  "/tag/ancestry",
-  1,
-  0
- ],
- [
-  "/tag/design",
-  1,
-  0
  ],
  [
   "/tag/gae/page/2",

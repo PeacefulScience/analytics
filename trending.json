@@ -1,138 +1,138 @@
 [
  [
   "/articles/why-i-went-public-evolution",
-  1090,
-  959
- ],
- [
-  "/articles/defense-tim-keller",
-  991,
-  881
+  1066,
+  936
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  965,
-  842
+  953,
+  818
+ ],
+ [
+  "/articles/defense-tim-keller",
+  911,
+  809
  ],
  [
   "/articles/wlc-genetic-challenge",
-  865,
-  806
+  877,
+  814
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  554,
-  486
+  520,
+  467
  ],
  [
   "/science-civil-rights-and-the-doll-test",
-  166,
-  147
+  154,
+  139
  ],
  [
   "/forum",
-  107,
+  120,
   12
  ],
  [
   "/evolution-adam-eve",
-  92,
-  29
+  82,
+  26
  ],
  [
   "/wlc-responds-ham",
-  75,
-  52
+  73,
+  51
  ],
  [
   "/genealogical-adam-eve",
-  61,
+  58,
   34
  ],
  [
   "/category/article",
-  47,
+  49,
   15
  ],
  [
   "/tag/adam-eve",
-  41,
+  40,
   3
  ],
  [
   "/videos/rtb-thinking-about-evolution",
-  37,
-  31
+  34,
+  28
  ],
  [
   "/articles/mission-and-values",
-  35,
+  33,
   8
  ],
  [
   "/compromise-on-creationism",
-  35,
+  33,
   6
  ],
  [
-  "/videos/heiser-sacred-natural",
-  27,
-  22
+  "/my-response-to-the-asas-apology",
+  32,
+  20
  ],
  [
-  "/my-response-to-the-asas-apology",
-  26,
-  16
+  "/videos/heiser-sacred-natural",
+  29,
+  23
  ],
  [
   "/author/swamidass",
-  25,
+  24,
   8
  ],
  [
-  "/qa-wsj-compromise-on-creationism",
-  21,
-  3
- ],
- [
-  "/articles/why-we-talk-about-race",
-  20,
-  18
- ],
- [
   "/tag/confession",
-  19,
-  3
- ],
- [
-  "/articles/glenn-morton",
-  18,
-  12
- ],
- [
-  "/tag/science",
-  18,
+  22,
   2
  ],
  [
   "/articles/three-stories-on-adam",
-  16,
-  7
+  20,
+  9
+ ],
+ [
+  "/qa-wsj-compromise-on-creationism",
+  20,
+  2
+ ],
+ [
+  "/articles/why-we-talk-about-race",
+  19,
+  17
+ ],
+ [
+  "/articles/glenn-morton",
+  17,
+  11
+ ],
+ [
+  "/tag/science",
+  17,
+  3
  ],
  [
   "/tag/resurrection",
-  16,
-  3
+  15,
+  2
  ],
  [
   "/articles/going-public-wsj",
   14,
-  2
+  1
  ],
  [
-  "/articles/human-origins-rtb-workshop",
+  "/articles/harris-evolutionary-evil",
   13,
-  4
+  9
  ],
  [
   "/author/kristel",
@@ -140,14 +140,14 @@
   1
  ],
  [
-  "/videos/quayshawn-spencer-race",
-  13,
-  10
+  "/articles/human-origins-rtb-workshop",
+  12,
+  4
  ],
  [
-  "/articles/sy-garte-resurrection",
+  "/videos/quayshawn-spencer-race",
   12,
-  8
+  9
  ],
  [
   "/articles/genealogical-science",
@@ -155,14 +155,29 @@
   7
  ],
  [
+  "/articles/godawa-midrash",
+  11,
+  6
+ ],
+ [
   "/articles/ortlund-hills",
   11,
   5
  ],
  [
-  "/articles/gregg-davidson-resurrection-dawkins",
+  "/articles/cancer-evolution",
+  10,
+  7
+ ],
+ [
+  "/articles/sy-garte-resurrection",
   10,
   4
+ ],
+ [
+  "/download/excerpt-genealogical-adam-eve",
+  10,
+  1
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
@@ -170,29 +185,14 @@
   2
  ],
  [
-  "/articles/harris-evolutionary-evil",
+  "/articles/garvey-theology-garden",
   9,
-  6
- ],
- [
-  "/download/excerpt-genealogical-adam-eve",
-  9,
-  1
- ],
- [
-  "/articles/cancer-evolution",
-  8,
   5
  ],
  [
-  "/articles/garvey-theology-garden",
+  "/articles/gregg-davidson-resurrection-dawkins",
   8,
-  4
- ],
- [
-  "/articles/genealogical-rapprochement",
-  8,
-  2
+  3
  ],
  [
   "/tag/gae",
@@ -200,12 +200,7 @@
   4
  ],
  [
-  "/articles/agree-behe",
-  7,
-  3
- ],
- [
-  "/articles/evidence-and-evolution",
+  "/articles/more-than-apes",
   7,
   4
  ],
@@ -215,19 +210,24 @@
   3
  ],
  [
-  "/articles/godawa-midrash",
-  6,
-  5
- ],
- [
   "/articles/response-to-madueme-scripture",
-  6,
-  3
+  7,
+  4
  ],
  [
-  "/articles/robert-canfield",
+  "/articles/time-comes",
+  7,
+  0
+ ],
+ [
+  "/tag/evolution",
+  7,
+  1
+ ],
+ [
+  "/articles/genealogical-rapprochement",
   6,
-  5
+  1
  ],
  [
   "/articles/scientist-woman-picture",
@@ -240,9 +240,9 @@
   1
  ],
  [
-  "/articles/time-comes",
+  "/author/wlc",
   6,
-  0
+  2
  ],
  [
   "/is-jesus-greater.pdf",
@@ -250,19 +250,14 @@
   1
  ],
  [
-  "/tag/evolution",
-  6,
-  1
- ],
- [
-  "/articles/isolation-tasmania",
+  "/articles/agree-behe",
   5,
   3
  ],
  [
-  "/articles/more-than-apes",
+  "/articles/cootsona-adam-eve",
   5,
-  3
+  4
  ],
  [
   "/articles/new-old-ancient-conversation",
@@ -275,14 +270,24 @@
   2
  ],
  [
-  "/author/wlc",
+  "/articles/robert-canfield",
   5,
-  2
+  4
+ ],
+ [
+  "/author/dga",
+  5,
+  0
  ],
  [
   "/download/craig-mere-theistic-evolution",
   5,
   4
+ ],
+ [
+  "/download/endorsements-genealogical-adam-eve",
+  5,
+  1
  ],
  [
   "/tag/adam-eve/page/3",
@@ -295,24 +300,24 @@
   3
  ],
  [
-  "/articles/digital-dialogue",
+  "/articles/bryan-butler-image-of-god",
+  4,
+  2
+ ],
+ [
+  "/articles/evidence-and-evolution",
   4,
   1
  ],
  [
-  "/download/endorsements-genealogical-adam-eve",
+  "/articles/isolation-tasmania",
   4,
-  1
+  2
  ],
  [
   "/articles/andy-walsh-the-resurrection",
   3,
   0
- ],
- [
-  "/articles/bryan-butler-image-of-god",
-  3,
-  1
  ],
  [
   "/articles/confident-faith-science-2",
@@ -325,12 +330,12 @@
   0
  ],
  [
-  "/articles/cootsona-adam-eve",
+  "/articles/darwin-day-2019",
   3,
-  2
+  0
  ],
  [
-  "/articles/darwin-day-2019",
+  "/articles/digital-dialogue",
   3,
   0
  ],
@@ -350,14 +355,9 @@
   0
  ],
  [
-  "/articles/peace-be-with-you",
+  "/articles/wrong-on-monophyletic",
   3,
-  1
- ],
- [
-  "/author/dga",
-  3,
-  0
+  2
  ],
  [
   "/author/swamidass/page/2",
@@ -365,9 +365,9 @@
   1
  ],
  [
-  "/imagination-game-aaas",
+  "/genealogical-adam-eve/errata",
   3,
-  1
+  0
  ],
  [
   "/muotri-neanderthal",
@@ -385,6 +385,11 @@
   0
  ],
  [
+  "/tag/adam-eve/page/2",
+  3,
+  2
+ ],
+ [
   "/tag/society",
   3,
   0
@@ -393,11 +398,6 @@
   "/articles/assess-rtb-model",
   2,
   0
- ],
- [
-  "/articles/billy-graham-anthropology",
-  2,
-  1
  ],
  [
   "/articles/bring-questions-of-ai",
@@ -440,12 +440,12 @@
   1
  ],
  [
-  "/articles/written-of-interviews-gae",
+  "/articles/peace-be-with-you",
   2,
   1
  ],
  [
-  "/articles/wrong-on-monophyletic",
+  "/articles/written-of-interviews-gae",
   2,
   1
  ],
@@ -465,11 +465,6 @@
   1
  ],
  [
-  "/genealogical-adam-eve/errata",
-  2,
-  0
- ],
- [
   "/page/3",
   2,
   0
@@ -480,7 +475,7 @@
   0
  ],
  [
-  "/tag/adam-eve/page/2",
+  "/videos/miller-textbook-dover",
   2,
   1
  ],
@@ -495,12 +490,12 @@
   0
  ],
  [
-  "/videos/tour-friendship-across-disagreements",
-  2,
-  2
+  "/articles/age-rubios-earth",
+  1,
+  0
  ],
  [
-  "/articles/age-rubios-earth",
+  "/articles/billy-graham-anthropology",
   1,
   0
  ],
@@ -520,9 +515,24 @@
   1
  ],
  [
+  "/articles/greg-cootsona-intelligent-design",
+  1,
+  0
+ ],
+ [
   "/articles/implicated-vs-incidental",
   1,
   0
+ ],
+ [
+  "/articles/kenneth-kemp-war",
+  1,
+  1
+ ],
+ [
+  "/articles/logo-meaning",
+  1,
+  1
  ],
  [
   "/articles/lutherans-artistic-tree",
@@ -545,9 +555,19 @@
   1
  ],
  [
+  "/articles/the-axiom-of-belief",
+  1,
+  1
+ ],
+ [
   "/articles/tour-pascal",
   1,
   1
+ ],
+ [
+  "/articles/wsj-ai-evangelicals",
+  1,
+  0
  ],
  [
   "/author/gortlund",
@@ -585,6 +605,11 @@
   0
  ],
  [
+  "/imagination-game-aaas",
+  1,
+  1
+ ],
+ [
   "/page/5",
   1,
   0
@@ -620,6 +645,11 @@
   0
  ],
  [
+  "/tdb_templates/header-template-32-overlay",
+  1,
+  1
+ ],
+ [
   "/videos/baldi-ai-science",
   1,
   1
@@ -630,13 +660,18 @@
   1
  ],
  [
+  "/videos/ecklund-science-faith",
+  1,
+  1
+ ],
+ [
   "/videos/inazu-humility-tolerance-patience",
   1,
   0
  ],
  [
-  "/videos/miller-textbook-dover",
+  "/videos/tour-friendship-across-disagreements",
   1,
-  0
+  1
  ]
 ]

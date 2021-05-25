@@ -1,78 +1,78 @@
 [
  [
   "/articles/why-i-went-public-evolution",
-  988,
-  877
+  1011,
+  880
  ],
  [
   "/articles/defense-tim-keller",
-  981,
-  850
- ],
- [
-  "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  803,
-  708
+  1004,
+  852
  ],
  [
   "/articles/wlc-genetic-challenge",
-  791,
-  739
+  852,
+  794
+ ],
+ [
+  "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
+  762,
+  668
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  518,
-  451
+  494,
+  427
  ],
  [
   "/forum",
-  140,
-  23
+  144,
+  25
  ],
  [
   "/evolution-adam-eve",
   106,
-  23
+  26
  ],
  [
   "/science-civil-rights-and-the-doll-test",
   82,
-  72
+  70
  ],
  [
   "/category/article",
-  77,
-  23
+  74,
+  21
  ],
  [
   "/genealogical-adam-eve",
-  69,
-  19
+  71,
+  20
  ],
  [
   "/videos/heiser-sacred-natural",
-  58,
-  43
+  60,
+  41
  ],
  [
   "/wlc-responds-ham",
-  51,
-  32
+  54,
+  33
  ],
  [
   "/articles/mission-and-values",
-  42,
-  23
+  44,
+  21
  ],
  [
   "/tag/adam-eve",
-  40,
+  41,
   3
  ],
  [
-  "/qa-wsj-compromise-on-creationism",
-  32,
-  4
+  "/videos/rtb-thinking-about-evolution",
+  33,
+  29
  ],
  [
   "/compromise-on-creationism",
@@ -80,24 +80,29 @@
   2
  ],
  [
-  "/videos/rtb-thinking-about-evolution",
-  31,
-  26
+  "/author/swamidass",
+  30,
+  12
+ ],
+ [
+  "/qa-wsj-compromise-on-creationism",
+  30,
+  4
  ],
  [
   "/tag/confession",
-  27,
-  6
- ],
- [
-  "/author/swamidass",
-  26,
-  9
+  28,
+  7
  ],
  [
   "/articles/glenn-morton",
-  24,
-  14
+  26,
+  16
+ ],
+ [
+  "/articles/genealogical-rapprochement",
+  25,
+  9
  ],
  [
   "/my-response-to-the-asas-apology",
@@ -105,49 +110,29 @@
   7
  ],
  [
-  "/tag/resurrection",
-  21,
-  2
- ],
- [
-  "/articles/genealogical-rapprochement",
-  19,
-  8
- ],
- [
   "/articles/biologos-stealth-deletes-an-article",
-  17,
+  20,
   5
  ],
  [
-  "/articles/going-public-wsj",
-  17,
-  4
- ],
- [
-  "/tag/gae",
-  17,
-  1
+  "/tag/resurrection",
+  20,
+  2
  ],
  [
   "/articles/garden-path",
-  16,
-  8
+  18,
+  10
  ],
  [
   "/articles/three-stories-on-adam",
-  16,
+  18,
   7
  ],
  [
-  "/articles/garvey-theology-garden",
-  15,
-  6
- ],
- [
-  "/articles/godawa-midrash",
-  15,
-  13
+  "/tag/gae",
+  16,
+  0
  ],
  [
   "/articles/why-we-talk-about-race",
@@ -156,8 +141,23 @@
  ],
  [
   "/tag/society",
-  14,
+  15,
   0
+ ],
+ [
+  "/articles/godawa-midrash",
+  14,
+  13
+ ],
+ [
+  "/articles/going-public-wsj",
+  14,
+  4
+ ],
+ [
+  "/articles/garvey-theology-garden",
+  13,
+  6
  ],
  [
   "/articles/andy-walsh-the-resurrection",
@@ -166,18 +166,13 @@
  ],
  [
   "/articles/ortlund-augustine",
-  12,
+  11,
   5
  ],
  [
-  "/articles/sy-garte-resurrection",
-  12,
-  4
- ],
- [
-  "/tag/evolution",
-  11,
-  0
+  "/articles/agree-behe",
+  10,
+  7
  ],
  [
   "/articles/response-to-madueme-scripture",
@@ -185,19 +180,29 @@
   4
  ],
  [
-  "/articles/agree-behe",
-  9,
-  7
+  "/articles/sy-garte-resurrection",
+  10,
+  3
  ],
  [
-  "/articles/cancer-evolution",
-  8,
+  "/tag/evolution",
+  10,
+  0
+ ],
+ [
+  "/articles/more-than-apes",
+  9,
   8
  ],
  [
   "/articles/gregg-davidson-resurrection-dawkins",
   8,
   6
+ ],
+ [
+  "/articles/cancer-evolution",
+  7,
+  7
  ],
  [
   "/articles/fair-hearing-behe",
@@ -210,11 +215,6 @@
   5
  ],
  [
-  "/articles/confessing-scientist",
-  6,
-  0
- ],
- [
   "/articles/isolation-tasmania",
   6,
   2
@@ -225,9 +225,24 @@
   2
  ],
  [
-  "/articles/more-than-apes",
+  "/articles/ortlund-hills",
   6,
-  6
+  4
+ ],
+ [
+  "/articles/stephen-matheson-humanists-invitation",
+  6,
+  0
+ ],
+ [
+  "/author/wlc",
+  6,
+  3
+ ],
+ [
+  "/muotri-neanderthal",
+  6,
+  0
  ],
  [
   "/tag/science",
@@ -240,24 +255,14 @@
   2
  ],
  [
-  "/articles/ortlund-hills",
-  5,
-  4
- ],
- [
-  "/articles/stephen-matheson-humanists-invitation",
+  "/articles/confessing-scientist",
   5,
   0
  ],
  [
-  "/articles/tour-pascal",
+  "/articles/greg-cootsona-intelligent-design",
   5,
-  3
- ],
- [
-  "/tag/theology",
-  5,
-  1
+  0
  ],
  [
   "/articles/assess-rtb-model",
@@ -265,9 +270,9 @@
   0
  ],
  [
-  "/articles/greg-cootsona-intelligent-design",
+  "/articles/new-old-ancient-conversation",
   4,
-  0
+  1
  ],
  [
   "/articles/scientist-woman-picture",
@@ -275,14 +280,19 @@
   0
  ],
  [
+  "/articles/tour-pascal",
+  4,
+  2
+ ],
+ [
+  "/articles/wrong-on-monophyletic",
+  4,
+  2
+ ],
+ [
   "/articles/wsj-ai-evangelicals",
   4,
   1
- ],
- [
-  "/author/wlc",
-  4,
-  2
  ],
  [
   "/download/excerpt-genealogical-adam-eve",
@@ -290,7 +300,12 @@
   1
  ],
  [
-  "/muotri-neanderthal",
+  "/imagination-game-aaas",
+  4,
+  0
+ ],
+ [
+  "/tag/dialogue",
   4,
   0
  ],
@@ -340,9 +355,9 @@
   1
  ],
  [
-  "/articles/new-old-ancient-conversation",
+  "/articles/methodological-naturalism",
   3,
-  1
+  2
  ],
  [
   "/articles/paumore-musings-on-killmitzer",
@@ -355,27 +370,7 @@
   0
  ],
  [
-  "/articles/the-axiom-of-belief",
-  3,
-  3
- ],
- [
   "/articles/time-comes",
-  3,
-  0
- ],
- [
-  "/articles/wrong-on-monophyletic",
-  3,
-  2
- ],
- [
-  "/authors-guide-and-call-for-submissions",
-  3,
-  1
- ],
- [
-  "/tag/dialogue",
   3,
   0
  ],
@@ -390,6 +385,16 @@
   0
  ],
  [
+  "/articles/darwin-day-2019",
+  2,
+  0
+ ],
+ [
+  "/articles/harris-evolutionary-evil",
+  2,
+  2
+ ],
+ [
   "/articles/human-origins-rtb-workshop",
   2,
   1
@@ -400,19 +405,14 @@
   1
  ],
  [
-  "/articles/methodological-naturalism",
-  2,
-  1
- ],
- [
-  "/articles/murphys-truthful-tree",
-  2,
-  1
- ],
- [
   "/articles/rygiol-science-art",
   2,
   0
+ ],
+ [
+  "/articles/the-axiom-of-belief",
+  2,
+  2
  ],
  [
   "/articles/todd-cade",
@@ -440,12 +440,17 @@
   0
  ],
  [
-  "/imagination-game-aaas",
+  "/is-jesus-greater.pdf",
   2,
   0
  ],
  [
-  "/is-jesus-greater.pdf",
+  "/page/2",
+  2,
+  0
+ ],
+ [
+  "/page/3",
   2,
   0
  ],
@@ -461,6 +466,11 @@
  ],
  [
   "/tag/gae/page/3",
+  2,
+  0
+ ],
+ [
+  "/tag/theology",
   2,
   0
  ],
@@ -495,21 +505,6 @@
   0
  ],
  [
-  "/articles/darwin-day-2019",
-  1,
-  0
- ],
- [
-  "/articles/evidence-and-evolution",
-  1,
-  1
- ],
- [
-  "/articles/harris-evolutionary-evil",
-  1,
-  1
- ],
- [
   "/articles/humility-of-our-scholars",
   1,
   1
@@ -518,6 +513,11 @@
   "/articles/inquiry-into-common-ground",
   1,
   1
+ ],
+ [
+  "/articles/launching",
+  1,
+  0
  ],
  [
   "/articles/lutherans-artistic-tree",
@@ -540,11 +540,6 @@
   0
  ],
  [
-  "/articles/one-flesh-joint-intentionality",
-  1,
-  0
- ],
- [
   "/articles/repairing-the-fracture",
   1,
   0
@@ -560,17 +555,7 @@
   0
  ],
  [
-  "/articles/venus-phosphine",
-  1,
-  0
- ],
- [
   "/articles/written-of-interviews-gae",
-  1,
-  0
- ],
- [
-  "/author/ciara",
   1,
   0
  ],
@@ -590,14 +575,14 @@
   1
  ],
  [
+  "/authors-guide-and-call-for-submissions",
+  1,
+  0
+ ],
+ [
   "/baldi-ai-science/#utm_source=rss&utm_medium=rss&utm_campaign=baldi-ai-science",
   1,
   1
- ],
- [
-  "/category/articles",
-  1,
-  0
  ],
  [
   "/category/blog",
@@ -621,6 +606,11 @@
  ],
  [
   "/download/posters",
+  1,
+  0
+ ],
+ [
+  "/page/4",
   1,
   0
  ],

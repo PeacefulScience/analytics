@@ -1,128 +1,138 @@
 [
  [
   "/articles/defense-tim-keller",
-  1209,
-  1039
+  1250,
+  1080
  ],
  [
   "/articles/why-i-went-public-evolution",
-  1179,
-  1038
+  1194,
+  1055
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  962,
-  824
+  1056,
+  892
  ],
  [
   "/articles/wlc-genetic-challenge",
-  799,
-  747
+  787,
+  741
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  521,
-  465
+  577,
+  515
  ],
  [
   "/forum",
-  121,
-  25
- ],
- [
-  "/videos/rtb-thinking-about-evolution",
-  64,
-  56
+  131,
+  22
  ],
  [
   "/wlc-responds-ham",
-  61,
-  48
- ],
- [
-  "/science-civil-rights-and-the-doll-test",
-  57,
-  45
+  59,
+  47
  ],
  [
   "/evolution-adam-eve",
+  58,
+  14
+ ],
+ [
+  "/videos/rtb-thinking-about-evolution",
+  55,
+  47
+ ],
+ [
+  "/science-civil-rights-and-the-doll-test",
   51,
-  12
+  41
  ],
  [
   "/videos/heiser-sacred-natural",
-  50,
-  33
+  46,
+  34
  ],
  [
   "/category/article",
-  41,
-  9
- ],
- [
-  "/genealogical-adam-eve",
-  41,
-  21
- ],
- [
-  "/articles/mission-and-values",
-  36,
-  7
+  44,
+  11
  ],
  [
   "/author/swamidass",
-  33,
-  10
+  39,
+  14
+ ],
+ [
+  "/genealogical-adam-eve",
+  39,
+  19
  ],
  [
   "/tag/confession",
-  33,
-  5
+  38,
+  3
+ ],
+ [
+  "/articles/mission-and-values",
+  32,
+  6
  ],
  [
   "/tag/adam-eve",
-  28,
+  29,
   1
  ],
  [
   "/compromise-on-creationism",
-  27,
+  26,
   3
  ],
  [
   "/articles/glenn-morton",
-  21,
+  23,
   16
  ],
  [
-  "/articles/genealogical-rapprochement",
-  19,
-  8
+  "/my-response-to-the-asas-apology",
+  23,
+  10
  ],
  [
   "/qa-wsj-compromise-on-creationism",
-  19,
+  21,
   9
  ],
  [
-  "/my-response-to-the-asas-apology",
-  18,
-  7
+  "/tag/gae",
+  19,
+  1
  ],
  [
-  "/tag/gae",
-  17,
+  "/tag/resurrection",
+  19,
   1
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  16,
+  14,
   1
  ],
  [
-  "/articles/three-stories-on-adam",
+  "/articles/going-public-wsj",
   14,
-  4
+  3
+ ],
+ [
+  "/articles/response-to-madueme-scripture",
+  13,
+  10
+ ],
+ [
+  "/articles/why-we-talk-about-race",
+  13,
+  11
  ],
  [
   "/tag/society",
@@ -130,19 +140,14 @@
   3
  ],
  [
-  "/articles/why-we-talk-about-race",
+  "/articles/genealogical-rapprochement",
   12,
-  10
+  5
  ],
  [
-  "/tag/resurrection",
+  "/articles/three-stories-on-adam",
   12,
-  1
- ],
- [
-  "/articles/going-public-wsj",
-  11,
-  3
+  4
  ],
  [
   "/articles/gregg-davidson-resurrection-dawkins",
@@ -150,14 +155,14 @@
   4
  ],
  [
-  "/articles/response-to-madueme-scripture",
+  "/tag/evolution",
   10,
-  7
+  0
  ],
  [
-  "/articles/agree-behe",
+  "/download/craig-mere-theistic-evolution",
   8,
-  5
+  6
  ],
  [
   "/tag/dialogue",
@@ -175,12 +180,22 @@
   7
  ],
  [
-  "/download/excerpt-genealogical-adam-eve",
+  "/articles/greg-cootsona-intelligent-design",
+  7,
+  3
+ ],
+ [
+  "/articles/scientist-woman-picture",
+  7,
+  1
+ ],
+ [
+  "/author/swamidass/page/2",
   7,
   0
  ],
  [
-  "/tag/evolution",
+  "/download/excerpt-genealogical-adam-eve",
   7,
   0
  ],
@@ -195,9 +210,9 @@
   5
  ],
  [
-  "/articles/garden-path",
+  "/articles/agree-behe",
   6,
-  5
+  4
  ],
  [
   "/articles/garvey-theology-garden",
@@ -205,27 +220,12 @@
   1
  ],
  [
-  "/articles/greg-cootsona-intelligent-design",
-  6,
-  2
- ],
- [
-  "/articles/more-than-apes",
-  6,
-  5
- ],
- [
-  "/articles/scientist-woman-picture",
+  "/tag/confession/page/2",
   6,
   1
  ],
  [
-  "/author/swamidass/page/2",
-  6,
-  0
- ],
- [
-  "/muotri-neanderthal",
+  "/tag/science",
   6,
   0
  ],
@@ -235,19 +235,9 @@
   5
  ],
  [
-  "/download/craig-mere-theistic-evolution",
-  5,
-  4
- ],
- [
   "/imagination-game-aaas",
   5,
   0
- ],
- [
-  "/tag/confession/page/2",
-  5,
-  1
  ],
  [
   "/articles/bryan-butler-image-of-god",
@@ -255,7 +245,7 @@
   2
  ],
  [
-  "/articles/harris-evolutionary-evil",
+  "/articles/garden-path",
   4,
   3
  ],
@@ -290,12 +280,7 @@
   1
  ],
  [
-  "/page/2",
-  4,
-  1
- ],
- [
-  "/tag/science",
+  "/muotri-neanderthal",
   4,
   0
  ],
@@ -305,12 +290,22 @@
   3
  ],
  [
-  "/articles/darwin-day-2019",
+  "/articles/cancer-evolution",
+  3,
+  1
+ ],
+ [
+  "/articles/confident-faith-science-3",
   3,
   0
  ],
  [
   "/articles/genealogical-science",
+  3,
+  2
+ ],
+ [
+  "/articles/harris-evolutionary-evil",
   3,
   2
  ],
@@ -322,12 +317,22 @@
  [
   "/articles/methodological-naturalism",
   3,
-  2
+  1
+ ],
+ [
+  "/articles/more-than-apes",
+  3,
+  3
+ ],
+ [
+  "/articles/ortlund-augustine",
+  3,
+  1
  ],
  [
   "/articles/sy-garte-resurrection",
   3,
-  2
+  1
  ],
  [
   "/articles/written-of-interviews-gae",
@@ -370,9 +375,9 @@
   1
  ],
  [
-  "/page/3",
+  "/page/2",
   3,
-  0
+  1
  ],
  [
   "/reworking-Adam",
@@ -385,17 +390,17 @@
   0
  ],
  [
-  "/articles/cancer-evolution",
-  2,
-  1
- ],
- [
   "/articles/common-ground-year-1",
   2,
   0
  ],
  [
-  "/articles/confident-faith-science-3",
+  "/articles/darwin-day-2019",
+  2,
+  0
+ ],
+ [
+  "/articles/evidence-and-evolution",
   2,
   0
  ],
@@ -405,22 +410,22 @@
   2
  ],
  [
-  "/articles/new-old-ancient-conversation",
+  "/articles/todd-cade",
   2,
   0
  ],
  [
-  "/articles/ortlund-augustine",
+  "/author/gmorton",
+  2,
+  0
+ ],
+ [
+  "/author/kristel",
   2,
   1
  ],
  [
-  "/articles/ortlund-hills",
-  2,
-  0
- ],
- [
-  "/articles/wrong-on-monophyletic",
+  "/category/blog",
   2,
   1
  ],
@@ -430,9 +435,19 @@
   0
  ],
  [
-  "/page/4",
+  "/videos/reviewing-adam-and-the-genome",
   2,
+  2
+ ],
+ [
+  "/articles/an-old-earther-on-peaceful-science",
+  1,
   0
+ ],
+ [
+  "/articles/changing-faces",
+  1,
+  1
  ],
  [
   "/articles/confessing-jesus-in-science",
@@ -445,12 +460,17 @@
   0
  ],
  [
+  "/articles/coronavirus-beauty",
+  1,
+  0
+ ],
+ [
   "/articles/covid-19-created-designed",
   1,
   1
  ],
  [
-  "/articles/evidence-and-evolution",
+  "/articles/fair-hearing-behe",
   1,
   0
  ],
@@ -470,11 +490,6 @@
   1
  ],
  [
-  "/articles/launching",
-  1,
-  0
- ],
- [
   "/articles/managing-mistakes",
   1,
   0
@@ -488,6 +503,11 @@
   "/articles/narnians-martians-neanderthals",
   1,
   1
+ ],
+ [
+  "/articles/ortlund-hills",
+  1,
+  0
  ],
  [
   "/articles/paumore-musings-on-killmitzer",
@@ -510,14 +530,14 @@
   0
  ],
  [
-  "/articles/todd-cade",
+  "/articles/tour-pascal",
   1,
   0
  ],
  [
-  "/articles/tour-pascal",
+  "/articles/wrong-on-monophyletic",
   1,
-  0
+  1
  ],
  [
   "/author/paul-s-braterman",
@@ -530,7 +550,7 @@
   0
  ],
  [
-  "/category/blog",
+  "/category/video",
   1,
   0
  ],
@@ -543,6 +563,16 @@
   "/latest",
   1,
   1
+ ],
+ [
+  "/page/3",
+  1,
+  0
+ ],
+ [
+  "/page/4",
+  1,
+  0
  ],
  [
   "/tag/adam-eve/page/3",
@@ -588,10 +618,5 @@
   "/videos/dover-behe",
   1,
   0
- ],
- [
-  "/videos/reviewing-adam-and-the-genome",
-  1,
-  1
  ]
 ]

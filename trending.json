@@ -1,173 +1,183 @@
 [
  [
   "/articles/why-i-went-public-evolution",
-  1148,
-  975
+  1114,
+  943
  ],
  [
   "/articles/defense-tim-keller",
-  1114,
-  886
+  1013,
+  817
  ],
  [
   "/evolution-adam-eve",
-  863,
-  738
+  889,
+  768
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  706,
-  618
+  739,
+  648
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  341,
-  289
+  326,
+  279
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  132,
-  91
+  142,
+  100
  ],
  [
   "/articles/wlc-genetic-challenge",
-  125,
-  94
- ],
- [
-  "/wlc-responds-ham",
-  105,
-  78
- ],
- [
-  "/forum",
-  103,
-  39
+  126,
+  103
  ],
  [
   "/thinking-about-evolution-and-progressive-creation",
-  82,
-  60
+  109,
+  81
+ ],
+ [
+  "/forum",
+  101,
+  35
+ ],
+ [
+  "/wlc-responds-ham",
+  94,
+  69
  ],
  [
   "/category/article",
-  65,
-  9
- ],
- [
-  "/genealogical-adam-eve",
-  60,
-  19
- ],
- [
-  "/author/swamidass",
-  59,
-  33
- ],
- [
-  "/articles/mission-and-values",
-  58,
+  69,
   11
  ],
  [
   "/articles/ortlund-augustine",
-  50,
-  41
- ],
- [
-  "/science-civil-rights-and-the-doll-test",
-  47,
-  36
- ],
- [
-  "/videos/heiser-sacred-natural",
-  44,
-  34
- ],
- [
-  "/articles/100-year-old-tree",
-  42,
-  24
+  64,
+  53
  ],
  [
   "/articles/genealogical-rapprochement",
-  41,
-  30
+  63,
+  47
+ ],
+ [
+  "/genealogical-adam-eve",
+  62,
+  20
+ ],
+ [
+  "/articles/mission-and-values",
+  60,
+  11
+ ],
+ [
+  "/author/swamidass",
+  59,
+  35
+ ],
+ [
+  "/science-civil-rights-and-the-doll-test",
+  52,
+  39
+ ],
+ [
+  "/articles/narnians-martians-neanderthals",
+  46,
+  39
  ],
  [
   "/articles/godawa-midrash",
-  39,
-  29
+  40,
+  33
+ ],
+ [
+  "/videos/heiser-sacred-natural",
+  38,
+  31
+ ],
+ [
+  "/articles/100-year-old-tree",
+  37,
+  21
+ ],
+ [
+  "/articles/coronavirus-beauty",
+  37,
+  33
  ],
  [
   "/tag/adam-eve",
-  37,
-  2
+  35,
+  3
  ],
  [
   "/compromise-on-creationism",
   30,
-  3
- ],
- [
-  "/articles/coronavirus-beauty",
-  26,
-  22
- ],
- [
-  "/articles/glenn-morton",
-  25,
-  14
+  2
  ],
  [
   "/tag/gae",
-  25,
+  24,
   3
  ],
  [
-  "/articles/narnians-martians-neanderthals",
+  "/articles/response-to-madueme-scripture",
+  23,
+  11
+ ],
+ [
+  "/articles/glenn-morton",
   22,
-  19
+  12
  ],
  [
   "/tag/confession",
-  18,
-  3
+  21,
+  4
+ ],
+ [
+  "/irb-ethics-artificial-intellligence",
+  20,
+  13
  ],
  [
   "/videos/rtb-thinking-about-evolution",
   18,
-  10
+  11
  ],
  [
   "/articles/garvey-theology-garden",
   17,
-  7
- ],
- [
-  "/irb-ethics-artificial-intellligence",
-  17,
-  10
- ],
- [
-  "/articles/response-to-madueme-scripture",
-  16,
   9
  ],
  [
+  "/articles/going-public-wsj",
+  13,
+  4
+ ],
+ [
+  "/download/excerpt-genealogical-adam-eve",
+  13,
+  1
+ ],
+ [
   "/articles/why-we-talk-about-race",
-  14,
+  12,
   7
  ],
  [
   "/my-response-to-the-asas-apology",
-  14,
-  7
+  12,
+  6
  ],
  [
   "/qa-wsj-compromise-on-creationism",
   12,
-  3
+  2
  ],
  [
   "/tag/evolution",
@@ -175,29 +185,14 @@
   2
  ],
  [
-  "/articles/evidence-and-evolution",
-  11,
-  5
- ],
- [
-  "/articles/going-public-wsj",
+  "/articles/confessing-scientist",
   10,
-  1
+  4
  ],
  [
   "/articles/three-stories-on-adam",
   10,
-  0
- ],
- [
-  "/download/excerpt-genealogical-adam-eve",
-  10,
   1
- ],
- [
-  "/articles/confessing-scientist",
-  9,
-  4
  ],
  [
   "/articles/agree-behe",
@@ -205,19 +200,29 @@
   4
  ],
  [
-  "/articles/gregg-davidson-resurrection-dawkins",
-  7,
-  2
- ],
- [
-  "/articles/sy-garte-resurrection",
-  7,
-  4
- ],
- [
   "/download/endorsements-genealogical-adam-eve",
-  7,
+  8,
   0
+ ],
+ [
+  "/genealogical-adam-eve/errata",
+  8,
+  0
+ ],
+ [
+  "/articles/cancer-evolution",
+  7,
+  3
+ ],
+ [
+  "/articles/evidence-and-evolution",
+  7,
+  3
+ ],
+ [
+  "/articles/more-than-apes",
+  7,
+  5
  ],
  [
   "/page/2",
@@ -225,14 +230,14 @@
   1
  ],
  [
-  "/articles/cancer-evolution",
-  6,
-  3
+  "/tag/dialogue",
+  7,
+  1
  ],
  [
-  "/articles/human-origins-rtb-workshop",
+  "/articles/gregg-davidson-resurrection-dawkins",
   6,
-  0
+  1
  ],
  [
   "/articles/ortlund-hills",
@@ -241,26 +246,6 @@
  ],
  [
   "/author/swamidass/page/2",
-  6,
-  0
- ],
- [
-  "/genealogical-adam-eve/errata",
-  6,
-  0
- ],
- [
-  "/tag/dialogue",
-  6,
-  1
- ],
- [
-  "/tag/society",
-  6,
-  0
- ],
- [
-  "/tag/theology",
   6,
   0
  ],
@@ -275,9 +260,19 @@
   2
  ],
  [
+  "/articles/human-origins-rtb-workshop",
+  5,
+  0
+ ],
+ [
   "/articles/isolation-tasmania",
   5,
   4
+ ],
+ [
+  "/articles/sy-garte-resurrection",
+  5,
+  2
  ],
  [
   "/articles/wrong-on-monophyletic",
@@ -295,29 +290,14 @@
   0
  ],
  [
-  "/category/projects/100-year-old-tree",
+  "/tag/society",
   5,
   0
  ],
  [
-  "/is-jesus-greater.pdf",
+  "/tag/theology",
   5,
-  1
- ],
- [
-  "/muotri-neanderthal",
-  5,
-  1
- ],
- [
-  "/articles/andy-walsh-the-resurrection",
-  4,
-  1
- ],
- [
-  "/articles/assess-rtb-model",
-  4,
-  1
+  0
  ],
  [
   "/articles/bryan-butler-image-of-god",
@@ -325,29 +305,9 @@
   2
  ],
  [
-  "/articles/confessing-jesus-in-science",
-  4,
-  0
- ],
- [
-  "/articles/garden-path",
-  4,
-  2
- ],
- [
-  "/articles/greg-cootsona-intelligent-design",
-  4,
-  0
- ],
- [
   "/articles/methodological-naturalism",
   4,
   3
- ],
- [
-  "/articles/more-than-apes",
-  4,
-  2
  ],
  [
   "/articles/reworking-adam",
@@ -365,14 +325,24 @@
   0
  ],
  [
-  "/articles/darwin-day-2019",
+  "/muotri-neanderthal",
+  4,
+  2
+ ],
+ [
+  "/tag/resurrection",
+  4,
+  0
+ ],
+ [
+  "/articles/confessing-jesus-in-science",
   3,
   0
  ],
  [
-  "/articles/humility-of-our-scholars",
+  "/articles/darwin-day-2019",
   3,
-  2
+  0
  ],
  [
   "/articles/implicated-vs-incidental",
@@ -400,7 +370,12 @@
   0
  ],
  [
-  "/tag/biologos",
+  "/category/projects/100-year-old-tree",
+  3,
+  0
+ ],
+ [
+  "/is-jesus-greater.pdf",
   3,
   0
  ],
@@ -410,14 +385,19 @@
   0
  ],
  [
-  "/tag/resurrection",
+  "/tag/science",
   3,
   0
  ],
  [
-  "/articles/cootsona-adam-eve",
+  "/articles/assess-rtb-model",
   2,
-  2
+  0
+ ],
+ [
+  "/articles/greg-cootsona-intelligent-design",
+  2,
+  0
  ],
  [
   "/articles/harris-evolutionary-evil",
@@ -431,11 +411,6 @@
  ],
  [
   "/articles/lents-in-usa-today",
-  2,
-  0
- ],
- [
-  "/articles/murphys-truthful-tree",
   2,
   0
  ],
@@ -457,7 +432,7 @@
  [
   "/articles/the-axiom-of-belief",
   2,
-  1
+  2
  ],
  [
   "/articles/the-barthian-tree",
@@ -470,9 +445,9 @@
   0
  ],
  [
-  "/author/sfmatheson",
+  "/author/kristel",
   2,
-  2
+  1
  ],
  [
   "/author/swamidass/page/5",
@@ -490,14 +465,9 @@
   0
  ],
  [
-  "/author/wlc",
+  "/tag/biologos",
   2,
   0
- ],
- [
-  "/download/craig-mere-theistic-evolution",
-  2,
-  2
  ],
  [
   "/tag/gae/page/3",
@@ -550,6 +520,11 @@
   0
  ],
  [
+  "/articles/cootsona-adam-eve",
+  1,
+  1
+ ],
+ [
   "/articles/covid-19-created-designed",
   1,
   1
@@ -560,9 +535,19 @@
   1
  ],
  [
+  "/articles/garden-path",
+  1,
+  0
+ ],
+ [
   "/articles/genealogical-science",
   1,
   0
+ ],
+ [
+  "/articles/humility-of-our-scholars",
+  1,
+  1
  ],
  [
   "/articles/kenneth-kemp-war",
@@ -575,14 +560,14 @@
   0
  ],
  [
-  "/articles/lutherans-artistic-tree",
-  1,
-  0
- ],
- [
   "/articles/on-peaceful-science",
   1,
   1
+ ],
+ [
+  "/articles/paumore-musings-on-killmitzer",
+  1,
+  0
  ],
  [
   "/articles/theological-history-science",
@@ -600,6 +585,11 @@
   1
  ],
  [
+  "/articles/venus-phosphine",
+  1,
+  0
+ ],
+ [
   "/articles/wsj-ai-evangelicals",
   1,
   0
@@ -615,7 +605,12 @@
   1
  ],
  [
-  "/author/kristel",
+  "/author/jh",
+  1,
+  0
+ ],
+ [
+  "/author/sfmatheson",
   1,
   1
  ],
@@ -626,11 +621,6 @@
  ],
  [
   "/author/swamidass/page/9",
-  1,
-  0
- ],
- [
-  "/author/timothy-saleska",
   1,
   0
  ],
@@ -648,6 +638,11 @@
   "/category/video",
   1,
   0
+ ],
+ [
+  "/download/craig-mere-theistic-evolution",
+  1,
+  1
  ],
  [
   "/tag/100-year-tree",
@@ -671,6 +666,16 @@
  ],
  [
   "/tag/forum",
+  1,
+  1
+ ],
+ [
+  "/tag/reasons-to-believe",
+  1,
+  0
+ ],
+ [
+  "/videos/baldi-ai-science",
   1,
   1
  ],

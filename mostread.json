@@ -1,32 +1,32 @@
 [
  [
   "/articles/why-i-went-public-evolution",
-  31508,
-  26551
+  31668,
+  26693
  ],
  [
   "/articles/defense-tim-keller",
-  28151,
-  23261
+  28277,
+  23371
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  24274,
-  21115
+  24373,
+  21201
  ],
  [
   "/articles/wlc-genetic-challenge",
-  20495,
-  18012
+  20512,
+  18025
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  15558,
-  13677
+  15575,
+  13688
  ],
  [
   "/forum",
-  11966,
+  11974,
   2454
  ],
  [
@@ -36,33 +36,38 @@
  ],
  [
   "/evolution-adam-eve",
-  7428,
-  5511
+  7579,
+  5639
  ],
  [
   "/genealogical-adam-eve",
-  4902,
-  2071
+  4915,
+  2077
  ],
  [
   "/category/article",
-  3670,
-  1612
+  3690,
+  1621
  ],
  [
   "/author/swamidass",
-  2713,
-  1485
+  2720,
+  1487
  ],
  [
   "/wlc-responds-ham",
-  2685,
-  1796
+  2705,
+  1807
  ],
  [
   "/videos/heiser-sacred-natural",
-  2655,
-  1833
+  2660,
+  1837
+ ],
+ [
+  "/science-civil-rights-and-the-doll-test",
+  2466,
+  1979
  ],
  [
   "/blog",
@@ -70,39 +75,34 @@
   268
  ],
  [
-  "/science-civil-rights-and-the-doll-test",
-  2452,
-  1965
- ],
- [
   "/articles/mission-and-values",
-  2382,
-  583
+  2397,
+  585
  ],
  [
   "/articles/gregg-davidson-resurrection-dawkins",
-  2344,
-  1706
+  2343,
+  1705
  ],
  [
   "/videos/rtb-thinking-about-evolution",
-  1897,
-  1465
+  1898,
+  1466
  ],
  [
   "/articles/genealogical-rapprochement",
-  1834,
-  1073
+  1831,
+  1075
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  1698,
-  947
+  1719,
+  966
  ],
  [
   "/articles/glenn-morton",
-  1499,
-  948
+  1496,
+  947
  ],
  [
   "/qa-wsj-compromise-on-creationism",
@@ -111,8 +111,8 @@
  ],
  [
   "/articles/godawa-midrash",
-  1378,
-  998
+  1392,
+  1013
  ],
  [
   "/articles/three-stories-on-adam",
@@ -126,12 +126,12 @@
  ],
  [
   "/my-response-to-the-asas-apology",
-  1273,
+  1275,
   710
  ],
  [
   "/articles/garvey-theology-garden",
-  1193,
+  1191,
   538
  ],
  [
@@ -141,12 +141,12 @@
  ],
  [
   "/articles/garden-path",
-  1041,
-  729
+  1042,
+  730
  ],
  [
   "/articles/sy-garte-resurrection",
-  1019,
+  1020,
   636
  ],
  [
@@ -156,47 +156,47 @@
  ],
  [
   "/articles/response-to-madueme-scripture",
-  988,
+  986,
   533
  ],
  [
   "/articles/100-year-old-tree",
-  965,
-  606
+  966,
+  607
  ],
  [
   "/articles/covid-19-created-designed",
-  930,
-  593
+  929,
+  592
  ],
  [
   "/articles/human-origins-rtb-workshop",
-  905,
+  906,
   429
  ],
  [
   "/compromise-on-creationism",
-  853,
+  856,
   186
  ],
  [
   "/articles/ortlund-augustine",
-  838,
-  556
+  850,
+  567
  ],
  [
   "/download/excerpt-genealogical-adam-eve",
-  793,
-  407
+  792,
+  405
  ],
  [
   "/articles/ortlund-hills",
-  775,
-  561
+  774,
+  562
  ],
  [
   "/tag/confession",
-  765,
+  767,
   138
  ],
  [
@@ -205,19 +205,19 @@
   369
  ],
  [
+  "/videos/quayshawn-spencer-race",
+  675,
+  449
+ ],
+ [
   "/articles/going-public-wsj",
   671,
   129
  ],
  [
-  "/videos/quayshawn-spencer-race",
-  671,
-  448
- ],
- [
   "/articles/evidence-and-evolution",
-  649,
-  243
+  648,
+  242
  ],
  [
   "/articles/greg-cootsona-intelligent-design",
@@ -231,7 +231,7 @@
  ],
  [
   "/tag/gae",
-  608,
+  610,
   58
  ],
  [
@@ -241,62 +241,62 @@
  ],
  [
   "/articles/narnians-martians-neanderthals",
-  578,
-  351
+  587,
+  360
  ],
  [
   "/articles/wrong-on-monophyletic",
-  574,
+  573,
   346
  ],
  [
   "/articles/methodological-naturalism",
-  546,
-  373
+  547,
+  374
  ],
  [
   "/tag/society",
-  538,
+  537,
   55
  ],
  [
-  "/articles/garvey-generations",
-  484,
-  197
- ],
- [
   "/articles/bryan-butler-image-of-god",
-  483,
-  281
+  484,
+  280
  ],
  [
-  "/articles/age-rubios-earth",
-  472,
-  263
+  "/articles/garvey-generations",
+  483,
+  196
  ],
  [
   "/articles/coronavirus-beauty",
-  469,
-  322
+  478,
+  330
+ ],
+ [
+  "/articles/age-rubios-earth",
+  470,
+  262
  ],
  [
   "/articles/confessing-scientist",
-  447,
-  179
+  449,
+  181
  ],
  [
   "/articles/isolation-tasmania",
-  431,
+  433,
   227
  ],
  [
   "/tag/resurrection",
   421,
-  63
+  62
  ],
  [
   "/articles/more-than-apes",
-  406,
+  407,
   274
  ],
  [
@@ -320,6 +320,11 @@
   63
  ],
  [
+  "/thinking-about-evolution-and-progressive-creation",
+  375,
+  228
+ ],
+ [
   "/blog/page/2",
   374,
   8
@@ -331,23 +336,18 @@
  ],
  [
   "/tag/science",
-  372,
+  373,
   37
  ],
  [
-  "/thinking-about-evolution-and-progressive-creation",
-  369,
-  227
+  "/imagination-game-aaas",
+  368,
+  92
  ],
  [
   "/videos/moreland-minds-soul",
   368,
   211
- ],
- [
-  "/imagination-game-aaas",
-  367,
-  92
  ],
  [
   "/articles/cootsona-adam-eve",
@@ -356,8 +356,8 @@
  ],
  [
   "/muotri-neanderthal",
-  362,
-  142
+  364,
+  143
  ],
  [
   "/rogero-executive-director",
@@ -371,8 +371,8 @@
  ],
  [
   "/articles/cancer-evolution",
-  351,
-  244
+  352,
+  246
  ],
  [
   "/articles/scientist-woman-picture",
@@ -381,7 +381,7 @@
  ],
  [
   "/genealogical-adam-eve/errata",
-  335,
+  336,
   116
  ],
  [
@@ -401,8 +401,8 @@
  ],
  [
   "/articles/new-old-ancient-conversation",
-  325,
-  123
+  326,
+  124
  ],
  [
   "/videos/miller-textbook-dover",
@@ -431,7 +431,7 @@
  ],
  [
   "/404.html",
-  278,
+  277,
   145
  ],
  [
@@ -451,8 +451,8 @@
  ],
  [
   "/articles/venus-phosphine",
-  251,
-  141
+  250,
+  140
  ],
  [
   "/articles/time-comes",
@@ -471,18 +471,18 @@
  ],
  [
   "/articles/kenneth-kemp-war",
-  223,
-  101
+  224,
+  103
  ],
  [
   "/articles/assess-rtb-model",
-  221,
+  222,
   60
  ],
  [
   "/articles/paumore-musings-on-killmitzer",
-  221,
-  110
+  222,
+  109
  ],
  [
   "/articles/written-of-interviews-gae",
@@ -501,18 +501,18 @@
  ],
  [
   "/category/blog",
-  204,
+  203,
   61
+ ],
+ [
+  "/articles/reworking-adam",
+  198,
+  102
  ],
  [
   "/articles/humans-rendered-apart",
   197,
   83
- ],
- [
-  "/articles/reworking-adam",
-  197,
-  101
  ],
  [
   "/articles/trust-between-worlds",
@@ -551,7 +551,7 @@
  ],
  [
   "/videos/steven-olson-the-apocalypse-factory",
-  172,
+  171,
   101
  ],
  [
@@ -600,8 +600,13 @@
   73
  ],
  [
-  "/articles/one-flesh-joint-intentionality",
+  "/irb-ethics-artificial-intellligence",
   132,
+  89
+ ],
+ [
+  "/articles/one-flesh-joint-intentionality",
+  130,
   46
  ],
  [
@@ -610,9 +615,9 @@
   45
  ],
  [
-  "/irb-ethics-artificial-intellligence",
+  "/videos/baldi-ai-science",
   128,
-  86
+  57
  ],
  [
   "/author/kristel",
@@ -625,13 +630,8 @@
   33
  ],
  [
-  "/videos/baldi-ai-science",
-  126,
-  57
- ],
- [
   "/author/swamidass/page/3",
-  119,
+  120,
   9
  ],
  [
@@ -651,17 +651,17 @@
  ],
  [
   "/articles/billy-graham-anthropology",
-  112,
-  48
+  111,
+  47
  ],
  [
   "/category/podcast",
   108,
-  35
+  34
  ],
  [
   "/articles/murphys-truthful-tree",
-  106,
+  105,
   18
  ],
  [
@@ -695,11 +695,6 @@
   43
  ],
  [
-  "/articles/front-porch",
-  88,
-  19
- ],
- [
   "/articles/new-voice",
   88,
   30
@@ -715,6 +710,11 @@
   48
  ],
  [
+  "/articles/front-porch",
+  85,
+  19
+ ],
+ [
   "/articles/repairing-the-fracture",
   85,
   39
@@ -726,7 +726,7 @@
  ],
  [
   "/author/swamidass/page/4",
-  81,
+  82,
   2
  ],
  [
@@ -735,14 +735,14 @@
   4
  ],
  [
+  "/is-phosphine-venus-clouds",
+  76,
+  49
+ ],
+ [
   "/tag/ancestry",
   76,
   19
- ],
- [
-  "/articles/an-old-earther-on-peaceful-science",
-  74,
-  20
  ],
  [
   "/articles/ancestral-shadow",
@@ -750,9 +750,19 @@
   30
  ],
  [
+  "/articles/an-old-earther-on-peaceful-science",
+  73,
+  20
+ ],
+ [
   "/articles/camel-chews-miracle-tree",
   73,
   13
+ ],
+ [
+  "/author/dga",
+  73,
+  7
  ],
  [
   "/blog/page/7",
@@ -760,33 +770,23 @@
   3
  ],
  [
-  "/author/dga",
-  72,
-  7
- ],
- [
-  "/is-phosphine-venus-clouds",
-  72,
-  45
- ],
- [
-  "/articles/bring-questions-of-ai",
-  71,
-  25
- ],
- [
   "/blog/page/6",
   71,
   0
  ],
  [
+  "/articles/bring-questions-of-ai",
+  70,
+  25
+ ],
+ [
   "/articles/peace-be-with-you",
-  67,
+  65,
   11
  ],
  [
   "/articles/on-peaceful-science",
-  66,
+  64,
   14
  ],
  [
@@ -806,8 +806,13 @@
  ],
  [
   "/author/swamidass/page/5",
-  61,
+  62,
   7
+ ],
+ [
+  "/tag/race",
+  62,
+  12
  ],
  [
   "/genealogical-adam-eve/endorsements",
@@ -815,19 +820,19 @@
   7
  ],
  [
-  "/tag/race",
-  61,
-  12
- ],
- [
   "/author/jgarvey",
-  51,
-  39
+  53,
+  40
  ],
  [
   "/author/rogero",
-  51,
-  31
+  50,
+  30
+ ],
+ [
+  "/author/swamidass/page/6",
+  50,
+  6
  ],
  [
   "/category/projects/100-year-old-tree",
@@ -845,18 +850,13 @@
   0
  ],
  [
-  "/author/swamidass/page/6",
-  48,
-  6
+  "/is-jesus-greater.pdf",
+  49,
+  3
  ],
  [
   "/tag/news",
   48,
-  3
- ],
- [
-  "/is-jesus-greater.pdf",
-  47,
   3
  ],
  [
@@ -875,19 +875,19 @@
   26
  ],
  [
-  "/download/confident-faith-in-science",
-  41,
-  32
- ],
- [
-  "/articles/history-of-science",
-  40,
-  6
- ],
- [
   "/articles/inquiry-into-common-ground",
   40,
   23
+ ],
+ [
+  "/articles/history-of-science",
+  39,
+  6
+ ],
+ [
+  "/download/confident-faith-in-science",
+  39,
+  31
  ],
  [
   "/author/gmorton",
@@ -906,7 +906,7 @@
  ],
  [
   "/author/timothy-saleska",
-  35,
+  34,
   20
  ],
  [
@@ -935,6 +935,11 @@
   2
  ],
  [
+  "/author/swamidass/page/7",
+  27,
+  0
+ ],
+ [
   "/category/video",
   27,
   0
@@ -950,19 +955,14 @@
   9
  ],
  [
-  "/author/swamidass/page/7",
-  26,
-  0
+  "/author/swamidass/page/8",
+  22,
+  3
  ],
  [
   "/tag/art",
   22,
   9
- ],
- [
-  "/author/swamidass/page/8",
-  21,
-  3
  ],
  [
   "/download/posters",
@@ -985,14 +985,14 @@
   0
  ],
  [
+  "/tag/gae/page/2",
+  20,
+  1
+ ],
+ [
   "/author/gdavidson",
   19,
   0
- ],
- [
-  "/tag/gae/page/2",
-  19,
-  1
  ],
  [
   "/tag/adam-eve/page/3",
@@ -1080,6 +1080,11 @@
   3
  ],
  [
+  "/author/swamidass/page/9",
+  10,
+  0
+ ],
+ [
   "/category/articles",
   10,
   4
@@ -1098,11 +1103,6 @@
   "/author/paul-s-braterman",
   9,
   3
- ],
- [
-  "/author/swamidass/page/9",
-  9,
-  0
  ],
  [
   "/blog/page/11",
@@ -1476,6 +1476,11 @@
  ],
  [
   "/daniel-ang-a-scientist-looks-at-the-resurrection/null",
+  1,
+  1
+ ],
+ [
+  "/daniew-ang-a-scientist-looks-at-the-resurection",
   1,
   1
  ],

@@ -1,37 +1,53 @@
 # Netlify redirects
 
 # From aliases frontmatter
+/articles/biologos-evolving-position/ /articles/biologos-uturn-adam-eve-position/
+/pentecostal-smithsonian/ /articles/pentecostal-smithsonian/
+/is-phosphine-venus-clouds/ /articles/is-phosphine-venus-clouds/
+/thinking-about-evolution-and-progressive-creation/ /articles/thinking-about-evolution-and-progressive-creation/
+/irb-ethics-artificial-intellligence/ /articles/irb-ethics-artificial-intellligence/
+/evolution-adam-eve/ /articles/evolution-adam-eve/
+/compromise-on-creationism/ /articles/compromise-on-creationism/
+/qa-wsj-compromise-on-creationism/ /articles/qa-wsj-compromise-on-creationism/
+/authors-guide-and-call-for-submissions/ /articles/authors-guide-and-call-for-submissions/
+/my-response-to-the-asas-apology/ /articles/my-response-to-the-asas-apology/
+/asa-response/ /articles/my-response-to-the-asas-apology/
+/imagination-game-aaas/ /articles/imagination-game-aaas/
+/muotri-neanderthal/ /articles/muotri-neanderthal/
+/wlc-responds-ham/ /articles/wlc-responds-ham/
+/science-civil-rights-and-the-doll-test/ /articles/science-civil-rights-and-the-doll-test/
 /scientist-woman-picture/ /articles/scientist-woman-picture/
 /correction-policy/ /articles/correction-policy/
 /why-we-talk-about-race/ /articles/why-we-talk-about-race/
-/rtb-thinking-about-evolution/ /videos/rtb-thinking-about-evolution/
-/heiser-sacred-natural/ /videos/heiser-sacred-natural/
+/rtb-thinking-about-evolution/ /articles/rtb-thinking-about-evolution/
+/heiser-sacred-natural/ /articles/heiser-sacred-natural/
 /biologos-stealth-deletes-an-article/ /articles/biologos-stealth-deletes-an-article/
 /paumore-musings-on-killmitzer/ /articles/paumore-musings-on-killmitzer/
-/inazu-humility-tolerance-patience/ /videos/inazu-humility-tolerance-patience/
-/barbara-forrest-trojan-horse-at-dover/ /videos/barbara-forrest-trojan-horse-at-dover/
+/inazu-humility-tolerance-patience/ /articles/inazu-humility-tolerance-patience/
+/barbara-forrest-trojan-horse-at-dover/ /articles/barbara-forrest-trojan-horse-at-dover/
 /coronavirus-beauty/ /articles/coronavirus-beauty/
-/baldi-ai-science/ /videos/baldi-ai-science/
-/tour-friendship-across-disagreements/ /videos/tour-friendship-across-disagreements/
+/baldi-ai-science/ /articles/baldi-ai-science/
+/tour-friendship-across-disagreements/ /articles/tour-friendship-across-disagreements/
 /bryan-butler-image-of-god/ /articles/bryan-butler-image-of-god/
 /why-i-went-public-evolution/ /articles/why-i-went-public-evolution/
 /going-public-wsj/ /articles/going-public-wsj/
-/miller-textbook-dover/ /videos/miller-textbook-dover/
-/dover-behe/ /videos/dover-behe/
+/miller-textbook-dover/ /articles/miller-textbook-dover/
+/dover-behe/ /articles/dover-behe/
 /kenneth-kemp-war/ /articles/kenneth-kemp-war/
-/scott-dover-science-hat/ /videos/scott-dover-science-hat/
+/scott-dover-science-hat/ /articles/scott-dover-science-hat/
 /greg-cootsona-intelligent-design/ /articles/greg-cootsona-intelligent-design/
 /venus-phosphine/ /articles/venus-phosphine/
-/ecklund-science-faith/ /videos/ecklund-science-faith/
+/ecklund-science-faith/ /articles/ecklund-science-faith/
 /glenn-morton/ /articles/glenn-morton/
-/steven-olson-the-apocalypse-factory/ /videos/steven-olson-the-apocalypse-factory/
+/glenn-morton-yec/ /articles/glenn-morton/
+/steven-olson-the-apocalypse-factory/ /articles/steven-olson-the-apocalypse-factory/
 /stephen-matheson-humanists-invitation/ /articles/stephen-matheson-humanists-invitation/
 /ortlund-augustine/ /articles/ortlund-augustine/
 /humans-rendered-apart/ /articles/humans-rendered-apart/
 /definition-race/ /articles/definition-race/
-/quayshawn-spencer-race/ /videos/quayshawn-spencer-race/
-/rutherford-racist/ /videos/rutherford-racist/
-/moreland-minds-soul/ /videos/moreland-minds-soul/
+/quayshawn-spencer-race/ /articles/quayshawn-spencer-race/
+/rutherford-racist/ /articles/rutherford-racist/
+/moreland-minds-soul/ /articles/moreland-minds-soul/
 /garvey-theology-garden/ /articles/garvey-theology-garden/
 /wlc-genetic-challenge/ /articles/wlc-genetic-challenge/
 /ortlund-hills/ /articles/ortlund-hills/
@@ -57,7 +73,7 @@
 /sy-garte-resurrection/ /articles/sy-garte-resurrection/
 /logo-meaning/ /articles/logo-meaning/
 /lents-in-usa-today/ /articles/lents-in-usa-today/
-/changing-faces/ /articles/changing-faces/
+/changing-faces/ /news/changing-faces/
 /trust-between-worlds/ /articles/trust-between-worlds/
 /rygiol-science-art/ /articles/rygiol-science-art/
 /wsj-ai-evangelicals/ /articles/wsj-ai-evangelicals/
@@ -90,6 +106,7 @@
 /join-the-conversation/ /articles/join-the-conversation/
 /peace-be-with-you/ /articles/peace-be-with-you/
 /reworking-adam/ /articles/reworking-adam/
+/reworking-Adam/ /articles/reworking-adam/
 /todd-cade/ /articles/todd-cade/
 /harris-evolutionary-evil/ /articles/harris-evolutionary-evil/
 /confident-faith-science-3/ /articles/confident-faith-science-3/
@@ -97,7 +114,7 @@
 /genealogical-rapprochement/ /articles/genealogical-rapprochement/
 /defense-tim-keller/ /articles/defense-tim-keller/
 /tour-pascal/ /articles/tour-pascal/
-/reviewing-adam-and-the-genome/ /videos/reviewing-adam-and-the-genome/
+/reviewing-adam-and-the-genome/ /articles/reviewing-adam-and-the-genome/
 /confessing-jesus-in-science/ /articles/confessing-jesus-in-science/
 /genealogical-science/ /articles/genealogical-science/
 /confident-faith-science-2/ /articles/confident-faith-science-2/
@@ -115,6 +132,11 @@
 /100-year-old-tree/ /articles/100-year-old-tree/
 /evidence-and-evolution/ /articles/evidence-and-evolution/
 /age-rubios-earth/ /articles/age-rubios-earth/
+/genealogical-adam-eve/erratum /genealogical-adam-eve/
+/genealogical-adam-eve/endorsement /genealogical-adam-eve/
+/genealogical-adam-eve/excerpt /genealogical-adam-eve/
 # from redirects partial
-/swamidass-confident-faith.pdf /pdfs/swamidass-confident-faith.pdf 200
+/wp-content/uploads/pdfs/* /pdf/:splat
+/swamidass-confident-faith.pdf /pdf/swamidass-confident-faith.pdf
+/wp-content/uploads/* /img/:splat
 

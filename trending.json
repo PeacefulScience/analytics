@@ -1,112 +1,112 @@
 [
  [
   "/articles/why-i-went-public-evolution",
-  1027,
-  845
+  1056,
+  874
  ],
  [
   "/articles/evolution-adam-eve",
-  975,
-  894
+  1017,
+  935
  ],
  [
   "/articles/defense-tim-keller",
-  821,
-  660
+  875,
+  722
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  719,
-  653
+  763,
+  700
  ],
  [
   "/articles/biologos-uturn-adam-eve-position",
-  574,
-  389
+  386,
+  241
  ],
  [
   "/articles/ortlund-augustine",
-  108,
-  103
+  113,
+  108
  ],
  [
   "/articles/wlc-genetic-challenge",
   108,
-  87
+  90
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  100,
+  97,
   89
  ],
  [
   "/articles/genealogical-rapprochement",
-  91,
-  84
- ],
- [
-  "/articles/pentecostal-smithsonian",
-  87,
-  32
+  97,
+  91
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  87,
+  90,
   81
  ],
  [
-  "/articles/wlc-responds-ham",
-  75,
-  51
+  "/articles/pentecostal-smithsonian",
+  86,
+  34
  ],
  [
   "/genealogical-adam-eve",
-  66,
-  21
+  69,
+  20
  ],
  [
-  "/articles/narnians-martians-neanderthals",
-  62,
-  56
- ],
- [
-  "/articles/heiser-sacred-natural",
-  59,
-  41
+  "/articles/wlc-responds-ham",
+  68,
+  47
  ],
  [
   "/archive",
-  54,
-  14
+  64,
+  17
+ ],
+ [
+  "/articles/heiser-sacred-natural",
+  64,
+  44
+ ],
+ [
+  "/articles/narnians-martians-neanderthals",
+  59,
+  55
  ],
  [
   "/articles/godawa-midrash",
-  48,
-  41
+  45,
+  38
  ],
  [
   "/forum",
-  43,
-  16
- ],
- [
-  "/articles/coronavirus-beauty",
   40,
-  35
+  14
  ],
  [
   "/articles/mission-and-values",
-  29,
-  4
+  38,
+  7
+ ],
+ [
+  "/articles/coronavirus-beauty",
+  34,
+  31
  ],
  [
   "/authors/swamidass",
-  29,
-  5
+  31,
+  7
  ],
  [
   "/articles/glenn-morton",
-  28,
+  29,
   18
  ],
  [
@@ -121,28 +121,23 @@
  ],
  [
   "/articles/is-phosphine-venus-clouds",
-  20,
-  4
+  19,
+  5
+ ],
+ [
+  "/articles/sy-garte-resurrection",
+  17,
+  7
  ],
  [
   "/articles/science-civil-rights-and-the-doll-test",
-  17,
-  13
- ],
- [
-  "/articles/confessing-scientist",
   15,
-  1
+  12
  ],
  [
   "/articles/garvey-theology-garden",
-  15,
-  3
- ],
- [
-  "/articles/response-to-madueme-scripture",
-  15,
-  10
+  14,
+  2
  ],
  [
   "/articles/why-we-talk-about-race",
@@ -150,18 +145,28 @@
   11
  ],
  [
-  "/categories/gae",
-  14,
-  3
+  "/articles/confessing-scientist",
+  13,
+  0
  ],
  [
   "/articles/methodological-naturalism",
-  13,
-  10
+  12,
+  9
+ ],
+ [
+  "/articles/response-to-madueme-scripture",
+  12,
+  8
  ],
  [
   "/articles/rtb-thinking-about-evolution",
-  13,
+  12,
+  3
+ ],
+ [
+  "/articles/gregg-davidson-resurrection-dawkins",
+  11,
   4
  ],
  [
@@ -170,43 +175,23 @@
   1
  ],
  [
+  "/articles/ortlund-hills",
+  10,
+  7
+ ],
+ [
   "/articles/robert-canfield",
   10,
   7
  ],
  [
-  "/articles/sy-garte-resurrection",
-  10,
-  4
- ],
- [
-  "/articles/humility-of-our-scholars",
-  9,
-  2
- ],
- [
-  "/articles/muotri-neanderthal",
-  9,
-  1
- ],
- [
-  "/articles/ortlund-hills",
-  9,
-  6
- ],
- [
   "/articles/three-stories-on-adam",
-  9,
-  1
- ],
- [
-  "/articles/andy-walsh-the-resurrection",
-  8,
+  10,
   2
  ],
  [
-  "/articles/going-public-wsj",
-  8,
+  "/categories/gae",
+  9,
   0
  ],
  [
@@ -225,13 +210,28 @@
   1
  ],
  [
+  "/articles/andy-walsh-the-resurrection",
+  7,
+  2
+ ],
+ [
+  "/articles/going-public-wsj",
+  7,
+  0
+ ],
+ [
   "/articles/irb-ethics-artificial-intellligence",
   7,
   4
  ],
  [
-  "/categories/adam-eve",
+  "/articles/muotri-neanderthal",
   7,
+  1
+ ],
+ [
+  "/archive/page/14",
+  6,
   0
  ],
  [
@@ -240,19 +240,9 @@
   0
  ],
  [
-  "/articles/compromise-on-creationism",
+  "/categories/adam-eve",
   6,
-  2
- ],
- [
-  "/articles/greg-cootsona-intelligent-design",
-  6,
-  2
- ],
- [
-  "/articles/gregg-davidson-resurrection-dawkins",
-  6,
-  4
+  0
  ],
  [
   "/categories/science",
@@ -265,19 +255,9 @@
   0
  ],
  [
-  "/archive/page/14",
-  5,
-  0
- ],
- [
   "/archive/page/3",
   5,
   0
- ],
- [
-  "/articles",
-  5,
-  1
  ],
  [
   "/articles/cancer-evolution",
@@ -285,9 +265,9 @@
   3
  ],
  [
-  "/articles/garden-path",
+  "/articles/compromise-on-creationism",
   5,
-  2
+  3
  ],
  [
   "/articles/harris-evolutionary-evil",
@@ -295,19 +275,44 @@
   3
  ],
  [
+  "/articles/humility-of-our-scholars",
+  5,
+  2
+ ],
+ [
+  "/articles/more-than-apes",
+  5,
+  4
+ ],
+ [
+  "/articles/thinking-about-evolution-and-progressive-creation",
+  5,
+  1
+ ],
+ [
   "/archive/page/4",
   4,
   0
  ],
  [
-  "/articles/agree-behe",
+  "/articles",
+  4,
+  0
+ ],
+ [
+  "/articles/barbara-forrest-trojan-horse-at-dover",
   4,
   2
  ],
  [
-  "/articles/authors-guide-and-call-for-submissions",
+  "/articles/greg-cootsona-intelligent-design",
   4,
-  4
+  2
+ ],
+ [
+  "/articles/qa-wsj-compromise-on-creationism",
+  4,
+  0
  ],
  [
   "/articles/reviewing-adam-and-the-genome",
@@ -320,17 +325,32 @@
   2
  ],
  [
-  "/articles/thinking-about-evolution-and-progressive-creation",
+  "/articles/written-of-interviews-gae",
   4,
   1
  ],
  [
-  "/categories/confession",
+  "/authors/dga",
   4,
-  1
+  0
+ ],
+ [
+  "/categories/dialogue",
+  4,
+  0
  ],
  [
   "/categories/evolution",
+  4,
+  0
+ ],
+ [
+  "/categories/resurrection",
+  4,
+  0
+ ],
+ [
+  "/categories/society",
   4,
   0
  ],
@@ -350,6 +370,11 @@
   2
  ],
  [
+  "/articles/agree-behe",
+  3,
+  2
+ ],
+ [
   "/articles/baldi-ai-science",
   3,
   1
@@ -360,14 +385,9 @@
   0
  ],
  [
-  "/articles/more-than-apes",
+  "/articles/garden-path",
   3,
   2
- ],
- [
-  "/articles/qa-wsj-compromise-on-creationism",
-  3,
-  0
  ],
  [
   "/articles/the-barthian-tree",
@@ -380,32 +400,12 @@
   3
  ],
  [
-  "/articles/written-of-interviews-gae",
-  3,
-  1
- ],
- [
-  "/authors/dga",
-  3,
-  0
- ],
- [
   "/authors/gmurphy",
   3,
   1
  ],
  [
-  "/categories/dialogue",
-  3,
-  0
- ],
- [
-  "/categories/society",
-  3,
-  0
- ],
- [
-  "/categories/theology",
+  "/categories/confession",
   3,
   0
  ],
@@ -425,7 +425,7 @@
   0
  ],
  [
-  "/articles/barbara-forrest-trojan-horse-at-dover",
+  "/articles/authors-guide-and-call-for-submissions",
   2,
   2
  ],
@@ -435,12 +435,12 @@
   1
  ],
  [
-  "/articles/dover-behe",
+  "/articles/evidence-and-evolution",
   2,
-  1
+  0
  ],
  [
-  "/articles/evidence-and-evolution",
+  "/articles/lents-in-usa-today",
   2,
   0
  ],
@@ -455,7 +455,7 @@
   1
  ],
  [
-  "/articles/scientist-woman-picture",
+  "/articles/paumore-musings-on-killmitzer",
   2,
   0
  ],
@@ -465,17 +465,12 @@
   1
  ],
  [
-  "/articles/wsj-ai-evangelicals",
-  2,
-  0
- ],
- [
   "/authors/wlc",
   2,
   0
  ],
  [
-  "/categories/biologos",
+  "/categories/forum",
   2,
   0
  ],
@@ -486,6 +481,11 @@
  ],
  [
   "/categories/science/page/5",
+  2,
+  0
+ ],
+ [
+  "/categories/theology",
   2,
   0
  ],
@@ -520,12 +520,17 @@
   0
  ],
  [
-  "/articles/covid-19-created-designed",
+  "/articles/darwin-day-2019",
+  1,
+  0
+ ],
+ [
+  "/articles/digital-dialogue",
   1,
   1
  ],
  [
-  "/articles/digital-dialogue",
+  "/articles/fair-hearing-behe",
   1,
   1
  ],
@@ -540,12 +545,12 @@
   1
  ],
  [
-  "/articles/isolation-tasmania",
+  "/articles/join-the-conversation",
   1,
-  1
+  0
  ],
  [
-  "/articles/lents-in-usa-today",
+  "/articles/kenneth-kemp-war",
   1,
   0
  ],
@@ -568,6 +573,11 @@
   "/articles/new-old-ancient-conversation",
   1,
   0
+ ],
+ [
+  "/articles/page/2",
+  1,
+  1
  ],
  [
   "/articles/reworking-adam",
@@ -595,16 +605,6 @@
   0
  ],
  [
-  "/articles/venus-phosphine",
-  1,
-  1
- ],
- [
-  "/authors/dkwon",
-  1,
-  0
- ],
- [
   "/authors/dr-paul-metzger",
   1,
   0
@@ -621,6 +621,11 @@
  ],
  [
   "/authors/rogero",
+  1,
+  1
+ ],
+ [
+  "/authors/sfmatheson",
   1,
   1
  ],
@@ -660,6 +665,11 @@
   0
  ],
  [
+  "/categories/biologos",
+  1,
+  0
+ ],
+ [
   "/categories/news",
   1,
   0
@@ -680,12 +690,7 @@
   1
  ],
  [
-  "/series",
-  1,
-  0
- ],
- [
-  "/series/dover-15",
+  "/news/changing-faces",
   1,
   0
  ]

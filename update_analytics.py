@@ -79,7 +79,7 @@ def normalize_url(url):
 
   return p
 
-load_redirects()
+#load_redirects()
 
 def clean_up_table(rows):
   R = []

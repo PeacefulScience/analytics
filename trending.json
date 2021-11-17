@@ -1,103 +1,103 @@
 [
  [
   "/articles/why-i-went-public-evolution",
-  1418,
-  1239
+  1376,
+  1215
  ],
  [
   "/articles/evolution-adam-eve",
-  1204,
-  1073
- ],
- [
-  "/articles/may-scientists-care-adam-eve",
-  1185,
-  997
+  1195,
+  1062
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  801,
-  751
+  837,
+  781
  ],
  [
   "/articles/defense-tim-keller",
-  463,
-  362
+  577,
+  481
  ],
  [
-  "/articles/wlc-schooled-evolution",
-  167,
-  135
+  "/articles/may-scientists-care-adam-eve",
+  422,
+  324
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  144,
-  131
+  132,
+  120
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  127,
-  104
+  130,
+  107
+ ],
+ [
+  "/articles/wlc-schooled-evolution",
+  128,
+  107
  ],
  [
   "/articles/wlc-responds-ham",
-  88,
-  75
- ],
- [
-  "/articles/biologos-uturn-adam-eve-position",
-  84,
-  26
- ],
- [
-  "/articles/heiser-sacred-natural",
   81,
-  67
+  69
  ],
  [
   "/articles/science-civil-rights-and-the-doll-test",
-  81,
+  80,
   68
  ],
  [
+  "/articles/biologos-uturn-adam-eve-position",
+  69,
+  25
+ ],
+ [
+  "/articles/heiser-sacred-natural",
+  66,
+  59
+ ],
+ [
   "/articles",
-  70,
+  64,
   8
  ],
  [
-  "/genealogical-adam-eve",
-  53,
-  21
- ],
- [
   "/articles/rubio-age-earth",
-  47,
+  48,
   34
  ],
  [
-  "/about/mission-and-values",
-  42,
-  5
+  "/genealogical-adam-eve",
+  45,
+  19
+ ],
+ [
+  "/articles/evidence-and-evolution",
+  34,
+  33
  ],
  [
   "/authors/suan-sonna",
-  37,
-  32
+  34,
+  30
  ],
  [
-  "/articles/wlc-genetic-challenge",
+  "/about/mission-and-values",
   33,
-  9
+  5
  ],
  [
   "/forum",
   33,
-  12
+  13
  ],
  [
-  "/articles/evidence-and-evolution",
+  "/authors/swamidass",
   30,
-  30
+  14
  ],
  [
   "/articles/confessing-scientist",
@@ -105,39 +105,29 @@
   19
  ],
  [
-  "/articles/garvey-theology-garden",
-  26,
-  14
- ],
- [
-  "/authors/swamidass",
-  25,
-  13
- ],
- [
-  "/articles/age-rubios-earth",
-  21,
+  "/articles/wlc-genetic-challenge",
+  27,
   10
  ],
  [
-  "/search",
-  20,
-  9
- ],
- [
-  "/articles/robert-canfield",
-  18,
+  "/articles/garvey-theology-garden",
+  26,
   13
  ],
  [
-  "/articles/compromise-on-creationism",
+  "/search",
+  25,
+  11
+ ],
+ [
+  "/articles/age-rubios-earth",
   17,
-  15
+  8
  ],
  [
   "/articles/genealogical-rapprochement",
-  17,
-  3
+  16,
+  5
  ],
  [
   "/articles/implicated-vs-incidental",
@@ -145,19 +135,29 @@
   7
  ],
  [
-  "/articles/glenn-morton",
-  15,
-  5
- ],
- [
-  "/articles/godawa-midrash",
-  15,
-  8
+  "/articles/robert-canfield",
+  16,
+  10
  ],
  [
   "/articles/thinking-about-evolution-and-progressive-creation",
   14,
-  3
+  4
+ ],
+ [
+  "/articles/glenn-morton",
+  13,
+  5
+ ],
+ [
+  "/articles/godawa-midrash",
+  13,
+  8
+ ],
+ [
+  "/articles/gregg-davidson-resurrection-dawkins",
+  12,
+  5
  ],
  [
   "/articles/response-to-madueme-scripture",
@@ -165,24 +165,9 @@
   7
  ],
  [
-  "/authors/wlc",
+  "/categories/adam-eve",
   12,
   0
- ],
- [
-  "/categories/evolution",
-  12,
-  1
- ],
- [
-  "/articles/gregg-davidson-resurrection-dawkins",
-  11,
-  4
- ],
- [
-  "/articles/science-sbc-first-week",
-  11,
-  3
  ],
  [
   "/authors",
@@ -190,44 +175,34 @@
   0
  ],
  [
-  "/articles/sy-garte-resurrection",
-  9,
-  4
- ],
- [
-  "/categories/adam-eve",
-  9,
-  0
- ],
- [
-  "/categories/confession",
-  9,
-  0
- ],
- [
   "/about/contact",
-  8,
+  9,
   4
  ],
  [
-  "/articles/irb-ethics-artificial-intellligence",
-  8,
-  6
+  "/articles/compromise-on-creationism",
+  9,
+  7
  ],
  [
-  "/articles/my-response-to-the-asas-apology",
-  8,
-  1
+  "/articles/science-sbc-first-week",
+  9,
+  5
  ],
  [
-  "/articles/ortlund-hills",
+  "/articles/garden-path",
   8,
   5
  ],
  [
-  "/articles/qa-wsj-compromise-on-creationism",
+  "/articles/sy-garte-resurrection",
   8,
-  4
+  3
+ ],
+ [
+  "/categories/evolution",
+  8,
+  1
  ],
  [
   "/articles/confident-faith-science-3",
@@ -235,29 +210,29 @@
   6
  ],
  [
-  "/articles/garden-path",
+  "/articles/irb-ethics-artificial-intellligence",
   7,
+  5
+ ],
+ [
+  "/articles/my-response-to-the-asas-apology",
+  7,
+  0
+ ],
+ [
+  "/categories/confession",
+  7,
+  0
+ ],
+ [
+  "/articles/pentecostal-smithsonian",
+  6,
   3
  ],
  [
   "/articles/quayshawn-spencer-race",
-  7,
-  6
- ],
- [
-  "/articles/tour-pascal",
-  7,
-  4
- ],
- [
-  "/articles/harris-evolutionary-evil",
   6,
-  6
- ],
- [
-  "/articles/reviewing-adam-and-the-genome",
-  6,
-  1
+  5
  ],
  [
   "/articles/tour-friendship-across-disagreements",
@@ -268,6 +243,11 @@
   "/articles/why-we-talk-about-race",
   6,
   3
+ ],
+ [
+  "/authors/wlc",
+  6,
+  0
  ],
  [
   "/categories/theology",
@@ -300,9 +280,24 @@
   5
  ],
  [
-  "/defense-tim-keller",
+  "/articles/narnians-martians-neanderthals",
   5,
-  4
+  2
+ ],
+ [
+  "/articles/qa-wsj-compromise-on-creationism",
+  5,
+  2
+ ],
+ [
+  "/articles/tour-pascal",
+  5,
+  3
+ ],
+ [
+  "/authors/kristel",
+  5,
+  3
  ],
  [
   "/series",
@@ -330,14 +325,14 @@
   3
  ],
  [
-  "/articles/narnians-martians-neanderthals",
-  4,
-  1
- ],
- [
   "/articles/ortlund-augustine",
   4,
   3
+ ],
+ [
+  "/articles/ortlund-hills",
+  4,
+  2
  ],
  [
   "/articles/page/4",
@@ -345,14 +340,9 @@
   2
  ],
  [
-  "/articles/pentecostal-smithsonian",
+  "/articles/reviewing-adam-and-the-genome",
   4,
-  2
- ],
- [
-  "/articles/three-stories-on-adam",
-  4,
-  1
+  0
  ],
  [
   "/author/swamidass",
@@ -360,14 +350,14 @@
   2
  ],
  [
-  "/authors/kristel",
-  4,
-  2
- ],
- [
   "/categories/society",
   4,
   0
+ ],
+ [
+  "/defense-tim-keller",
+  4,
+  3
  ],
  [
   "/img/2017/04/swamidass-confident-fatih.pdf",
@@ -385,19 +375,14 @@
   2
  ],
  [
-  "/about/authors-guide",
-  3,
-  0
- ],
- [
   "/articles/ancestral-shadow",
   3,
   2
  ],
  [
-  "/articles/assess-rtb-model",
+  "/articles/andy-walsh-the-resurrection",
   3,
-  0
+  1
  ],
  [
   "/articles/going-public-wsj",
@@ -406,11 +391,6 @@
  ],
  [
   "/articles/humility-of-our-scholars",
-  3,
-  1
- ],
- [
-  "/articles/rtb-thinking-about-evolution",
   3,
   1
  ],
@@ -440,14 +420,19 @@
   0
  ],
  [
-  "/categories/resurrection",
+  "/categories/dialogue",
   3,
+  1
+ ],
+ [
+  "/about/authors-guide",
+  2,
   0
  ],
  [
-  "/articles/andy-walsh-the-resurrection",
+  "/articles/assess-rtb-model",
   2,
-  1
+  0
  ],
  [
   "/articles/coronavirus-beauty",
@@ -460,6 +445,11 @@
   1
  ],
  [
+  "/articles/harris-evolutionary-evil",
+  2,
+  2
+ ],
+ [
   "/articles/kenneth-kemp-war",
   2,
   2
@@ -470,9 +460,9 @@
   1
  ],
  [
-  "/articles/muotri-neanderthal",
+  "/articles/much-to-discuss",
   2,
-  2
+  1
  ],
  [
   "/articles/murphys-truthful-tree",
@@ -485,9 +475,9 @@
   0
  ],
  [
-  "/articles/page/2",
+  "/articles/one-flesh-joint-intentionality",
   2,
-  0
+  1
  ],
  [
   "/articles/page/5",
@@ -500,14 +490,29 @@
   0
  ],
  [
-  "/articles/the-axiom-of-belief",
+  "/articles/reworking-adam",
   2,
-  2
+  0
+ ],
+ [
+  "/articles/rtb-thinking-about-evolution",
+  2,
+  0
+ ],
+ [
+  "/articles/stephen-matheson-humanists-invitation",
+  2,
+  0
  ],
  [
   "/articles/the-barthian-tree",
   2,
   0
+ ],
+ [
+  "/articles/three-stories-on-adam",
+  2,
+  1
  ],
  [
   "/authors/ashleymoses",
@@ -525,11 +530,6 @@
   0
  ],
  [
-  "/authors/sfmatheson",
-  2,
-  1
- ],
- [
   "/authors/swamidass/page/6",
   2,
   1
@@ -540,7 +540,12 @@
   0
  ],
  [
-  "/categories/dialogue",
+  "/categories/gae",
+  2,
+  2
+ ],
+ [
+  "/categories/resurrection",
   2,
   0
  ],
@@ -555,17 +560,7 @@
   1
  ],
  [
-  "/swamidass-confident-fatih.pdf",
-  2,
-  2
- ],
- [
-  "/sy-garte-resurrection",
-  2,
-  2
- ],
- [
-  "/why-i-went-public-evolution",
+  "/wlc-responds-ham",
   2,
   2
  ],
@@ -640,7 +635,7 @@
   0
  ],
  [
-  "/articles/much-to-discuss",
+  "/articles/muotri-neanderthal",
   1,
   1
  ],
@@ -650,17 +645,7 @@
   0
  ],
  [
-  "/articles/paumore-musings-on-killmitzer",
-  1,
-  1
- ],
- [
-  "/articles/quayshawn-spencer/race",
-  1,
-  1
- ],
- [
-  "/articles/reworking-adam",
+  "/articles/page/2",
   1,
   0
  ],
@@ -670,19 +655,14 @@
   0
  ],
  [
-  "/articles/stephen-matheson-humanists-invitation",
-  1,
-  0
- ],
- [
   "/articles/steven-olson-the-apocalypse-factory",
   1,
   0
  ],
  [
-  "/articles/wlc-schooled-egoolution",
+  "/articles/the-axiom-of-belief",
   1,
-  0
+  1
  ],
  [
   "/articles/written-of-interviews-gae",
@@ -735,9 +715,9 @@
   0
  ],
  [
-  "/categories/gae",
+  "/authors/sfmatheson",
   1,
-  1
+  0
  ],
  [
   "/categories/history",
@@ -745,14 +725,9 @@
   0
  ],
  [
-  "/categories/science",
+  "/is-jesus-greater.pdf",
   1,
-  0
- ],
- [
-  "/medium=email&utm_term=0_83bbf90a5a-3e4ff953b8-188660123",
-  1,
-  0
+  1
  ],
  [
   "/series/100-year-tree",
@@ -765,12 +740,17 @@
   0
  ],
  [
+  "/swamidass-confident-fatih.pdf",
+  1,
+  1
+ ],
+ [
   "/three-stories-on-adam/amp",
   1,
   1
  ],
  [
-  "/wlc-responds-ham",
+  "/why-i-went-public-evolution",
   1,
   1
  ]

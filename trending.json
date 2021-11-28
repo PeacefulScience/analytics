@@ -1,123 +1,113 @@
 [
  [
-  "/articles/why-i-went-public-evolution",
-  1263,
+  "/articles/evolution-adam-eve",
+  1257,
   1125
  ],
  [
-  "/articles/evolution-adam-eve",
-  1245,
-  1124
+  "/articles/why-i-went-public-evolution",
+  1233,
+  1087
  ],
  [
   "/articles/defense-tim-keller",
-  1031,
-  879
+  1062,
+  900
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  984,
-  910
+  969,
+  898
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  296,
-  280
- ],
- [
-  "/articles/biologos-stealth-deletes-an-article",
-  122,
-  100
+  332,
+  312
  ],
  [
   "/articles/if-big-e-evolultion-true",
-  122,
+  129,
   68
  ],
  [
+  "/articles/biologos-stealth-deletes-an-article",
+  124,
+  105
+ ],
+ [
   "/articles/eating-animals-plants",
-  74,
+  76,
   49
  ],
  [
   "/articles/heiser-sacred-natural",
-  74,
-  66
+  72,
+  64
  ],
  [
   "/articles/wlc-responds-ham",
-  63,
-  54
- ],
- [
-  "/forum",
-  58,
-  18
+  68,
+  58
  ],
  [
   "/books/genealogical-adam-eve",
-  57,
-  1
+  63,
+  2
+ ],
+ [
+  "/forum",
+  52,
+  15
  ],
  [
   "/articles/biologos-uturn-adam-eve-position",
-  55,
-  19
+  47,
+  17
  ],
  [
   "/articles/wlc-schooled-evolution",
-  45,
-  32
- ],
- [
-  "/articles",
-  40,
-  4
+  47,
+  34
  ],
  [
   "/books",
-  40,
+  42,
   3
+ ],
+ [
+  "/articles",
+  41,
+  5
+ ],
+ [
+  "/articles/100-year-old-tree",
+  41,
+  25
  ],
  [
   "/articles/science-civil-rights-and-the-doll-test",
   39,
-  35
- ],
- [
-  "/genealogical-adam-eve",
-  39,
-  16
+  33
  ],
  [
   "/articles/may-scientists-care-adam-eve",
-  36,
-  14
- ],
- [
-  "/articles/100-year-old-tree",
-  34,
-  20
+  35,
+  15
  ],
  [
   "/articles/narnians-martians-neanderthals",
+  35,
+  30
+ ],
+ [
+  "/genealogical-adam-eve",
+  34,
+  15
+ ],
+ [
+  "/authors/suan-sonna",
   33,
-  27
- ],
- [
-  "/authors/swamidass",
-  32,
-  7
- ],
- [
-  "/search",
-  32,
-  18
- ],
- [
-  "/about/mission-and-values",
-  31,
-  3
+  30
  ],
  [
   "/articles/evidence-and-evolution",
@@ -125,59 +115,69 @@
   26
  ],
  [
-  "/articles/wlc-genetic-challenge",
-  29,
-  14
+  "/authors/swamidass",
+  31,
+  7
  ],
  [
-  "/authors/suan-sonna",
-  29,
-  27
- ],
- [
-  "/books/thinking-about-evolution",
-  24,
+  "/about/mission-and-values",
+  27,
   1
  ],
  [
-  "/books/faith-across-multiverse",
-  18,
+  "/search",
+  27,
+  16
+ ],
+ [
+  "/articles/wlc-genetic-challenge",
+  26,
+  14
+ ],
+ [
+  "/books/thinking-about-evolution",
+  26,
   1
  ],
  [
   "/articles/gregg-davidson-resurrection-dawkins",
-  16,
-  7
+  20,
+  9
+ ],
+ [
+  "/books/faith-across-multiverse",
+  20,
+  1
  ],
  [
   "/books/quest-historical-adam",
-  15,
-  0
+  20,
+  1
  ],
  [
   "/articles/genealogical-rapprochement",
-  14,
-  4
+  16,
+  6
  ],
  [
-  "/articles/glenn-morton",
-  13,
-  7
+  "/articles/godawa-midrash",
+  14,
+  8
  ],
  [
   "/articles/rubio-age-earth",
-  13,
+  14,
   0
  ],
  [
   "/categories/dialogue",
-  13,
+  14,
   0
  ],
  [
-  "/articles/robert-canfield",
-  12,
-  5
+  "/articles/glenn-morton",
+  13,
+  8
  ],
  [
   "/authors",
@@ -185,28 +185,28 @@
   0
  ],
  [
-  "/articles/science-sbc-first-week",
-  11,
-  5
- ],
- [
   "/articles/thinking-about-evolution-and-progressive-creation",
   11,
   3
  ],
  [
-  "/articles/confessing-scientist",
+  "/articles/ortlund-augustine",
   10,
-  0
+  7
  ],
  [
-  "/articles/godawa-midrash",
+  "/articles/robert-canfield",
   10,
+  4
+ ],
+ [
+  "/articles/garvey-theology-garden",
+  9,
   6
  ],
  [
   "/articles/my-response-to-the-asas-apology",
-  10,
+  9,
   2
  ],
  [
@@ -215,9 +215,14 @@
   7
  ],
  [
-  "/articles/response-to-madueme-scripture",
+  "/articles/science-sbc-first-week",
   9,
   3
+ ],
+ [
+  "/articles/three-stories-on-adam",
+  9,
+  5
  ],
  [
   "/books/generations-heaven-earth",
@@ -225,9 +230,29 @@
   0
  ],
  [
+  "/about/authors-guide",
+  8,
+  2
+ ],
+ [
   "/articles/compromise-on-creationism",
   8,
   4
+ ],
+ [
+  "/articles/confessing-scientist",
+  8,
+  0
+ ],
+ [
+  "/articles/response-to-madueme-scripture",
+  8,
+  3
+ ],
+ [
+  "/authors/anjeanette-roberts",
+  8,
+  0
  ],
  [
   "/categories/adam-eve",
@@ -240,11 +265,6 @@
   0
  ],
  [
-  "/about/authors-guide",
-  7,
-  2
- ],
- [
   "/about/contact",
   7,
   3
@@ -255,17 +275,17 @@
   4
  ],
  [
-  "/articles/garvey-theology-garden",
+  "/articles/garden-path",
   7,
-  4
+  5
  ],
  [
-  "/articles/three-stories-on-adam",
+  "/articles/methodological-naturalism",
   7,
-  4
+  6
  ],
  [
-  "/authors/anjeanette-roberts",
+  "/articles/power-of-babelfish",
   7,
   0
  ],
@@ -275,38 +295,38 @@
   0
  ],
  [
-  "/articles/methodological-naturalism",
+  "/archive",
   6,
   5
  ],
  [
-  "/articles/ortlund-augustine",
-  6,
-  6
- ],
- [
-  "/authors/jgarvey",
+  "/articles/age-rubios-earth",
   6,
   1
+ ],
+ [
+  "/articles/andy-walsh-the-resurrection",
+  6,
+  0
+ ],
+ [
+  "/articles/sy-garte-resurrection",
+  6,
+  4
+ ],
+ [
+  "/articles/the-axiom-of-belief",
+  6,
+  1
+ ],
+ [
+  "/books/mere-science-faith",
+  6,
+  0
  ],
  [
   "/categories/confession",
   6,
-  1
- ],
- [
-  "/defense-tim-keller",
-  6,
-  4
- ],
- [
-  "/archive",
-  5,
-  4
- ],
- [
-  "/articles/age-rubios-earth",
-  5,
   1
  ],
  [
@@ -315,39 +335,19 @@
   5
  ],
  [
+  "/articles/cootsona-adam-eve",
+  5,
+  4
+ ],
+ [
   "/articles/rtb-thinking-about-evolution",
   5,
   1
  ],
  [
-  "/articles/sy-garte-resurrection",
-  5,
-  4
- ],
- [
-  "/articles/the-axiom-of-belief",
-  5,
-  1
- ],
- [
-  "/articles/why-we-talk-about-race",
-  5,
-  3
- ],
- [
-  "/books/mere-science-faith",
-  5,
-  0
- ],
- [
   "/categories/evolution",
   5,
   0
- ],
- [
-  "/categories/science",
-  5,
-  1
  ],
  [
   "/categories/theology",
@@ -360,14 +360,9 @@
   1
  ],
  [
-  "/articles/andy-walsh-the-resurrection",
+  "/articles/greg-cootsona-intelligent-design",
   4,
-  0
- ],
- [
-  "/articles/garden-path",
-  4,
-  1
+  2
  ],
  [
   "/articles/is-phosphine-venus-clouds",
@@ -375,44 +370,14 @@
   0
  ],
  [
-  "/articles/managing-mistakes",
-  4,
-  1
- ],
- [
-  "/articles/reviewing-adam-and-the-genome",
-  4,
-  1
- ],
- [
   "/articles/stephen-matheson-humanists-invitation",
   4,
   0
  ],
  [
-  "/articles/wrong-on-monophyletic",
+  "/categories/science",
   4,
   1
- ],
- [
-  "/articles/cootsona-adam-eve",
-  3,
-  2
- ],
- [
-  "/articles/garvey-generations",
-  3,
-  1
- ],
- [
-  "/articles/greg-cootsona-intelligent-design",
-  3,
-  1
- ],
- [
-  "/articles/human-origins-rtb-workshop",
-  3,
-  0
  ],
  [
   "/articles/implicated-vs-incidental",
@@ -425,9 +390,9 @@
   0
  ],
  [
-  "/articles/muotri-neanderthal",
+  "/articles/reviewing-adam-and-the-genome",
   3,
-  1
+  0
  ],
  [
   "/articles/tour-friendship-across-disagreements",
@@ -435,9 +400,19 @@
   3
  ],
  [
-  "/authors/kristel",
+  "/articles/why-we-talk-about-race",
   3,
-  2
+  1
+ ],
+ [
+  "/articles/wrong-on-monophyletic",
+  3,
+  1
+ ],
+ [
+  "/authors/jgarvey",
+  3,
+  0
  ],
  [
   "/authors/mark-perez",
@@ -450,6 +425,11 @@
   0
  ],
  [
+  "/defense-tim-keller",
+  3,
+  3
+ ],
+ [
   "/articles/dover-behe",
   2,
   2
@@ -460,9 +440,24 @@
   1
  ],
  [
+  "/articles/garvey-generations",
+  2,
+  0
+ ],
+ [
+  "/articles/human-origins-rtb-workshop",
+  2,
+  0
+ ],
+ [
   "/articles/much-to-discuss",
   2,
   1
+ ],
+ [
+  "/articles/muotri-neanderthal",
+  2,
+  0
  ],
  [
   "/articles/page/5",
@@ -475,14 +470,24 @@
   0
  ],
  [
+  "/articles/rutherford-racist",
+  2,
+  2
+ ],
+ [
+  "/articles/the-barthian-tree",
+  2,
+  0
+ ],
+ [
   "/authors/ashleymoses",
   2,
   0
  ],
  [
-  "/authors/dga",
+  "/authors/kristel",
   2,
-  0
+  2
  ],
  [
   "/authors/sue-dykes",
@@ -505,11 +510,6 @@
   0
  ],
  [
-  "/articles/common-ground-year-1",
-  1,
-  1
- ],
- [
   "/articles/coronavirus-beauty",
   1,
   0
@@ -520,7 +520,7 @@
   1
  ],
  [
-  "/articles/covid-19-created-designed",
+  "/articles/genealogical-science",
   1,
   0
  ],
@@ -541,6 +541,11 @@
  ],
  [
   "/articles/launching",
+  1,
+  1
+ ],
+ [
+  "/articles/managing-mistakes",
   1,
   1
  ],
@@ -568,11 +573,6 @@
   "/articles/one-flesh-joint-intentionality",
   1,
   0
- ],
- [
-  "/articles/ortlund-hills",
-  1,
-  1
  ],
  [
   "/articles/page/2",
@@ -605,11 +605,6 @@
   0
  ],
  [
-  "/articles/the-barthian-tree",
-  1,
-  0
- ],
- [
   "/articles/tour-pascal",
   1,
   1
@@ -620,14 +615,14 @@
   0
  ],
  [
-  "/author/swamidass",
+  "/authors/ciara",
   1,
   1
  ],
  [
-  "/authors/ciara",
+  "/authors/dga",
   1,
-  1
+  0
  ],
  [
   "/authors/dkwon",
@@ -660,11 +655,6 @@
   0
  ],
  [
-  "/authors/mtennesen",
-  1,
-  1
- ],
- [
   "/authors/rogero",
   1,
   1
@@ -686,6 +676,11 @@
  ],
  [
   "/categories/forum",
+  1,
+  0
+ ],
+ [
+  "/category/projects/100-year-old-tree",
   1,
   0
  ],

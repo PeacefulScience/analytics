@@ -1,138 +1,133 @@
 [
  [
   "/articles/evolution-adam-eve",
-  1257,
-  1125
+  1293,
+  1162
  ],
  [
   "/articles/why-i-went-public-evolution",
-  1233,
-  1087
+  1191,
+  1055
  ],
  [
   "/articles/defense-tim-keller",
-  1062,
-  900
+  1068,
+  901
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  969,
-  898
+  959,
+  886
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  332,
-  312
+  369,
+  341
  ],
  [
   "/articles/if-big-e-evolultion-true",
-  129,
-  68
+  134,
+  71
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  124,
-  105
- ],
- [
-  "/articles/eating-animals-plants",
-  76,
-  49
+  120,
+  102
  ],
  [
   "/articles/heiser-sacred-natural",
-  72,
-  64
+  66,
+  62
  ],
  [
   "/articles/wlc-responds-ham",
-  68,
-  58
+  60,
+  52
  ],
  [
   "/books/genealogical-adam-eve",
-  63,
+  58,
   2
  ],
  [
   "/forum",
-  52,
-  15
+  49,
+  13
  ],
  [
   "/articles/biologos-uturn-adam-eve-position",
-  47,
+  48,
   17
  ],
  [
   "/articles/wlc-schooled-evolution",
   47,
+  33
+ ],
+ [
+  "/articles",
+  44,
+  4
+ ],
+ [
+  "/articles/100-year-old-tree",
+  43,
+  27
+ ],
+ [
+  "/articles/eating-animals-plants",
+  43,
+  27
+ ],
+ [
+  "/articles/may-scientists-care-adam-eve",
+  40,
+  20
+ ],
+ [
+  "/articles/narnians-martians-neanderthals",
+  39,
   34
  ],
  [
   "/books",
-  42,
+  37,
   3
  ],
  [
-  "/articles",
-  41,
-  5
- ],
- [
-  "/articles/100-year-old-tree",
-  41,
-  25
- ],
- [
   "/articles/science-civil-rights-and-the-doll-test",
-  39,
-  33
- ],
- [
-  "/articles/may-scientists-care-adam-eve",
-  35,
-  15
- ],
- [
-  "/articles/narnians-martians-neanderthals",
-  35,
-  30
- ],
- [
-  "/genealogical-adam-eve",
-  34,
-  15
+  33,
+  27
  ],
  [
   "/authors/suan-sonna",
   33,
-  30
- ],
- [
-  "/articles/evidence-and-evolution",
-  31,
-  26
+  28
  ],
  [
   "/authors/swamidass",
-  31,
-  7
- ],
- [
-  "/about/mission-and-values",
-  27,
-  1
- ],
- [
-  "/search",
-  27,
-  16
+  33,
+  6
  ],
  [
   "/articles/wlc-genetic-challenge",
-  26,
-  14
+  31,
+  16
+ ],
+ [
+  "/articles/evidence-and-evolution",
+  30,
+  25
+ ],
+ [
+  "/genealogical-adam-eve",
+  29,
+  13
+ ],
+ [
+  "/search",
+  29,
+  15
  ],
  [
   "/books/thinking-about-evolution",
@@ -140,24 +135,39 @@
   1
  ],
  [
-  "/articles/gregg-davidson-resurrection-dawkins",
-  20,
-  9
- ],
- [
-  "/books/faith-across-multiverse",
-  20,
+  "/about/mission-and-values",
+  23,
   1
  ],
  [
+  "/articles/gregg-davidson-resurrection-dawkins",
+  18,
+  9
+ ],
+ [
   "/books/quest-historical-adam",
-  20,
+  18,
   1
  ],
  [
   "/articles/genealogical-rapprochement",
+  17,
+  7
+ ],
+ [
+  "/articles/rubio-age-earth",
   16,
-  6
+  1
+ ],
+ [
+  "/books/faith-across-multiverse",
+  16,
+  1
+ ],
+ [
+  "/articles/glenn-morton",
+  14,
+  8
  ],
  [
   "/articles/godawa-midrash",
@@ -165,24 +175,19 @@
   8
  ],
  [
-  "/articles/rubio-age-earth",
-  14,
-  0
- ],
- [
   "/categories/dialogue",
   14,
   0
  ],
  [
-  "/articles/glenn-morton",
-  13,
-  8
- ],
- [
   "/authors",
   12,
   0
+ ],
+ [
+  "/articles/robert-canfield",
+  11,
+  5
  ],
  [
   "/articles/thinking-about-evolution-and-progressive-creation",
@@ -195,24 +200,19 @@
   7
  ],
  [
-  "/articles/robert-canfield",
-  10,
-  4
- ],
- [
-  "/articles/garvey-theology-garden",
-  9,
-  6
- ],
- [
-  "/articles/my-response-to-the-asas-apology",
+  "/about/authors-guide",
   9,
   2
  ],
  [
-  "/articles/quayshawn-spencer-race",
+  "/articles/garden-path",
   9,
-  7
+  6
+ ],
+ [
+  "/articles/response-to-madueme-scripture",
+  9,
+  4
  ],
  [
   "/articles/science-sbc-first-week",
@@ -222,7 +222,7 @@
  [
   "/articles/three-stories-on-adam",
   9,
-  5
+  4
  ],
  [
   "/books/generations-heaven-earth",
@@ -230,29 +230,19 @@
   0
  ],
  [
-  "/about/authors-guide",
+  "/archive",
   8,
-  2
+  7
  ],
  [
-  "/articles/compromise-on-creationism",
+  "/articles/garvey-theology-garden",
   8,
-  4
+  6
  ],
  [
-  "/articles/confessing-scientist",
-  8,
-  0
- ],
- [
-  "/articles/response-to-madueme-scripture",
+  "/articles/the-axiom-of-belief",
   8,
   3
- ],
- [
-  "/authors/anjeanette-roberts",
-  8,
-  0
  ],
  [
   "/categories/adam-eve",
@@ -265,19 +255,9 @@
   0
  ],
  [
-  "/about/contact",
+  "/articles/confessing-scientist",
   7,
-  3
- ],
- [
-  "/articles/cancer-evolution",
-  7,
-  4
- ],
- [
-  "/articles/garden-path",
-  7,
-  5
+  1
  ],
  [
   "/articles/methodological-naturalism",
@@ -290,14 +270,19 @@
   0
  ],
  [
-  "/authors/wlc",
+  "/articles/quayshawn-spencer-race",
   7,
-  0
+  5
  ],
  [
-  "/archive",
-  6,
-  5
+  "/articles/sy-garte-resurrection",
+  7,
+  4
+ ],
+ [
+  "/authors/anjeanette-roberts",
+  7,
+  0
  ],
  [
   "/articles/age-rubios-earth",
@@ -310,17 +295,12 @@
   0
  ],
  [
-  "/articles/sy-garte-resurrection",
+  "/articles/cancer-evolution",
   6,
-  4
+  3
  ],
  [
-  "/articles/the-axiom-of-belief",
-  6,
-  1
- ],
- [
-  "/books/mere-science-faith",
+  "/authors/wlc",
   6,
   0
  ],
@@ -330,19 +310,34 @@
   1
  ],
  [
-  "/articles/ancestral-shadow",
+  "/articles/compromise-on-creationism",
   5,
-  5
+  3
  ],
  [
-  "/articles/cootsona-adam-eve",
+  "/articles/greg-cootsona-intelligent-design",
   5,
-  4
+  3
  ],
  [
-  "/articles/rtb-thinking-about-evolution",
+  "/articles/my-response-to-the-asas-apology",
+  5,
+  2
+ ],
+ [
+  "/articles/stephen-matheson-humanists-invitation",
   5,
   1
+ ],
+ [
+  "/authors/ashleymoses",
+  5,
+  0
+ ],
+ [
+  "/books/mere-science-faith",
+  5,
+  0
  ],
  [
   "/categories/evolution",
@@ -360,9 +355,19 @@
   1
  ],
  [
-  "/articles/greg-cootsona-intelligent-design",
+  "/articles/ancestral-shadow",
   4,
-  2
+  4
+ ],
+ [
+  "/articles/cootsona-adam-eve",
+  4,
+  3
+ ],
+ [
+  "/articles/irb-ethics-artificial-intellligence",
+  4,
+  1
  ],
  [
   "/articles/is-phosphine-venus-clouds",
@@ -370,9 +375,14 @@
   0
  ],
  [
-  "/articles/stephen-matheson-humanists-invitation",
+  "/articles/reviewing-adam-and-the-genome",
   4,
   0
+ ],
+ [
+  "/articles/rtb-thinking-about-evolution",
+  4,
+  1
  ],
  [
   "/categories/science",
@@ -380,17 +390,22 @@
   1
  ],
  [
-  "/articles/implicated-vs-incidental",
+  "/about/contact",
   3,
-  0
+  3
+ ],
+ [
+  "/articles/dover-behe",
+  3,
+  2
+ ],
+ [
+  "/articles/garvey-generations",
+  3,
+  1
  ],
  [
   "/articles/lutherans-artistic-tree",
-  3,
-  0
- ],
- [
-  "/articles/reviewing-adam-and-the-genome",
   3,
   0
  ],
@@ -407,12 +422,7 @@
  [
   "/articles/wrong-on-monophyletic",
   3,
-  1
- ],
- [
-  "/authors/jgarvey",
-  3,
-  0
+  2
  ],
  [
   "/authors/mark-perez",
@@ -425,29 +435,24 @@
   0
  ],
  [
-  "/defense-tim-keller",
-  3,
-  3
- ],
- [
-  "/articles/dover-behe",
-  2,
-  2
- ],
- [
   "/articles/ecklund-science-faith",
   2,
   1
  ],
  [
-  "/articles/garvey-generations",
+  "/articles/human-origins-rtb-workshop",
   2,
   0
  ],
  [
-  "/articles/human-origins-rtb-workshop",
+  "/articles/implicated-vs-incidental",
   2,
   0
+ ],
+ [
+  "/articles/more-than-apes",
+  2,
+  2
  ],
  [
   "/articles/much-to-discuss",
@@ -475,12 +480,17 @@
   2
  ],
  [
+  "/articles/scientist-woman-picture",
+  2,
+  0
+ ],
+ [
   "/articles/the-barthian-tree",
   2,
   0
  ],
  [
-  "/authors/ashleymoses",
+  "/authors/jgarvey",
   2,
   0
  ],
@@ -500,9 +510,24 @@
   0
  ],
  [
+  "/defense-tim-keller",
+  2,
+  2
+ ],
+ [
   "/articles/baldi-ai-science",
   1,
   1
+ ],
+ [
+  "/articles/barbara-forrest-trojan-horse-at-dover",
+  1,
+  0
+ ],
+ [
+  "/articles/bryan-butler-image-of-god",
+  1,
+  0
  ],
  [
   "/articles/camel-chews-miracle-tree",
@@ -540,12 +565,12 @@
   1
  ],
  [
-  "/articles/launching",
+  "/articles/kenneth-kemp-war",
   1,
-  1
+  0
  ],
  [
-  "/articles/managing-mistakes",
+  "/articles/launching",
   1,
   1
  ],
@@ -556,11 +581,6 @@
  ],
  [
   "/articles/miller-textbook-dover",
-  1,
-  1
- ],
- [
-  "/articles/more-than-apes",
   1,
   1
  ],
@@ -576,6 +596,11 @@
  ],
  [
   "/articles/page/2",
+  1,
+  0
+ ],
+ [
+  "/articles/page/3",
   1,
   0
  ],
@@ -600,7 +625,7 @@
   1
  ],
  [
-  "/articles/scientist-woman-picture",
+  "/articles/scott-dover-science-hat",
   1,
   0
  ],
@@ -625,17 +650,7 @@
   0
  ],
  [
-  "/authors/dkwon",
-  1,
-  0
- ],
- [
   "/authors/dr-paul-metzger",
-  1,
-  0
- ],
- [
-  "/authors/fazale-rana",
   1,
   0
  ],
@@ -653,6 +668,11 @@
   "/authors/jhilber",
   1,
   0
+ ],
+ [
+  "/authors/kkemp",
+  1,
+  1
  ],
  [
   "/authors/rogero",

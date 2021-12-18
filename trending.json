@@ -1,83 +1,73 @@
 [
  [
   "/articles/evolution-adam-eve",
-  1130,
-  1003
- ],
- [
-  "/articles/why-i-went-public-evolution",
-  996,
-  851
+  1127,
+  1000
  ],
  [
   "/articles/defense-tim-keller",
-  993,
-  840
+  977,
+  831
+ ],
+ [
+  "/articles/why-i-went-public-evolution",
+  916,
+  802
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  641,
-  548
+  666,
+  572
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  370,
-  321
+  387,
+  342
  ],
  [
   "/prints/ets-keathley-gae",
-  212,
-  122
+  213,
+  124
  ],
  [
   "/articles/if-big-e-evolultion-true",
-  97,
-  45
+  100,
+  48
  ],
  [
   "/articles/biologos-stealth-deletes-an-article",
-  96,
-  88
+  94,
+  83
  ],
  [
   "/articles/heiser-sacred-natural",
-  63,
-  60
+  58,
+  54
  ],
  [
-  "/articles/science-civil-rights-and-the-doll-test",
-  53,
-  46
- ],
- [
-  "/articles/wlc-responds-ham",
+  "/articles/wlc-schooled-evolution",
   53,
   43
  ],
  [
-  "/articles/wlc-schooled-evolution",
-  51,
-  42
+  "/articles/wlc-responds-ham",
+  49,
+  39
+ ],
+ [
+  "/articles/science-civil-rights-and-the-doll-test",
+  47,
+  40
  ],
  [
   "/articles/strange-attractor-of-god",
-  44,
-  26
+  45,
+  27
  ],
  [
   "/forum",
   41,
-  18
- ],
- [
-  "/articles/biologos-uturn-adam-eve-position",
-  36,
-  18
- ],
- [
-  "/articles",
-  35,
-  1
+  21
  ],
  [
   "/prints/ets-wlc-gae",
@@ -85,53 +75,58 @@
   22
  ],
  [
-  "/articles/evidence-and-evolution",
-  32,
-  27
- ],
- [
   "/authors/swamidass",
-  31,
-  18
+  34,
+  20
  ],
  [
-  "/articles/wlc-genetic-challenge",
-  30,
-  13
+  "/articles",
+  32,
+  1
  ],
  [
-  "/articles/roads-diverged-multiverse",
-  29,
-  6
+  "/articles/biologos-uturn-adam-eve-position",
+  32,
+  16
  ],
  [
   "/search",
-  29,
-  11
+  30,
+  12
  ],
  [
-  "/authors/suan-sonna",
-  28,
-  25
+  "/articles/evidence-and-evolution",
+  26,
+  23
  ],
  [
   "/articles/narnians-martians-neanderthals",
+  26,
+  22
+ ],
+ [
+  "/articles/roads-diverged-multiverse",
+  26,
+  5
+ ],
+ [
+  "/authors/suan-sonna",
   25,
-  21
+  22
+ ],
+ [
+  "/articles/wlc-genetic-challenge",
+  24,
+  10
  ],
  [
   "/about/mission-and-values",
-  23,
+  19,
   3
  ],
  [
   "/articles/may-scientists-care-adam-eve",
-  23,
-  6
- ],
- [
-  "/categories/adam-eve",
-  23,
+  18,
   3
  ],
  [
@@ -140,9 +135,14 @@
   2
  ],
  [
+  "/categories/adam-eve",
+  18,
+  2
+ ],
+ [
   "/genealogical-adam-eve",
-  17,
-  12
+  18,
+  13
  ],
  [
   "/books",
@@ -150,24 +150,9 @@
   0
  ],
  [
-  "/articles/andy-walsh-the-resurrection",
-  14,
-  3
- ],
- [
-  "/articles/reviewing-adam-and-the-genome",
-  14,
-  0
- ],
- [
-  "/articles/glenn-morton",
-  13,
-  6
- ],
- [
   "/articles/quayshawn-spencer-race",
-  13,
-  12
+  14,
+  13
  ],
  [
   "/about/contact",
@@ -175,84 +160,84 @@
   2
  ],
  [
+  "/articles/andy-walsh-the-resurrection",
+  12,
+  2
+ ],
+ [
+  "/articles/glenn-morton",
+  11,
+  5
+ ],
+ [
+  "/articles/godawa-midrash",
+  11,
+  8
+ ],
+ [
   "/articles/power-of-babelfish",
-  12,
-  4
- ],
- [
-  "/articles/rubio-age-earth",
-  12,
-  4
- ],
- [
-  "/books/thinking-about-evolution",
-  12,
-  1
- ],
- [
-  "/articles/gregg-davidson-resurrection-dawkins",
   11,
   3
  ],
  [
-  "/articles/genealogical-rapprochement",
+  "/articles/reviewing-adam-and-the-genome",
+  11,
+  0
+ ],
+ [
+  "/books/thinking-about-evolution",
+  11,
+  0
+ ],
+ [
+  "/articles/gregg-davidson-resurrection-dawkins",
   10,
-  4
+  2
  ],
  [
-  "/articles/godawa-midrash",
-  9,
-  7
- ],
- [
-  "/articles/sy-garte-resurrection",
-  9,
-  7
- ],
- [
-  "/books/quest-historical-adam",
-  9,
-  1
- ],
- [
-  "/archive",
-  8,
-  7
- ],
- [
-  "/articles/garvey-theology-garden",
-  8,
-  4
- ],
- [
-  "/articles/response-to-madueme-scripture",
-  8,
+  "/articles/rubio-age-earth",
+  10,
   3
  ],
  [
-  "/is-jesus-greater.pdf",
+  "/books/quest-historical-adam",
+  10,
+  2
+ ],
+ [
+  "/archive",
+  9,
+  8
+ ],
+ [
+  "/articles/genealogical-rapprochement",
   8,
-  5
+  4
+ ],
+ [
+  "/articles/ortlund-hills",
+  8,
+  6
+ ],
+ [
+  "/articles/sy-garte-resurrection",
+  8,
+  6
+ ],
+ [
+  "/articles/tour-friendship-across-disagreements",
+  8,
+  6
  ],
  [
   "/articles/confessing-scientist",
   7,
-  2
+  3
  ],
  [
-  "/articles/eating-animals-plants",
+  "/articles/the-axiom-of-belief",
   7,
-  5
- ],
- [
-  "/articles/science-sbc-first-week",
-  7,
-  5
- ],
- [
-  "/articles/tour-friendship-across-disagreements",
-  7,
-  6
+  4
  ],
  [
   "/articles/tour-pascal",
@@ -260,24 +245,9 @@
   5
  ],
  [
-  "/books/faith-across-multiverse",
-  7,
-  3
- ],
- [
-  "/articles/garden-path",
+  "/articles/science-sbc-first-week",
   6,
-  3
- ],
- [
-  "/articles/ortlund-hills",
-  6,
-  4
- ],
- [
-  "/articles/the-axiom-of-belief",
-  6,
-  3
+  5
  ],
  [
   "/articles/thinking-about-evolution-and-progressive-creation",
@@ -290,14 +260,39 @@
   2
  ],
  [
-  "/articles/age-rubios-earth",
+  "/is-jesus-greater.pdf",
+  6,
+  3
+ ],
+ [
+  "/articles/agree-behe",
+  5,
+  4
+ ],
+ [
+  "/articles/eating-animals-plants",
+  5,
+  3
+ ],
+ [
+  "/articles/garden-path",
   5,
   2
  ],
  [
-  "/articles/methodological-naturalism",
+  "/authors/dga",
   5,
-  5
+  0
+ ],
+ [
+  "/books/adam-genome",
+  5,
+  0
+ ],
+ [
+  "/books/faith-across-multiverse",
+  5,
+  2
  ],
  [
   "/categories/confession",
@@ -305,9 +300,19 @@
   0
  ],
  [
-  "/articles/agree-behe",
+  "/articles/age-rubios-earth",
   4,
-  3
+  2
+ ],
+ [
+  "/articles/cancer-evolution",
+  4,
+  4
+ ],
+ [
+  "/articles/compromise-on-creationism",
+  4,
+  4
  ],
  [
   "/articles/confessing-jesus-in-science",
@@ -320,19 +325,29 @@
   3
  ],
  [
+  "/articles/garvey-theology-garden",
+  4,
+  2
+ ],
+ [
   "/articles/irb-ethics-artificial-intellligence",
   4,
   3
  ],
  [
-  "/authors/dga",
+  "/articles/methodological-naturalism",
   4,
-  0
+  4
  ],
  [
-  "/books/adam-genome",
+  "/articles/response-to-madueme-scripture",
   4,
-  0
+  3
+ ],
+ [
+  "/articles/robert-canfield",
+  4,
+  4
  ],
  [
   "/categories/dialogue",
@@ -345,19 +360,9 @@
   1
  ],
  [
-  "/categories/theology",
-  4,
-  0
- ],
- [
   "/series/rtb",
   4,
   0
- ],
- [
-  "/swamidass-confident-fatih.pdf",
-  4,
-  3
  ],
  [
   "/_prince",
@@ -370,12 +375,7 @@
   0
  ],
  [
-  "/articles/cancer-evolution",
-  3,
-  3
- ],
- [
-  "/articles/compromise-on-creationism",
+  "/articles/cootsona-adam-eve",
   3,
   3
  ],
@@ -385,24 +385,9 @@
   1
  ],
  [
-  "/articles/harris-evolutionary-evil",
-  3,
-  3
- ],
- [
   "/articles/implicated-vs-incidental",
   3,
   1
- ],
- [
-  "/articles/miller-textbook-dover",
-  3,
-  1
- ],
- [
-  "/articles/robert-canfield",
-  3,
-  3
  ],
  [
   "/articles/rtb-thinking-about-evolution",
@@ -413,11 +398,6 @@
   "/articles/scientist-woman-picture",
   3,
   1
- ],
- [
-  "/articles/three-stories-on-adam",
-  3,
-  2
  ],
  [
   "/books/confident-pluralism",
@@ -455,9 +435,19 @@
   0
  ],
  [
+  "/categories/theology",
+  3,
+  0
+ ],
+ [
   "/series/ets-gae",
   3,
   1
+ ],
+ [
+  "/swamidass-confident-fatih.pdf",
+  3,
+  2
  ],
  [
   "/.netlify/functions/scrape",
@@ -475,22 +465,12 @@
   0
  ],
  [
-  "/about/authors-guide",
-  2,
-  0
- ],
- [
   "/articles/100-year-old-tree",
   2,
   2
  ],
  [
   "/articles/assess-rtb-model",
-  2,
-  2
- ],
- [
-  "/articles/cootsona-adam-eve",
   2,
   2
  ],
@@ -505,19 +485,14 @@
   1
  ],
  [
-  "/articles/garvey-generations",
-  2,
-  2
- ],
- [
   "/articles/greg-cootsona-intelligent-design",
   2,
   1
  ],
  [
-  "/articles/humility-of-our-scholars",
+  "/articles/harris-evolutionary-evil",
   2,
-  0
+  2
  ],
  [
   "/articles/imagination-game-aaas",
@@ -531,6 +506,11 @@
  ],
  [
   "/articles/kenneth-kemp-war",
+  2,
+  1
+ ],
+ [
+  "/articles/miller-textbook-dover",
   2,
   1
  ],
@@ -560,9 +540,9 @@
   0
  ],
  [
-  "/articles/scott-dover-science-hat",
+  "/articles/three-stories-on-adam",
   2,
-  1
+  2
  ],
  [
   "/articles/time-comes",
@@ -605,6 +585,16 @@
   0
  ],
  [
+  "/defense-tim-keller",
+  2,
+  1
+ ],
+ [
+  "/wlc-responds-ham",
+  2,
+  2
+ ],
+ [
   "/wp-admin/admin.php",
   2,
   0
@@ -630,12 +620,12 @@
   0
  ],
  [
-  "/articles/an-old-earther-on-peaceful-science",
+  "/articles/ancestral-shadow",
   1,
   1
  ],
  [
-  "/articles/ancestral-shadow",
+  "/articles/barbara-forrest-trojan-horse-at-dover",
   1,
   1
  ],
@@ -660,6 +650,11 @@
   0
  ],
  [
+  "/articles/garvey-generations",
+  1,
+  1
+ ],
+ [
   "/articles/history-of-science",
   1,
   0
@@ -668,6 +663,11 @@
   "/articles/human-origins-rtb-workshop",
   1,
   1
+ ],
+ [
+  "/articles/humility-of-our-scholars",
+  1,
+  0
  ],
  [
   "/articles/inazu-humility-tolerance-patience",
@@ -700,9 +700,24 @@
   1
  ],
  [
+  "/articles/paumore-musings-on-killmitzer",
+  1,
+  1
+ ],
+ [
+  "/articles/peace-be-with-you",
+  1,
+  1
+ ],
+ [
   "/articles/reworking-adam",
   1,
   0
+ ],
+ [
+  "/articles/scott-dover-science-hat",
+  1,
+  1
  ],
  [
   "/articles/wlc-genetic-challenge.md",
@@ -767,10 +782,10 @@
  [
   "/categories/society",
   1,
-  0
+  1
  ],
  [
-  "/img/design/green-hex.svg)",
+  "/css/main.css",
   1,
   1
  ],
@@ -780,17 +795,7 @@
   0
  ],
  [
-  "/prints/ets-averbeck-gae",
-  1,
-  1
- ],
- [
   "/why-i-went-public-evolution",
-  1,
-  1
- ],
- [
-  "/wlc-responds-ham",
   1,
   1
  ],

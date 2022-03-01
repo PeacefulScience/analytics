@@ -1,63 +1,68 @@
 [
  [
   "/articles/defense-tim-keller",
-  1583,
-  1411
+  1721,
+  1526
  ],
  [
   "/prints/evolution-adam-eve",
-  1283,
-  1187
+  1293,
+  1185
  ],
  [
   "/articles/why-i-went-public-evolution",
-  1068,
-  1001
+  1085,
+  1003
  ],
  [
   "/articles/daniel-ang-a-scientist-looks-at-the-resurrection",
-  457,
-  428
+  452,
+  419
  ],
  [
   "/articles/zachary-ardern-resurrection-and-reality",
-  325,
-  302
+  303,
+  281
  ],
  [
   "/articles/heiser-sacred-natural",
-  146,
-  131
- ],
- [
-  "/articles/biologos-stealth-deletes-an-article",
-  133,
-  123
+  151,
+  137
  ],
  [
   "/prints/ets-mccall-mte",
-  129,
-  98
+  140,
+  100
+ ],
+ [
+  "/articles/biologos-stealth-deletes-an-article",
+  115,
+  106
  ],
  [
   "/articles/science-civil-rights-and-the-doll-test",
-  86,
-  71
+  89,
+  76
  ],
  [
   "/prints/excerpts/science-evidence-resurrection",
-  65,
-  46
+  72,
+  53
+ ],
+ [
+  "/search",
+  51,
+  19
  ],
  [
   "/prints/mere-theistic-evolution",
-  63,
-  44
+  46,
+  30
  ],
  [
-  "/prints",
-  46,
-  37
+  "/articles/akaninyene-interview",
+  44,
+  35
  ],
  [
   "/articles/cancer-evolution",
@@ -65,94 +70,124 @@
   33
  ],
  [
-  "/books/genealogical-adam-eve",
-  40,
-  32
- ],
- [
-  "/prints/aar-miller-gae",
-  38,
-  35
- ],
- [
-  "/articles/wlc-responds-ham",
+  "/prints",
   37,
-  36
+  30
  ],
  [
-  "/search",
-  35,
-  18
+  "/books/genealogical-adam-eve",
+  36,
+  29
+ ],
+ [
+  "/prints/misreading-mlk",
+  36,
+  27
  ],
  [
   "/newsletter/pregnant-hitchhiking-monkey",
-  34,
-  25
+  35,
+  26
  ],
  [
   "/archive",
-  33,
-  23
+  34,
+  24
+ ],
+ [
+  "/articles/wlc-responds-ham",
+  34,
+  31
  ],
  [
   "/articles/robert-canfield",
   33,
-  29
+  28
+ ],
+ [
+  "/prints/aar-miller-gae",
+  32,
+  31
+ ],
+ [
+  "/authors/swamidass",
+  30,
+  25
+ ],
+ [
+  "/articles/evidence-and-evolution",
+  29,
+  27
  ],
  [
   "/articles/narnians-martians-neanderthals",
-  31,
-  29
- ],
- [
-  "/articles/akaninyene-interview",
-  27,
-  18
+  28,
+  25
  ],
  [
   "/articles/genealogical-rapprochement",
   26,
-  18
+  17
  ],
  [
-  "/authors/swamidass",
-  26,
-  21
+  "/newsletter",
+  25,
+  6
  ],
  [
   "/prints/aar-heiser-gae",
-  25,
-  23
+  22,
+  22
  ],
  [
-  "/articles/evidence-and-evolution",
-  24,
-  23
+  "/forum",
+  20,
+  15
  ],
  [
   "/articles",
-  20,
+  18,
   2
  ],
  [
   "/articles/wlc-genetic-challenge",
-  20,
-  16
+  18,
+  14
+ ],
+ [
+  "/articles/gregg-davidson-resurrection-dawkins",
+  16,
+  8
  ],
  [
   "/articles/wlc-schooled-evolution",
-  20,
-  12
+  16,
+  9
  ],
  [
-  "/forum",
-  19,
-  13
+  "/articles/three-stories-on-adam",
+  15,
+  5
  ],
  [
-  "/articles/ortlund-hills",
+  "/prints/ets-averbeck-gae",
+  15,
+  5
+ ],
+ [
+  "/prints/excerpts/maps-monsters",
+  15,
+  5
+ ],
+ [
+  "/articles/response-to-madueme-scripture",
   14,
-  6
+  2
+ ],
+ [
+  "/articles/sierra-nance-interview",
+  14,
+  10
  ],
  [
   "/contact",
@@ -160,44 +195,59 @@
   3
  ],
  [
-  "/articles/glenn-morton",
+  "/articles/cootsona-adam-eve",
   13,
-  11
- ],
- [
-  "/articles/quayshawn-spencer-race",
-  13,
-  12
- ],
- [
-  "/articles/biologos-uturn-adam-eve-position",
-  12,
-  9
- ],
- [
-  "/articles/rtb-thinking-about-evolution",
-  12,
   5
  ],
  [
-  "/articles/sierra-nance-interview",
+  "/articles/garden-path",
+  13,
+  3
+ ],
+ [
+  "/articles/glenn-morton",
+  12,
+  10
+ ],
+ [
+  "/articles/ortlund-augustine",
+  12,
+  3
+ ],
+ [
+  "/prints/excerpts/if-big-e-evolution-true",
+  12,
+  1
+ ],
+ [
+  "/articles/garvey-theology-garden",
   11,
-  11
+  2
  ],
  [
-  "/articles/gregg-davidson-resurrection-dawkins",
-  10,
-  8
+  "/articles/godawa-midrash",
+  11,
+  3
  ],
  [
-  "/prints/can-scientist-believe-resurrection-three-hypotheses",
-  10,
-  6
+  "/articles/ortlund-hills",
+  11,
+  5
  ],
  [
-  "/prints/excerpts/maps-monsters",
+  "/articles/todd-cade",
+  11,
+  1
+ ],
+ [
+  "/articles/quayshawn-spencer-race",
   10,
-  6
+  10
+ ],
+ [
+  "/articles/time-comes",
+  10,
+  1
  ],
  [
   "/about/authors-guide",
@@ -205,27 +255,72 @@
   7
  ],
  [
-  "/articles/three-stories-on-adam",
+  "/about/mission-and-values",
   9,
   4
  ],
  [
-  "/about/mission-and-values",
-  8,
-  3
+  "/authors/thomas-mccall",
+  9,
+  2
  ],
  [
-  "/articles/time-comes",
+  "/articles/imagination-game-aaas",
+  8,
+  0
+ ],
+ [
+  "/articles/implicated-vs-incidental",
+  8,
+  0
+ ],
+ [
+  "/articles/rubio-age-earth",
+  8,
+  0
+ ],
+ [
+  "/authors/jhilber",
+  8,
+  0
+ ],
+ [
+  "/prints/can-scientist-believe-resurrection-three-hypotheses",
+  8,
+  5
+ ],
+ [
+  "/prints/ets-meyer-mte",
+  8,
+  8
+ ],
+ [
+  "/prints/excerpts/flat-earths-fake-footnotes",
   8,
   1
  ],
  [
-  "/articles/confident-faith-science-1",
+  "/articles/100-year-old-tree",
   7,
-  0
+  5
+ ],
+ [
+  "/articles/biologos-uturn-adam-eve-position",
+  7,
+  6
+ ],
+ [
+  "/articles/rtb-thinking-about-evolution",
+  7,
+  4
  ],
  [
   "/authors/awalsh",
+  7,
+  1
+ ],
+ [
+  "/books/adam-genome",
   7,
   1
  ],
@@ -235,29 +330,19 @@
   6
  ],
  [
-  "/prints/excerpts/if-big-e-evolution-true",
-  7,
-  0
+  "/articles/barbara-forrest-trojan-horse-at-dover",
+  6,
+  6
  ],
  [
-  "/articles/godawa-midrash",
+  "/articles/bryan-butler-image-of-god",
   6,
-  5
- ],
- [
-  "/articles/response-to-madueme-scripture",
-  6,
-  3
+  1
  ],
  [
   "/articles/science-sbc-first-week",
   6,
-  2
- ],
- [
-  "/authors/suan-sonna",
-  6,
-  6
+  1
  ],
  [
   "/books",
@@ -270,24 +355,14 @@
   5
  ],
  [
-  "/articles/100-year-old-tree",
+  "/articles/bring-questions-of-ai",
   5,
-  3
+  5
  ],
  [
-  "/articles/bryan-butler-image-of-god",
+  "/articles/more-than-apes",
   5,
-  1
- ],
- [
-  "/articles/ortlund-augustine",
-  5,
-  4
- ],
- [
-  "/articles/sy-garte-resurrection",
-  5,
-  3
+  5
  ],
  [
   "/authors/jokamoto",
@@ -295,14 +370,19 @@
   5
  ],
  [
-  "/books/adam-genome",
+  "/authors/suan-sonna",
   5,
-  1
+  5
  ],
  [
-  "/categories/adam-eve",
+  "/books/lost-world-adam-eve",
   5,
-  3
+  0
+ ],
+ [
+  "/books/mapping-human-history",
+  5,
+  5
  ],
  [
   "/img/2017/04/swamidass-confident-fatih.pdf",
@@ -310,34 +390,19 @@
   5
  ],
  [
-  "/newsletter",
-  5,
-  3
- ],
- [
-  "/prints/excerpts/dying-and-living-of-the-light",
+  "/prints/biologos-uturn-adam-eve-position",
   5,
   4
  ],
  [
-  "/articles/barbara-forrest-trojan-horse-at-dover",
+  "/articles/age-rubios-earth",
   4,
-  4
+  1
  ],
  [
-  "/articles/bring-questions-of-ai",
+  "/articles/confident-faith-science-1",
   4,
-  4
- ],
- [
-  "/articles/cootsona-adam-eve",
-  4,
-  4
- ],
- [
-  "/articles/evolution-adam-eve",
-  4,
-  4
+  1
  ],
  [
   "/articles/miller-textbook-dover",
@@ -345,19 +410,9 @@
   4
  ],
  [
-  "/articles/more-than-apes",
+  "/books/lost-world-genesis-one",
   4,
-  4
- ],
- [
-  "/books/mapping-human-history",
-  4,
-  4
- ],
- [
-  "/books/quest-historical-adam",
-  4,
-  2
+  0
  ],
  [
   "/books/uncommon-ground",
@@ -372,25 +427,20 @@
  [
   "/prints/aar-cootsona-gae",
   4,
-  0
+  1
  ],
  [
-  "/prints/ets-averbeck-gae",
+  "/prints/ets-keathley-gae",
+  4,
+  2
+ ],
+ [
+  "/prints/excerpts/dying-and-living-of-the-light",
   4,
   3
  ],
  [
-  "/articles/agree-behe",
-  3,
-  2
- ],
- [
   "/articles/andy-walsh-the-resurrection",
-  3,
-  2
- ],
- [
-  "/articles/compromise-on-creationism",
   3,
   2
  ],
@@ -400,29 +450,19 @@
   3
  ],
  [
-  "/articles/coronavirus-beauty",
-  3,
-  1
- ],
- [
-  "/articles/garvey-theology-garden",
-  3,
-  2
- ],
- [
   "/articles/inquiry-into-common-ground",
   3,
   3
  ],
  [
-  "/articles/methodological-naturalism",
+  "/articles/isolation-tasmania",
   3,
   3
  ],
  [
-  "/articles/todd-cade",
+  "/articles/reviewing-adam-and-the-genome",
   3,
-  1
+  2
  ],
  [
   "/articles/tour-pascal",
@@ -433,6 +473,11 @@
   "/articles/why-we-talk-about-race",
   3,
   1
+ ],
+ [
+  "/authors/akaninyene-ruffin",
+  3,
+  2
  ],
  [
   "/authors/ian-hutchinson",
@@ -450,19 +495,44 @@
   1
  ],
  [
+  "/categories/adam-eve",
+  3,
+  2
+ ],
+ [
   "/categories/confession",
   3,
   0
  ],
  [
-  "/prints/biologos-uturn-adam-eve-position",
+  "/categories/dialogue",
+  3,
+  3
+ ],
+ [
+  "/categories/science",
   3,
   2
  ],
  [
-  "/prints/ets-keathley-gae",
+  "/categories/society",
+  3,
+  3
+ ],
+ [
+  "/newsletter/ets-mte",
+  3,
+  3
+ ],
+ [
+  "/newsletter/ets-responses",
   3,
   2
+ ],
+ [
+  "/newsletter/medicine-justice",
+  3,
+  3
  ],
  [
   "/prints/excerpts",
@@ -480,14 +550,14 @@
   1
  ],
  [
-  "/articles/confessing-scientist",
+  "/articles/compromise-on-creationism",
   2,
   1
  ],
  [
-  "/articles/covid-19-created-designed",
+  "/articles/confessing-scientist",
   2,
-  2
+  1
  ],
  [
   "/articles/digital-dialogue",
@@ -495,7 +565,12 @@
   2
  ],
  [
-  "/articles/garden-path",
+  "/articles/evolution-adam-eve",
+  2,
+  2
+ ],
+ [
+  "/articles/garvey-generations",
   2,
   2
  ],
@@ -505,29 +580,34 @@
   2
  ],
  [
-  "/articles/history-of-science",
-  2,
-  1
- ],
- [
   "/articles/human-origins-rtb-workshop",
   2,
   2
  ],
  [
-  "/articles/isolation-tasmania",
+  "/articles/irb-ethics-artificial-intellligence",
   2,
   2
  ],
  [
-  "/articles/moreland-minds-soul",
+  "/articles/methodological-naturalism",
   2,
   2
  ],
  [
-  "/articles/reviewing-adam-and-the-genome",
+  "/articles/new-old-ancient-conversation",
   2,
   1
+ ],
+ [
+  "/articles/reworking-adam",
+  2,
+  2
+ ],
+ [
+  "/articles/sy-garte-resurrection",
+  2,
+  2
  ],
  [
   "/articles/tour-friendship-across-disagreements",
@@ -535,12 +615,22 @@
   1
  ],
  [
-  "/authors/akaninyene-ruffin",
+  "/authors/dga",
+  2,
+  2
+ ],
+ [
+  "/authors/dkwon",
+  2,
+  2
+ ],
+ [
+  "/authors/gmurphy",
   2,
   1
  ],
  [
-  "/authors/dkwon",
+  "/authors/jgarvey",
   2,
   2
  ],
@@ -560,7 +650,22 @@
   2
  ],
  [
+  "/books/faith-across-multiverse",
+  2,
+  1
+ ],
+ [
   "/books/mere-science-faith",
+  2,
+  0
+ ],
+ [
+  "/books/quest-historical-adam",
+  2,
+  0
+ ],
+ [
+  "/books/theistic-evolution",
   2,
   0
  ],
@@ -570,24 +675,9 @@
   1
  ],
  [
-  "/categories/history",
-  2,
-  0
- ],
- [
-  "/categories/science",
-  2,
-  2
- ],
- [
-  "/categories/society",
-  2,
-  2
- ],
- [
   "/categories/theology",
   2,
-  1
+  2
  ],
  [
   "/genealogical",
@@ -595,39 +685,9 @@
   2
  ],
  [
-  "/newsletter/ets-mte",
+  "/swamidass-confident-fatih.pdf",
   2,
   2
- ],
- [
-  "/prints/aar-metzger-gae",
-  2,
-  1
- ],
- [
-  "/prints/excerpts/flat-earths-fake-footnotes",
-  2,
-  1
- ],
- [
-  "/prints/excerpts/power-of-babelfish",
-  2,
-  2
- ],
- [
-  "/prints/may-scientists-care-adam-eve",
-  2,
-  2
- ],
- [
-  "/prints/misreading-mlk",
-  2,
-  2
- ],
- [
-  "/subscribe",
-  2,
-  0
  ],
  [
   "/wrong",
@@ -645,9 +705,9 @@
   1
  ],
  [
-  "/articles/age-rubios-earth",
+  "/articles/agree-behe",
   1,
-  1
+  0
  ],
  [
   "/articles/art-and-ancestry",
@@ -665,7 +725,17 @@
   1
  ],
  [
+  "/articles/coronavirus-beauty",
+  1,
+  0
+ ],
+ [
   "/articles/correction-policy",
+  1,
+  1
+ ],
+ [
+  "/articles/covid-19-created-designed",
   1,
   1
  ],
@@ -675,12 +745,12 @@
   1
  ],
  [
-  "/articles/fair-hearing-behe",
+  "/articles/dover-behe",
   1,
   1
  ],
  [
-  "/articles/garvey-generations",
+  "/articles/fair-hearing-behe",
   1,
   1
  ],
@@ -695,6 +765,11 @@
   0
  ],
  [
+  "/articles/history-of-science",
+  1,
+  1
+ ],
+ [
   "/articles/humility-of-scholars",
   1,
   0
@@ -703,16 +778,6 @@
   "/articles/humility-scholars",
   1,
   0
- ],
- [
-  "/articles/irb-ethics-artificial-intellligence",
-  1,
-  1
- ],
- [
-  "/articles/join-the-conversation",
-  1,
-  1
  ],
  [
   "/articles/lutherans-artistic-tree",
@@ -725,9 +790,19 @@
   1
  ],
  [
+  "/articles/moreland-minds-soul",
+  1,
+  1
+ ],
+ [
   "/articles/much-to-discuss",
   1,
   1
+ ],
+ [
+  "/articles/murphys-truthful-tree",
+  1,
+  0
  ],
  [
   "/articles/my-response-to-the-asas-apology",
@@ -735,17 +810,7 @@
   1
  ],
  [
-  "/articles/new-old-ancient-conversation",
-  1,
-  1
- ],
- [
   "/articles/one-flesh-joint-intentionality",
-  1,
-  1
- ],
- [
-  "/articles/peace-be-with-you",
   1,
   1
  ],
@@ -758,16 +823,6 @@
   "/articles/repairing-the-fracture",
   1,
   1
- ],
- [
-  "/articles/reworking-adam",
-  1,
-  1
- ],
- [
-  "/articles/rubio-age-earth",
-  1,
-  0
  ],
  [
   "/articles/rutherford-racist",
@@ -787,17 +842,12 @@
  [
   "/articles/thinking-about-evolution-and-progressive-creation",
   1,
-  1
+  0
  ],
  [
   "/articles/venus-phosphine",
   1,
   0
- ],
- [
-  "/articles/written-of-interviews-gae",
-  1,
-  1
  ],
  [
   "/articles/wrong-on-monophyletic",
@@ -830,27 +880,7 @@
   1
  ],
  [
-  "/authors/dga",
-  1,
-  1
- ],
- [
-  "/authors/dpeterson",
-  1,
-  1
- ],
- [
-  "/authors/gmurphy",
-  1,
-  1
- ],
- [
   "/authors/gortlund",
-  1,
-  1
- ],
- [
-  "/authors/jgarvey",
   1,
   1
  ],
@@ -870,11 +900,6 @@
   0
  ],
  [
-  "/authors/michael-murray",
-  1,
-  1
- ],
- [
   "/authors/primmer",
   1,
   0
@@ -885,7 +910,7 @@
   0
  ],
  [
-  "/authors/thomas-mccall",
+  "/authors/scot-mcknight",
   1,
   1
  ],
@@ -920,11 +945,6 @@
   1
  ],
  [
-  "/books/faith-across-multiverse",
-  1,
-  1
- ],
- [
   "/books/grand-canyon-monument-ancient-earth",
   1,
   0
@@ -940,24 +960,9 @@
   1
  ],
  [
-  "/books/theistic-evolution",
-  1,
-  0
- ],
- [
   "/books/walking-blind",
   1,
   0
- ],
- [
-  "/categories/ancestry",
-  1,
-  1
- ],
- [
-  "/categories/dialogue",
-  1,
-  1
  ],
  [
   "/categories/resurrection",
@@ -975,14 +980,9 @@
   1
  ],
  [
-  "/is-jesus-greater.pdf",
+  "/newsletter/flat-earths",
   1,
   0
- ],
- [
-  "/newsletter/ets-responses",
-  1,
-  1
  ],
  [
   "/newsletter/forgetting-mlk",
@@ -995,17 +995,17 @@
   1
  ],
  [
-  "/prints/adam-eve-evolution",
-  1,
-  0
- ],
- [
-  "/prints/deleted",
+  "/prints/ets-wlc-gae",
   1,
   1
  ],
  [
   "/prints/excerpts/kenneth-kemp-war",
+  1,
+  1
+ ],
+ [
+  "/prints/excerpts/power-of-babelfish",
   1,
   1
  ],
@@ -1025,6 +1025,11 @@
   1
  ],
  [
+  "/prints/may-scientists-care-adam-eve",
+  1,
+  1
+ ],
+ [
   "/series/ets-gae",
   1,
   1
@@ -1035,14 +1040,9 @@
   0
  ],
  [
-  "/web",
+  "/subscribe",
   1,
   0
- ],
- [
-  "/web/foxnews.com/faith-values/christians-point-to-breakthroughs-in-genetics-to-show-adam-and-eve-are-not-incompatible-with-evolution",
-  1,
-  1
  ],
  [
   "/why-i-went-public-evolution",
